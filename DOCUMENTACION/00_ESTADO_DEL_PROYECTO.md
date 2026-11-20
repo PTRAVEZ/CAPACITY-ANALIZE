@@ -86,3 +86,9 @@
 - **Los 4 bloques del LOOP v2.1 están completos.** Se generó `16_DOCUMENTO_DEFINICION_REQUERIMIENTOS.md` (23 secciones; RF-01 a RF-24, RNF-01 a RNF-12, matriz de trazabilidad y plan por fases).
 - Demostrador: se programaron IND-17 (productividad), IND-18 (estacionalidad), IND-19 (dispersión) e IND-20 (Pareto de causas); 10 pruebas en verde.
 - **Fase 0 (demostrador metodológico) completada.** Pendientes para pasar a la fase 1: PEN-004 a PEN-009.
+
+## Actualización 2026-11-20 — Kit de arranque de la fase 1
+
+- Se agregó `FASE1_ARRANQUE/`: plantilla Excel de carga de las 14 fuentes, formulario de estudio de tiempos, validador de carga (esquema S-01 a S-11 y reglas V-01 a V-16), guía para jefaturas, borradores de correos para PEN-007/008/009 y propuesta de estatuto del Comité (PEN-004).
+- Los correos son **borradores**: no se ha enviado nada.
+- Próximo paso: presentación ejecutiva para el patrocinador.
