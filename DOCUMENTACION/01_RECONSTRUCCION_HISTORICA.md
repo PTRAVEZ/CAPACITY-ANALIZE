@@ -1,5 +1,7 @@
 # 01. Reconstrucción histórica
 
+> **Actualización de alcance (2026-11-20):** el diagnóstico original documentó el estado observado antes de que el usuario compartiera el paquete `DATOS/`. En este ciclo se encontró allí un kit de prototipo y datos sintéticos. También se incorporó el LOOP v2 y las confirmaciones del usuario: producto de capacidad humana en banca privada, los síntomas A/B/C coexisten y los datos del kit son sintéticos. Véase el registro vigente en `11`. El adjunto “Pasted text #1” no pudo leerse desde la ruta disponible.
+
 **Estado:** EN ANÁLISIS
 **Fecha de revisión:** 2026-11-20
 

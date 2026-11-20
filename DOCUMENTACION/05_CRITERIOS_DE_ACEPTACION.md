@@ -1,14 +1,16 @@
 # 05. Criterios de aceptación
 
+> **Actualización (2026-11-20):** el kit contiene 15 criterios iniciales en `DATOS/CAPACITY-ANALIZE/docs/CRITERIOS_ACEPTACION.md`. Se consideran propuestos y pendientes de aprobación; no son criterios de aceptación vigentes del producto. El LOOP v2 pide asignar ID `CA-`, métrica, método de verificación, meta y responsable, o dejar explícitamente el dato pendiente.
+
 **Estado:** PENDIENTE DE DEFINICIÓN para el producto; criterios de esta fase documentados abajo.
 
 ## Criterios de aceptación del ciclo de descubrimiento
 
 | ID | Criterio | Resultado actual |
 |---|---|---|
-| CA-D01 | El propósito se respalda con evidencia y se separa de las hipótesis. | Cumplido: el propósito de negocio queda explícitamente pendiente. |
+| CA-D01 | El propósito se respalda con evidencia y se separa de las hipótesis. | Cumplido: el dominio y los síntomas generales están confirmados; proceso y reglas detallados siguen pendientes. |
 | CA-D02 | El estado inicial del repositorio y las limitaciones de acceso quedan registradas. | Cumplido en `01` y `02`. |
-| CA-D03 | No se implementan funcionalidades de negocio mientras falte una definición indispensable. | Cumplido: no se agregó código de producto. |
+| CA-D03 | No se implementan funcionalidades de negocio mientras falte una definición indispensable. | Cumplido en este ciclo: no se añadieron funcionalidades al prototipo existente. |
 | CA-D04 | Se enumeran las preguntas mínimas para poder especificar y aceptar la funcionalidad central. | Cumplido en `03`. |
 | CA-D05 | La documentación no declara pruebas ejecutadas cuando no existen. | Cumplido en `10`. |
 

@@ -1,10 +1,12 @@
 # 06. Arquitectura
 
+> **Actualización (2026-11-20):** hay un prototipo de interfaz Streamlit bajo `DATOS/CAPACITY-ANALIZE/` y dependencias declaradas en `requirements.txt`. Eso describe artefactos existentes, pero no una arquitectura de producción aprobada. El LOOP v2 aplaza la selección tecnológica hasta conocer las restricciones del Bloque 4; se preserva el prototipo sin extenderlo por ahora.
+
 **Estado:** PENDIENTE DE DEFINICIÓN
 
 ## Decisión actual
 
-No se selecciona una arquitectura de aplicación, lenguaje, framework, almacenamiento, interfaz o plataforma. La falta de propósito, entradas y forma de uso impide comparar alternativas de manera responsable.
+No se aprueba una arquitectura de producción, lenguaje, framework, almacenamiento, interfaz o plataforma. Existe un prototipo Streamlit en el kit; es un artefacto existente y no la selección de arquitectura del producto. El propósito general está confirmado, pero alcance detallado, operación y restricciones siguen pendientes.
 
 ## Información necesaria para el diseño
 

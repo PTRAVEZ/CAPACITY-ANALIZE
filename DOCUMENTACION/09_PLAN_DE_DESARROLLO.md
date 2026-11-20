@@ -1,5 +1,7 @@
 # 09. Plan de desarrollo
 
+> **Actualización de gobierno (2026-11-20):** el orden de definición vigente es el del LOOP v2: Bloque 1 (proceso, decisiones y usuarios), Bloque 2 (fuentes/datos), Bloque 3 (indicadores/fórmulas) y Bloque 4 (privacidad, accesos, operación y éxito). La implementación por fases descrita debajo queda condicionada al cierre de esas definiciones; el código y los archivos del kit no autorizan saltarse las puertas ni suponen que la tecnología esté aprobada. Para el ciclo actual, el paso activo es Bloque 1, Tema 1.1.
+
 **Estado:** EN ANÁLISIS; la planificación de implementación depende de la definición funcional.
 
 ## Entregas y puertas

@@ -1,5 +1,7 @@
 # 08. Decisiones técnicas
 
+> **Actualización (2026-11-20):** la decisión de no implementar lógica de negocio antes de conocer el producto se refina: el propósito y alcance general ya se confirmaron, pero los requerimientos detallados, reglas y restricciones operativas no. No se desarrollarán nuevos módulos de negocio hasta completar las puertas del LOOP v2. El código Streamlit y las fórmulas existentes se conservan como prototipo no aprobado, sin convertirlos en una decisión de tecnología o método.
+
 **Estado:** EN ANÁLISIS
 
 ## D-001 — No implementar lógica de negocio antes de confirmar el propósito

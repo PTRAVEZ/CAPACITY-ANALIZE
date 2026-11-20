@@ -1,5 +1,7 @@
 # 02. Auditoría técnica del repositorio
 
+> **Actualización de auditoría (2026-11-20):** el inventario debajo describe el repositorio en la primera revisión y no incluye el paquete `DATOS/`, que el usuario compartió después y que actualmente está sin seguimiento por Git. El paquete contiene un prototipo Streamlit, funciones Python parciales, un archivo de pruebas, 15 CSV, un libro Excel y documentación inicial. No se modificaron sus datos ni su código en este ciclo. El inventario actualizado está en `11` y la política para interpretar sus fórmulas como propuestas está en `04` y `08`.
+
 **Estado:** EN ANÁLISIS
 
 **Fecha:** 2026-11-20
