@@ -1,0 +1,29 @@
+proceso_id,nombre_proceso,causa_principal,cantidad_reprocesos,horas_reproceso,fte_potencialmente_liberable
+P-NEG,Negocios y colocación en agencia,Información de ingresos no verificable,1663.0,615.75,0.3421
+P-SER,Servicios al cliente en agencia,Documentación incompleta,3000.0,608.05,0.3378
+P-SER,Servicios al cliente en agencia,Firma no coincide,2902.0,577.2833,0.3207
+P-NEG,Negocios y colocación en agencia,Documentación incompleta,1551.0,553.75,0.3076
+P-NEG,Negocios y colocación en agencia,Error en la simulación,1518.0,549.5,0.3053
+P-SER,Servicios al cliente en agencia,Información inconsistente del cliente,2875.0,539.9333,0.3
+P-CTA,Gestión de cuentas y cumplimiento,Documentación incompleta desde agencia,3264.0,477.8833,0.2655
+P-CTA,Gestión de cuentas y cumplimiento,Error en ficha del cliente,3769.0,467.4,0.2597
+P-CCT,Atención telefónica y digital,Información incorrecta al cliente,4736.0,413.8,0.2299
+P-OCR,Operaciones de crédito,Garantía sin inscripción,1352.0,399.2,0.2218
+P-TAR,Tarjetas y reclamos,Evidencia insuficiente,1321.0,307.95,0.1711
+P-CTA,Gestión de cuentas y cumplimiento,Oficio ilegible o incompleto,3372.0,253.3833,0.1408
+P-TAR,Tarjetas y reclamos,Plazo de marca vencido,985.0,241.0,0.1339
+P-CAJ,Atención en caja,Reverso por cuenta errada,7343.0,228.6067,0.127
+P-PAG,Pagos y transferencias,Rechazo del sistema SPI,2156.0,225.5667,0.1253
+P-PAG,Pagos y transferencias,Datos del beneficiario errados,2323.0,216.2667,0.1201
+P-OCR,Operaciones de crédito,Error en datos de la operación,756.0,215.9,0.1199
+P-CAJ,Atención en caja,Error de digitación,6581.0,212.15,0.1179
+P-CAJ,Atención en caja,Billete falso o en mal estado,6242.0,209.0483,0.1161
+P-TAR,Tarjetas y reclamos,Error en registro del reclamo,849.0,209.0333,0.1161
+P-OCR,Operaciones de crédito,Expediente incompleto desde agencia,879.0,196.5333,0.1092
+P-PAG,Pagos y transferencias,Archivo de carga con formato inválido,1894.0,163.8,0.091
+P-CCT,Atención telefónica y digital,Caso mal tipificado,1825.0,163.3667,0.0908
+P-CAM,Cámara de compensación y valores,Imagen de cheque ilegible,2734.0,42.8667,0.0238
+P-CAM,Cámara de compensación y valores,Error de cuadre,2031.0,40.9917,0.0228
+P-GER,Dirección y gestión de gerencia,Información de entrada errónea,89.0,29.6667,0.0165
+P-GAG,Gestión y control de agencia,Error de registro,404.0,24.5917,0.0137
+P-GAG,Gestión y control de agencia,Diferencia en arqueo,333.0,23.4333,0.013

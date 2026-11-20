@@ -1,0 +1,6 @@
+escenario_id,nombre_escenario,fte_requerido,fte_requerido_dotacion,fte_contractual_corte,brecha_dotacion_fte
+ACTUAL,Situación actual (período base),260.651,292.6333,295.0,2.3667
+ESC-AUT,Automatización back office,266.8228,299.581,295.0,-4.581
+ESC-BASE,Base 2027,271.077,304.3386,295.0,-9.3386
+ESC-CRE,Crecimiento comercial,279.1075,313.2849,295.0,-18.2849
+ESC-DIG,Migración digital,259.148,290.8389,295.0,4.1611

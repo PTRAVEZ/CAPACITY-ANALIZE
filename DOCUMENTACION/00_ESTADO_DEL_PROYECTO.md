@@ -51,3 +51,10 @@
 2. Completar el Tema 1.1 describiendo el método actual, esfuerzo y fallas/impactos; registrar propuesta y esperar validación.
 3. Al cerrar 1.1, seguir el orden del Bloque 1 y conservar trazabilidad entre decisiones, fuentes, datos, reglas, indicadores y criterios.
 4. No iniciar implementación nueva hasta satisfacer las puertas funcionales y técnicas correspondientes.
+
+## Actualización 2026-11-20 — Integración del Anexo v2.1 y Bloque 1
+
+- Se incorporó el paquete del escenario **Banco Volcán Azul S.A.** en `DATOS/BANCO-VOLCAN-AZUL/` (generador de datos, motor de cálculo, pruebas y documentación del Anexo v2.1).
+- `PEN-002` y `PEN-003` quedan resueltos con propuestas DEC-004 a DEC-006 (ver `12_BLOQUE1_PROCESO_DECISION_USUARIOS.md`).
+- El usuario autorizó que el consultor proponga las respuestas, porque el banco es ficticio. Bloque 1 (temas 1.1 a 1.9) queda **completo en estado Propuesto**, pendiente de validación del usuario. `PEN-001` resuelto → DEC-007. Nuevo pendiente: `PEN-004` (Comité de Capacidad).
+- Próximo paso: Bloque 2 (Datos y fuentes), usando las 14 fuentes de `DATOS/BANCO-VOLCAN-AZUL/data/input/`.

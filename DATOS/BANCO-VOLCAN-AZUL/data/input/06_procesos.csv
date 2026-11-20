@@ -1,0 +1,13 @@
+proceso_id,nombre_proceso,macroproceso,cargo_dueno_proceso,grupo_estacional
+P-CAJ,Atención en caja,Canales presenciales,CAR-JAG,caja
+P-SER,Servicios al cliente en agencia,Canales presenciales,CAR-JAG,servicios
+P-NEG,Negocios y colocación en agencia,Canales presenciales,CAR-JAG,negocios
+P-GAG,Gestión y control de agencia,Canales presenciales,CAR-GER,gestion
+P-GER,Dirección y gestión de gerencia,Gestión,CAR-GER,gestion
+P-PAG,Pagos y transferencias,Operaciones centralizadas,CAR-JDP,pagos
+P-CTA,Gestión de cuentas y cumplimiento,Operaciones centralizadas,CAR-JDP,cuentas
+P-OCR,Operaciones de crédito,Operaciones centralizadas,CAR-JDP,credito
+P-TAR,Tarjetas y reclamos,Operaciones centralizadas,CAR-JDP,tarjetas
+P-CAM,Cámara de compensación y valores,Operaciones centralizadas,CAR-JDP,camara
+P-JDP,Jefatura de departamento,Gestión,CAR-GER,gestion
+P-CCT,Atención telefónica y digital,Canales remotos,CAR-GER,contact

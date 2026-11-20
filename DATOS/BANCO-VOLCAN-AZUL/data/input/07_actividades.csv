@@ -1,0 +1,82 @@
+actividad_id,proceso_id,nombre_actividad,cargo_id,unidad_trabajo,tiempo_estandar_min,tiempo_reproceso_min,metodo_medicion,fecha_medicion,ambito,tipo_actividad
+ACT-001,P-CAJ,Depósito en efectivo o cheque,CAR-CAJ,transacción,2.1,1.5,Estudio de tiempos,2025-05-05,AGENCIA,Core
+ACT-002,P-CAJ,Retiro en ventanilla,CAR-CAJ,transacción,2.3,1.5,Estudio de tiempos,2025-09-11,AGENCIA,Core
+ACT-003,P-CAJ,Pago de servicios básicos y recaudaciones,CAR-CAJ,transacción,1.8,1.2,Estudio de tiempos,2025-08-14,AGENCIA,Core
+ACT-004,P-CAJ,Pago de impuestos SRI y matriculación vehicular,CAR-CAJ,transacción,2.8,2.0,Estudio de tiempos,2025-03-06,AGENCIA,Core
+ACT-005,P-CAJ,Cobro de cheques,CAR-CAJ,transacción,3.2,2.0,Estudio de tiempos,2025-04-04,AGENCIA,Core
+ACT-006,P-CAJ,Pago del Bono de Desarrollo Humano,CAR-CAJ,transacción,2.5,1.5,Estimación experta,2025-05-23,AGENCIA,Core
+ACT-007,P-CAJ,Cuadre y cierre de caja diario,CAR-CAJ,cierre,25.0,15.0,Estimación experta,2025-08-12,AGENCIA,Soporte
+ACT-010,P-SER,Apertura de cuenta de ahorros,CAR-ASV,cuenta,32.0,20.0,Estudio de tiempos,2025-03-26,AGENCIA,Core
+ACT-011,P-SER,Apertura de cuenta corriente,CAR-ASV,cuenta,48.0,25.0,Estudio de tiempos,2025-08-04,AGENCIA,Core
+ACT-012,P-SER,Entrega y activación de tarjeta de débito,CAR-ASV,tarjeta,12.0,8.0,Estudio de tiempos,2025-04-07,AGENCIA,Core
+ACT-013,P-SER,Actualización de datos del cliente (KYC),CAR-ASV,actualización,15.0,10.0,Estudio de tiempos,2025-06-03,AGENCIA,Core
+ACT-014,P-SER,Emisión de certificados y estados de cuenta,CAR-ASV,certificado,6.0,4.0,Registro de sistema,2025-05-01,AGENCIA,Core
+ACT-015,P-SER,Registro de reclamos en agencia,CAR-ASV,reclamo,18.0,10.0,Estimación experta,2025-09-09,AGENCIA,Core
+ACT-016,P-SER,"Bloqueo, desbloqueo y reseteo de claves de banca digital",CAR-ASV,solicitud,9.0,5.0,Registro de sistema,2025-09-18,AGENCIA,Core
+ACT-017,P-SER,Atención de quejas recibidas por redes sociales,CAR-ASV,caso,0.0,0.0,Pendiente de medición,,AGENCIA,Core
+ACT-020,P-NEG,Asesoría y solicitud de crédito de consumo,CAR-ANG,solicitud,55.0,25.0,Estudio de tiempos,2025-06-27,AGENCIA,Core
+ACT-021,P-NEG,Solicitud de microcrédito con evaluación en campo,CAR-ANG,solicitud,95.0,30.0,Estimación experta,2025-06-23,AGENCIA,Core
+ACT-022,P-NEG,Apertura de depósito a plazo fijo,CAR-ANG,póliza,35.0,15.0,Estudio de tiempos,2025-08-28,AGENCIA,Core
+ACT-023,P-NEG,Venta de tarjeta de crédito,CAR-ANG,solicitud,28.0,15.0,Estudio de tiempos,2025-05-04,AGENCIA,Core
+ACT-024,P-NEG,Visita comercial a cliente,CAR-ANG,visita,80.0,0.0,Estimación experta,2025-04-01,AGENCIA,Core
+ACT-025,P-NEG,Seguimiento de cartera y cobranza temprana,CAR-ANG,gestión,12.0,0.0,Registro de sistema,2025-05-15,AGENCIA,Core
+ACT-030,P-GAG,"Supervisión, coaching y control del equipo",CAR-JAG,hora,60.0,0.0,Bitácora de gestión,2025-06-13,AGENCIA,Gestión
+ACT-031,P-GAG,"Comités, reportes y gestión comercial de agencia",CAR-JAG,hora,60.0,0.0,Bitácora de gestión,2025-05-16,AGENCIA,Gestión
+ACT-032,P-GAG,Atención de casos escalados de clientes,CAR-JAG,caso,20.0,0.0,Estimación experta,2025-04-18,AGENCIA,Gestión
+ACT-033,P-GAG,Aprobaciones y autorizaciones operativas,CAR-SOP,autorización,4.0,0.0,Registro de sistema,2025-06-12,AGENCIA,Soporte
+ACT-034,P-GAG,"Arqueo, control de bóveda y abastecimiento de efectivo",CAR-SOP,arqueo,45.0,20.0,Estudio de tiempos,2025-05-18,AGENCIA,Soporte
+ACT-035,P-GAG,Apoyo en caja en horas pico,CAR-SOP,transacción,2.3,1.5,Estudio de tiempos,2025-03-10,AGENCIA,Core
+ACT-036,P-GAG,Control operativo y cuadre de agencia,CAR-SOP,hora,60.0,0.0,Bitácora de gestión,2025-05-10,AGENCIA,Soporte
+ACT-040,P-GER,"Dirección, planificación y seguimiento de indicadores",CAR-GER,hora,60.0,0.0,Bitácora de gestión,2025-08-06,GERENCIA,Gestión
+ACT-041,P-GER,Comités institucionales y reportes a Vicepresidencia,CAR-GER,hora,60.0,0.0,Bitácora de gestión,2025-08-19,GERENCIA,Gestión
+ACT-042,P-GER,Gestión administrativa y agenda de gerencia,CAR-AGE,hora,60.0,0.0,Bitácora de gestión,2025-03-09,GERENCIA,Soporte
+ACT-043,P-GER,Consolidación de reportes de gestión,CAR-AGE,reporte,45.0,20.0,Estimación experta,2025-06-01,GERENCIA,Soporte
+ACT-050,P-PAG,Revisión manual de transferencias interbancarias SPI observadas,CAR-ANO,transferencia,3.5,3.0,Registro de sistema,2025-06-11,DEP-PAG,Core
+ACT-051,P-PAG,Gestión de transferencias rechazadas y devoluciones,CAR-ANO,caso,14.0,8.0,Estudio de tiempos,2025-06-23,DEP-PAG,Core
+ACT-052,P-PAG,Procesamiento de pagos masivos a proveedores (cash management),CAR-ANO,lote,28.0,15.0,Estudio de tiempos,2025-08-27,DEP-PAG,Core
+ACT-053,P-PAG,Procesamiento de pagos de nómina de empresas,CAR-ANO,lote,32.0,15.0,Estudio de tiempos,2025-07-15,DEP-PAG,Core
+ACT-054,P-PAG,Conciliación diaria SPI y cuentas puente,CAR-ASR,conciliación,95.0,40.0,Estimación experta,2025-03-10,DEP-PAG,Core
+ACT-055,P-PAG,Atención de requerimientos de agencias y clientes corporativos,CAR-AST,requerimiento,10.0,0.0,Registro de sistema,2025-07-14,DEP-PAG,Soporte
+ACT-056,P-PAG,Archivo y digitalización de soportes,CAR-AST,soporte,3.0,0.0,Estudio de tiempos,2025-04-11,DEP-PAG,Soporte
+ACT-057,P-PAG,Control de calidad y cuadre de transferencias,CAR-ASR,hora,60.0,0.0,Bitácora de gestión,2025-06-26,DEP-PAG,Soporte
+ACT-060,P-CTA,Verificación documental de aperturas de cuenta,CAR-ANO,expediente,14.0,10.0,Estudio de tiempos,2025-03-17,DEP-CTA,Core
+ACT-061,P-CTA,Validación en listas restrictivas y debida diligencia,CAR-ANO,consulta,7.0,4.0,Registro de sistema,2025-04-09,DEP-CTA,Core
+ACT-062,P-CTA,Procesamiento de embargos y retenciones judiciales,CAR-ANO,oficio,24.0,15.0,Estudio de tiempos,2025-06-03,DEP-CTA,Core
+ACT-063,P-CTA,Respuesta a requerimientos de organismos de control y autoridades,CAR-ASR,requerimiento,50.0,25.0,Estimación experta,2025-09-05,DEP-CTA,Core
+ACT-064,P-CTA,Cierre y cancelación de cuentas,CAR-ANO,cuenta,18.0,10.0,Estudio de tiempos,2025-03-24,DEP-CTA,Core
+ACT-065,P-CTA,Gestión de cuentas inactivas,CAR-ANO,cuenta,6.0,0.0,Registro de sistema,2025-04-20,DEP-CTA,Core
+ACT-066,P-CTA,Archivo y custodia de expedientes,CAR-AST,expediente,4.0,0.0,Estudio de tiempos,2025-05-20,DEP-CTA,Soporte
+ACT-067,P-CTA,Ingreso de actualizaciones masivas,CAR-AST,registro,2.0,1.5,Registro de sistema,2025-08-23,DEP-CTA,Soporte
+ACT-068,P-CTA,Revisión de calidad de expedientes (muestreo),CAR-ASR,expediente,10.0,0.0,Estimación experta,2025-03-17,DEP-CTA,Soporte
+ACT-070,P-OCR,Revisión y validación de expedientes de crédito,CAR-ANO,expediente,38.0,20.0,Estudio de tiempos,2025-08-15,DEP-OCR,Core
+ACT-071,P-OCR,Desembolso de operaciones de crédito,CAR-ANO,operación,18.0,10.0,Estudio de tiempos,2025-04-20,DEP-OCR,Core
+ACT-072,P-OCR,Constitución y registro de garantías (hipotecas y prendas),CAR-ANO,garantía,65.0,30.0,Estimación experta,2025-04-29,DEP-OCR,Core
+ACT-073,P-OCR,Cancelación de créditos y levantamiento de garantías,CAR-ANO,operación,35.0,15.0,Estudio de tiempos,2025-06-01,DEP-OCR,Core
+ACT-074,P-OCR,Registro de novedades y reestructuraciones,CAR-ANO,novedad,22.0,12.0,Estudio de tiempos,2025-03-17,DEP-OCR,Core
+ACT-075,P-OCR,Control de calidad y conciliación de cartera,CAR-ASR,hora,60.0,0.0,Bitácora de gestión,2025-08-31,DEP-OCR,Soporte
+ACT-076,P-OCR,Seguimiento de documentación pendiente con agencias,CAR-ASR,caso,15.0,0.0,Estimación experta,2025-07-31,DEP-OCR,Soporte
+ACT-077,P-OCR,Archivo de pagarés y expedientes,CAR-AST,expediente,5.0,0.0,Estudio de tiempos,2025-06-30,DEP-OCR,Soporte
+ACT-080,P-TAR,Gestión de contracargos con marcas,CAR-ANO,caso,32.0,20.0,Estudio de tiempos,2025-03-08,DEP-TAR,Core
+ACT-081,P-TAR,Resolución de reclamos de tarjetas,CAR-ANO,reclamo,26.0,15.0,Estudio de tiempos,2025-06-04,DEP-TAR,Core
+ACT-082,P-TAR,Emisión y reposición de tarjetas,CAR-AST,tarjeta,6.0,4.0,Registro de sistema,2025-03-13,DEP-TAR,Core
+ACT-083,P-TAR,Conciliación con procesador y marcas,CAR-ASR,hora,60.0,0.0,Bitácora de gestión,2025-03-26,DEP-TAR,Soporte
+ACT-084,P-TAR,Análisis de alertas de posible fraude,CAR-ANO,alerta,9.0,0.0,Registro de sistema,2025-09-09,DEP-TAR,Core
+ACT-085,P-TAR,Distribución de tarjetas a agencias,CAR-AST,envío,15.0,0.0,Estimación experta,2025-07-10,DEP-TAR,Soporte
+ACT-086,P-TAR,Respuesta a reclamos en segunda instancia (organismo de control),CAR-ASR,caso,70.0,30.0,Estimación experta,2025-08-14,DEP-TAR,Core
+ACT-090,P-CAM,Procesamiento de cheques en cámara de compensación,CAR-ANO,cheque,1.4,1.0,Registro de sistema,2025-07-13,DEP-CAM,Core
+ACT-091,P-CAM,Gestión de cheques devueltos y protestos,CAR-ANO,cheque,11.0,6.0,Estudio de tiempos,2025-06-21,DEP-CAM,Core
+ACT-092,P-CAM,Custodia y control de valores y garantías físicas,CAR-ANO,movimiento,14.0,0.0,Estimación experta,2025-03-08,DEP-CAM,Core
+ACT-093,P-CAM,Clasificación y envío de valijas,CAR-AST,valija,18.0,0.0,Estudio de tiempos,2025-04-19,DEP-CAM,Soporte
+ACT-094,P-CAM,Digitalización de cheques,CAR-AST,cheque,0.8,0.5,Registro de sistema,2025-05-26,DEP-CAM,Soporte
+ACT-095,P-CAM,Cuadre de cámara y reportes,CAR-ASR,hora,60.0,0.0,Bitácora de gestión,2025-08-25,DEP-CAM,Soporte
+ACT-098,P-JDP,Supervisión y planificación del departamento,CAR-JDP,hora,60.0,0.0,Bitácora de gestión,2025-08-31,DEPTO,Gestión
+ACT-099,P-JDP,Atención de escalamientos y aprobaciones,CAR-JDP,caso,25.0,0.0,Estimación experta,2025-09-21,DEPTO,Gestión
+ACT-100,P-CCT,Atención de llamadas de consulta,CAR-ACC,llamada,4.2,0.0,Registro de sistema,2025-07-14,DEP-CCT,Core
+ACT-101,P-CCT,Atención de reclamos telefónicos,CAR-ACC,llamada,8.5,6.0,Registro de sistema,2025-06-18,DEP-CCT,Core
+ACT-102,P-CCT,Bloqueo de tarjetas y reportes de fraude,CAR-ACC,llamada,5.0,0.0,Registro de sistema,2025-06-03,DEP-CCT,Core
+ACT-103,P-CCT,Atención por chat y WhatsApp,CAR-ACC,conversación,6.5,4.0,Registro de sistema,2025-04-11,DEP-CCT,Core
+ACT-104,P-CCT,Llamadas salientes de cobranza preventiva,CAR-ACC,llamada,5.5,0.0,Registro de sistema,2025-03-27,DEP-CCT,Core
+ACT-105,P-CCT,Monitoreo y calibración de calidad de llamadas,CAR-ACA,evaluación,16.0,0.0,Estudio de tiempos,2025-09-22,DEP-CCT,Soporte
+ACT-106,P-CCT,Reportería de calidad de servicio,CAR-ACA,hora,60.0,0.0,Bitácora de gestión,2025-08-22,DEP-CCT,Soporte
+ACT-107,P-CCT,Supervisión de piso y gestión de turnos,CAR-SCC,hora,60.0,0.0,Bitácora de gestión,2025-06-27,DEP-CCT,Gestión
+ACT-108,P-CCT,Atención de llamadas escaladas,CAR-SCC,llamada,12.0,6.0,Registro de sistema,2025-08-29,DEP-CCT,Core

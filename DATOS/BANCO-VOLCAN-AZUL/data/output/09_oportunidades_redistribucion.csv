@@ -1,0 +1,6 @@
+gerencia_id,cargo_id,unidad_origen,unidad_destino,misma_provincia,fte_movible,utilizacion_origen,utilizacion_destino,naturaleza
+GER-OPC,CAR-ANO,DEP-CAM,DEP-TAR,S,1.5,0.6314,1.1838,Oportunidad a evaluar (no es decisión)
+GER-OPC,CAR-ANO,DEP-CAM,DEP-CTA,S,1.0,0.6314,1.1148,Oportunidad a evaluar (no es decisión)
+GER-RAS,CAR-ASV,AG-OTA,AG-QMA,N,0.5,0.721,1.1201,Oportunidad a evaluar (no es decisión)
+GER-RAS,CAR-CAJ,AG-OTA,AG-QMA,N,1.0,0.6982,1.3049,Oportunidad a evaluar (no es decisión)
+GER-RAS,CAR-CAJ,AG-CUM,AG-QMA,S,0.5,0.7751,1.3049,Oportunidad a evaluar (no es decisión)

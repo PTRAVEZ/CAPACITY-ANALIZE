@@ -1,0 +1,2689 @@
+periodo,unidad_id,actividad_id,cantidad_reprocesos,causa_principal
+2025-11,AG-QMA,ACT-001,106,Error de digitación
+2025-12,AG-QMA,ACT-001,195,Billete falso o en mal estado
+2026-01,AG-QMA,ACT-001,131,Reverso por cuenta errada
+2026-02,AG-QMA,ACT-001,102,Billete falso o en mal estado
+2026-03,AG-QMA,ACT-001,117,Reverso por cuenta errada
+2026-04,AG-QMA,ACT-001,153,Reverso por cuenta errada
+2026-05,AG-QMA,ACT-001,146,Billete falso o en mal estado
+2026-06,AG-QMA,ACT-001,162,Reverso por cuenta errada
+2026-07,AG-QMA,ACT-001,159,Billete falso o en mal estado
+2026-08,AG-QMA,ACT-001,168,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-001,132,Reverso por cuenta errada
+2026-10,AG-QMA,ACT-001,112,Reverso por cuenta errada
+2025-11,AG-QNO,ACT-001,96,Billete falso o en mal estado
+2025-12,AG-QNO,ACT-001,111,Error de digitación
+2026-01,AG-QNO,ACT-001,62,Error de digitación
+2026-02,AG-QNO,ACT-001,63,Reverso por cuenta errada
+2026-03,AG-QNO,ACT-001,103,Error de digitación
+2026-04,AG-QNO,ACT-001,88,Reverso por cuenta errada
+2026-05,AG-QNO,ACT-001,78,Reverso por cuenta errada
+2026-06,AG-QNO,ACT-001,72,Reverso por cuenta errada
+2026-07,AG-QNO,ACT-001,99,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-001,74,Reverso por cuenta errada
+2026-09,AG-QNO,ACT-001,107,Billete falso o en mal estado
+2026-10,AG-QNO,ACT-001,70,Error de digitación
+2025-11,AG-QSU,ACT-001,57,Billete falso o en mal estado
+2025-12,AG-QSU,ACT-001,76,Reverso por cuenta errada
+2026-01,AG-QSU,ACT-001,65,Error de digitación
+2026-02,AG-QSU,ACT-001,55,Billete falso o en mal estado
+2026-03,AG-QSU,ACT-001,72,Reverso por cuenta errada
+2026-04,AG-QSU,ACT-001,63,Billete falso o en mal estado
+2026-05,AG-QSU,ACT-001,47,Reverso por cuenta errada
+2026-06,AG-QSU,ACT-001,71,Error de digitación
+2026-07,AG-QSU,ACT-001,59,Reverso por cuenta errada
+2026-08,AG-QSU,ACT-001,60,Billete falso o en mal estado
+2026-09,AG-QSU,ACT-001,78,Reverso por cuenta errada
+2026-10,AG-QSU,ACT-001,49,Reverso por cuenta errada
+2025-11,AG-VCH,ACT-001,40,Reverso por cuenta errada
+2025-12,AG-VCH,ACT-001,55,Reverso por cuenta errada
+2026-01,AG-VCH,ACT-001,64,Error de digitación
+2026-02,AG-VCH,ACT-001,39,Error de digitación
+2026-03,AG-VCH,ACT-001,57,Reverso por cuenta errada
+2026-04,AG-VCH,ACT-001,66,Reverso por cuenta errada
+2026-05,AG-VCH,ACT-001,61,Reverso por cuenta errada
+2026-06,AG-VCH,ACT-001,68,Error de digitación
+2026-07,AG-VCH,ACT-001,50,Error de digitación
+2026-08,AG-VCH,ACT-001,69,Error de digitación
+2026-09,AG-VCH,ACT-001,61,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-001,51,Error de digitación
+2025-11,AG-CUM,ACT-001,31,Billete falso o en mal estado
+2025-12,AG-CUM,ACT-001,53,Reverso por cuenta errada
+2026-01,AG-CUM,ACT-001,38,Error de digitación
+2026-02,AG-CUM,ACT-001,21,Reverso por cuenta errada
+2026-03,AG-CUM,ACT-001,34,Billete falso o en mal estado
+2026-04,AG-CUM,ACT-001,38,Billete falso o en mal estado
+2026-05,AG-CUM,ACT-001,34,Reverso por cuenta errada
+2026-06,AG-CUM,ACT-001,38,Billete falso o en mal estado
+2026-07,AG-CUM,ACT-001,46,Error de digitación
+2026-08,AG-CUM,ACT-001,30,Error de digitación
+2026-09,AG-CUM,ACT-001,30,Error de digitación
+2026-10,AG-CUM,ACT-001,31,Billete falso o en mal estado
+2025-11,AG-IBA,ACT-001,40,Error de digitación
+2025-12,AG-IBA,ACT-001,80,Reverso por cuenta errada
+2026-01,AG-IBA,ACT-001,55,Billete falso o en mal estado
+2026-02,AG-IBA,ACT-001,44,Billete falso o en mal estado
+2026-03,AG-IBA,ACT-001,51,Error de digitación
+2026-04,AG-IBA,ACT-001,52,Billete falso o en mal estado
+2026-05,AG-IBA,ACT-001,54,Reverso por cuenta errada
+2026-06,AG-IBA,ACT-001,65,Reverso por cuenta errada
+2026-07,AG-IBA,ACT-001,68,Reverso por cuenta errada
+2026-08,AG-IBA,ACT-001,54,Billete falso o en mal estado
+2026-09,AG-IBA,ACT-001,74,Billete falso o en mal estado
+2026-10,AG-IBA,ACT-001,50,Error de digitación
+2025-11,AG-OTA,ACT-001,24,Error de digitación
+2025-12,AG-OTA,ACT-001,43,Reverso por cuenta errada
+2026-01,AG-OTA,ACT-001,31,Billete falso o en mal estado
+2026-02,AG-OTA,ACT-001,21,Reverso por cuenta errada
+2026-03,AG-OTA,ACT-001,34,Reverso por cuenta errada
+2026-04,AG-OTA,ACT-001,39,Error de digitación
+2026-05,AG-OTA,ACT-001,28,Billete falso o en mal estado
+2026-06,AG-OTA,ACT-001,26,Reverso por cuenta errada
+2026-07,AG-OTA,ACT-001,30,Error de digitación
+2026-08,AG-OTA,ACT-001,35,Error de digitación
+2026-09,AG-OTA,ACT-001,40,Reverso por cuenta errada
+2026-10,AG-OTA,ACT-001,32,Billete falso o en mal estado
+2025-11,AG-LAT,ACT-001,35,Billete falso o en mal estado
+2025-12,AG-LAT,ACT-001,63,Billete falso o en mal estado
+2026-01,AG-LAT,ACT-001,44,Error de digitación
+2026-02,AG-LAT,ACT-001,34,Billete falso o en mal estado
+2026-03,AG-LAT,ACT-001,38,Reverso por cuenta errada
+2026-04,AG-LAT,ACT-001,43,Error de digitación
+2026-05,AG-LAT,ACT-001,34,Billete falso o en mal estado
+2026-06,AG-LAT,ACT-001,38,Error de digitación
+2026-07,AG-LAT,ACT-001,48,Reverso por cuenta errada
+2026-08,AG-LAT,ACT-001,49,Billete falso o en mal estado
+2026-09,AG-LAT,ACT-001,44,Error de digitación
+2026-10,AG-LAT,ACT-001,51,Billete falso o en mal estado
+2025-11,AG-AMB,ACT-001,46,Reverso por cuenta errada
+2025-12,AG-AMB,ACT-001,94,Billete falso o en mal estado
+2026-01,AG-AMB,ACT-001,62,Error de digitación
+2026-02,AG-AMB,ACT-001,42,Error de digitación
+2026-03,AG-AMB,ACT-001,81,Error de digitación
+2026-04,AG-AMB,ACT-001,53,Reverso por cuenta errada
+2026-05,AG-AMB,ACT-001,54,Reverso por cuenta errada
+2026-06,AG-AMB,ACT-001,49,Error de digitación
+2026-07,AG-AMB,ACT-001,52,Error de digitación
+2026-08,AG-AMB,ACT-001,58,Reverso por cuenta errada
+2026-09,AG-AMB,ACT-001,66,Reverso por cuenta errada
+2026-10,AG-AMB,ACT-001,77,Error de digitación
+2025-11,AG-RIO,ACT-001,43,Billete falso o en mal estado
+2025-12,AG-RIO,ACT-001,53,Reverso por cuenta errada
+2026-01,AG-RIO,ACT-001,62,Reverso por cuenta errada
+2026-02,AG-RIO,ACT-001,34,Billete falso o en mal estado
+2026-03,AG-RIO,ACT-001,63,Reverso por cuenta errada
+2026-04,AG-RIO,ACT-001,57,Error de digitación
+2026-05,AG-RIO,ACT-001,57,Error de digitación
+2026-06,AG-RIO,ACT-001,49,Billete falso o en mal estado
+2026-07,AG-RIO,ACT-001,45,Billete falso o en mal estado
+2026-08,AG-RIO,ACT-001,46,Billete falso o en mal estado
+2026-09,AG-RIO,ACT-001,58,Error de digitación
+2026-10,AG-RIO,ACT-001,42,Reverso por cuenta errada
+2025-11,AG-QMA,ACT-002,68,Reverso por cuenta errada
+2025-12,AG-QMA,ACT-002,75,Reverso por cuenta errada
+2026-01,AG-QMA,ACT-002,67,Error de digitación
+2026-02,AG-QMA,ACT-002,53,Reverso por cuenta errada
+2026-03,AG-QMA,ACT-002,68,Reverso por cuenta errada
+2026-04,AG-QMA,ACT-002,66,Billete falso o en mal estado
+2026-05,AG-QMA,ACT-002,68,Billete falso o en mal estado
+2026-06,AG-QMA,ACT-002,91,Error de digitación
+2026-07,AG-QMA,ACT-002,98,Reverso por cuenta errada
+2026-08,AG-QMA,ACT-002,69,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-002,74,Reverso por cuenta errada
+2026-10,AG-QMA,ACT-002,87,Error de digitación
+2025-11,AG-QNO,ACT-002,44,Billete falso o en mal estado
+2025-12,AG-QNO,ACT-002,49,Error de digitación
+2026-01,AG-QNO,ACT-002,50,Error de digitación
+2026-02,AG-QNO,ACT-002,30,Reverso por cuenta errada
+2026-03,AG-QNO,ACT-002,61,Billete falso o en mal estado
+2026-04,AG-QNO,ACT-002,44,Error de digitación
+2026-05,AG-QNO,ACT-002,40,Reverso por cuenta errada
+2026-06,AG-QNO,ACT-002,57,Reverso por cuenta errada
+2026-07,AG-QNO,ACT-002,51,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-002,45,Reverso por cuenta errada
+2026-09,AG-QNO,ACT-002,58,Reverso por cuenta errada
+2026-10,AG-QNO,ACT-002,48,Error de digitación
+2025-11,AG-QSU,ACT-002,28,Error de digitación
+2025-12,AG-QSU,ACT-002,51,Reverso por cuenta errada
+2026-01,AG-QSU,ACT-002,26,Billete falso o en mal estado
+2026-02,AG-QSU,ACT-002,29,Error de digitación
+2026-03,AG-QSU,ACT-002,32,Error de digitación
+2026-04,AG-QSU,ACT-002,31,Error de digitación
+2026-05,AG-QSU,ACT-002,29,Billete falso o en mal estado
+2026-06,AG-QSU,ACT-002,28,Error de digitación
+2026-07,AG-QSU,ACT-002,27,Billete falso o en mal estado
+2026-08,AG-QSU,ACT-002,36,Error de digitación
+2026-09,AG-QSU,ACT-002,39,Billete falso o en mal estado
+2026-10,AG-QSU,ACT-002,34,Billete falso o en mal estado
+2025-11,AG-VCH,ACT-002,24,Billete falso o en mal estado
+2025-12,AG-VCH,ACT-002,37,Billete falso o en mal estado
+2026-01,AG-VCH,ACT-002,30,Billete falso o en mal estado
+2026-02,AG-VCH,ACT-002,20,Reverso por cuenta errada
+2026-03,AG-VCH,ACT-002,24,Error de digitación
+2026-04,AG-VCH,ACT-002,35,Reverso por cuenta errada
+2026-05,AG-VCH,ACT-002,27,Error de digitación
+2026-06,AG-VCH,ACT-002,26,Error de digitación
+2026-07,AG-VCH,ACT-002,29,Error de digitación
+2026-08,AG-VCH,ACT-002,33,Error de digitación
+2026-09,AG-VCH,ACT-002,26,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-002,25,Error de digitación
+2025-11,AG-CUM,ACT-002,14,Error de digitación
+2025-12,AG-CUM,ACT-002,27,Billete falso o en mal estado
+2026-01,AG-CUM,ACT-002,22,Billete falso o en mal estado
+2026-02,AG-CUM,ACT-002,19,Billete falso o en mal estado
+2026-03,AG-CUM,ACT-002,18,Billete falso o en mal estado
+2026-04,AG-CUM,ACT-002,25,Error de digitación
+2026-05,AG-CUM,ACT-002,21,Billete falso o en mal estado
+2026-06,AG-CUM,ACT-002,15,Billete falso o en mal estado
+2026-07,AG-CUM,ACT-002,15,Error de digitación
+2026-08,AG-CUM,ACT-002,24,Billete falso o en mal estado
+2026-09,AG-CUM,ACT-002,24,Error de digitación
+2026-10,AG-CUM,ACT-002,17,Reverso por cuenta errada
+2025-11,AG-IBA,ACT-002,35,Billete falso o en mal estado
+2025-12,AG-IBA,ACT-002,42,Reverso por cuenta errada
+2026-01,AG-IBA,ACT-002,23,Reverso por cuenta errada
+2026-02,AG-IBA,ACT-002,25,Error de digitación
+2026-03,AG-IBA,ACT-002,34,Reverso por cuenta errada
+2026-04,AG-IBA,ACT-002,32,Reverso por cuenta errada
+2026-05,AG-IBA,ACT-002,26,Billete falso o en mal estado
+2026-06,AG-IBA,ACT-002,38,Billete falso o en mal estado
+2026-07,AG-IBA,ACT-002,37,Error de digitación
+2026-08,AG-IBA,ACT-002,32,Error de digitación
+2026-09,AG-IBA,ACT-002,25,Error de digitación
+2026-10,AG-IBA,ACT-002,31,Billete falso o en mal estado
+2025-11,AG-OTA,ACT-002,19,Error de digitación
+2025-12,AG-OTA,ACT-002,21,Error de digitación
+2026-01,AG-OTA,ACT-002,13,Billete falso o en mal estado
+2026-02,AG-OTA,ACT-002,13,Error de digitación
+2026-03,AG-OTA,ACT-002,15,Billete falso o en mal estado
+2026-04,AG-OTA,ACT-002,19,Error de digitación
+2026-05,AG-OTA,ACT-002,13,Error de digitación
+2026-06,AG-OTA,ACT-002,15,Billete falso o en mal estado
+2026-07,AG-OTA,ACT-002,21,Billete falso o en mal estado
+2026-08,AG-OTA,ACT-002,15,Error de digitación
+2026-09,AG-OTA,ACT-002,23,Error de digitación
+2026-10,AG-OTA,ACT-002,13,Reverso por cuenta errada
+2025-11,AG-LAT,ACT-002,23,Reverso por cuenta errada
+2025-12,AG-LAT,ACT-002,28,Error de digitación
+2026-01,AG-LAT,ACT-002,21,Reverso por cuenta errada
+2026-02,AG-LAT,ACT-002,19,Reverso por cuenta errada
+2026-03,AG-LAT,ACT-002,23,Billete falso o en mal estado
+2026-04,AG-LAT,ACT-002,19,Billete falso o en mal estado
+2026-05,AG-LAT,ACT-002,22,Error de digitación
+2026-06,AG-LAT,ACT-002,26,Reverso por cuenta errada
+2026-07,AG-LAT,ACT-002,25,Reverso por cuenta errada
+2026-08,AG-LAT,ACT-002,31,Error de digitación
+2026-09,AG-LAT,ACT-002,24,Error de digitación
+2026-10,AG-LAT,ACT-002,24,Billete falso o en mal estado
+2025-11,AG-AMB,ACT-002,22,Error de digitación
+2025-12,AG-AMB,ACT-002,39,Error de digitación
+2026-01,AG-AMB,ACT-002,25,Reverso por cuenta errada
+2026-02,AG-AMB,ACT-002,24,Billete falso o en mal estado
+2026-03,AG-AMB,ACT-002,44,Error de digitación
+2026-04,AG-AMB,ACT-002,28,Billete falso o en mal estado
+2026-05,AG-AMB,ACT-002,40,Error de digitación
+2026-06,AG-AMB,ACT-002,44,Reverso por cuenta errada
+2026-07,AG-AMB,ACT-002,32,Error de digitación
+2026-08,AG-AMB,ACT-002,37,Error de digitación
+2026-09,AG-AMB,ACT-002,44,Reverso por cuenta errada
+2026-10,AG-AMB,ACT-002,31,Reverso por cuenta errada
+2025-11,AG-RIO,ACT-002,24,Reverso por cuenta errada
+2025-12,AG-RIO,ACT-002,35,Billete falso o en mal estado
+2026-01,AG-RIO,ACT-002,24,Error de digitación
+2026-02,AG-RIO,ACT-002,16,Billete falso o en mal estado
+2026-03,AG-RIO,ACT-002,32,Billete falso o en mal estado
+2026-04,AG-RIO,ACT-002,22,Billete falso o en mal estado
+2026-05,AG-RIO,ACT-002,26,Reverso por cuenta errada
+2026-06,AG-RIO,ACT-002,33,Billete falso o en mal estado
+2026-07,AG-RIO,ACT-002,27,Error de digitación
+2026-08,AG-RIO,ACT-002,31,Reverso por cuenta errada
+2026-09,AG-RIO,ACT-002,30,Error de digitación
+2026-10,AG-RIO,ACT-002,23,Billete falso o en mal estado
+2025-11,AG-QMA,ACT-003,59,Error de digitación
+2025-12,AG-QMA,ACT-003,58,Reverso por cuenta errada
+2026-01,AG-QMA,ACT-003,50,Billete falso o en mal estado
+2026-02,AG-QMA,ACT-003,51,Billete falso o en mal estado
+2026-03,AG-QMA,ACT-003,55,Reverso por cuenta errada
+2026-04,AG-QMA,ACT-003,67,Billete falso o en mal estado
+2026-05,AG-QMA,ACT-003,51,Error de digitación
+2026-06,AG-QMA,ACT-003,68,Billete falso o en mal estado
+2026-07,AG-QMA,ACT-003,55,Reverso por cuenta errada
+2026-08,AG-QMA,ACT-003,60,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-003,60,Error de digitación
+2026-10,AG-QMA,ACT-003,68,Error de digitación
+2025-11,AG-QNO,ACT-003,41,Error de digitación
+2025-12,AG-QNO,ACT-003,46,Billete falso o en mal estado
+2026-01,AG-QNO,ACT-003,42,Reverso por cuenta errada
+2026-02,AG-QNO,ACT-003,34,Error de digitación
+2026-03,AG-QNO,ACT-003,41,Billete falso o en mal estado
+2026-04,AG-QNO,ACT-003,43,Error de digitación
+2026-05,AG-QNO,ACT-003,40,Error de digitación
+2026-06,AG-QNO,ACT-003,36,Error de digitación
+2026-07,AG-QNO,ACT-003,39,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-003,44,Reverso por cuenta errada
+2026-09,AG-QNO,ACT-003,33,Reverso por cuenta errada
+2026-10,AG-QNO,ACT-003,38,Billete falso o en mal estado
+2025-11,AG-QSU,ACT-003,20,Error de digitación
+2025-12,AG-QSU,ACT-003,28,Error de digitación
+2026-01,AG-QSU,ACT-003,23,Error de digitación
+2026-02,AG-QSU,ACT-003,20,Error de digitación
+2026-03,AG-QSU,ACT-003,34,Billete falso o en mal estado
+2026-04,AG-QSU,ACT-003,22,Billete falso o en mal estado
+2026-05,AG-QSU,ACT-003,25,Error de digitación
+2026-06,AG-QSU,ACT-003,22,Error de digitación
+2026-07,AG-QSU,ACT-003,21,Billete falso o en mal estado
+2026-08,AG-QSU,ACT-003,27,Reverso por cuenta errada
+2026-09,AG-QSU,ACT-003,30,Error de digitación
+2026-10,AG-QSU,ACT-003,23,Reverso por cuenta errada
+2025-11,AG-VCH,ACT-003,25,Reverso por cuenta errada
+2025-12,AG-VCH,ACT-003,26,Billete falso o en mal estado
+2026-01,AG-VCH,ACT-003,28,Reverso por cuenta errada
+2026-02,AG-VCH,ACT-003,16,Billete falso o en mal estado
+2026-03,AG-VCH,ACT-003,25,Reverso por cuenta errada
+2026-04,AG-VCH,ACT-003,27,Billete falso o en mal estado
+2026-05,AG-VCH,ACT-003,25,Reverso por cuenta errada
+2026-06,AG-VCH,ACT-003,18,Reverso por cuenta errada
+2026-07,AG-VCH,ACT-003,28,Error de digitación
+2026-08,AG-VCH,ACT-003,29,Reverso por cuenta errada
+2026-09,AG-VCH,ACT-003,20,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-003,23,Reverso por cuenta errada
+2025-11,AG-CUM,ACT-003,13,Reverso por cuenta errada
+2025-12,AG-CUM,ACT-003,17,Reverso por cuenta errada
+2026-01,AG-CUM,ACT-003,10,Reverso por cuenta errada
+2026-02,AG-CUM,ACT-003,12,Billete falso o en mal estado
+2026-03,AG-CUM,ACT-003,17,Error de digitación
+2026-04,AG-CUM,ACT-003,17,Error de digitación
+2026-05,AG-CUM,ACT-003,15,Reverso por cuenta errada
+2026-06,AG-CUM,ACT-003,13,Reverso por cuenta errada
+2026-07,AG-CUM,ACT-003,19,Billete falso o en mal estado
+2026-08,AG-CUM,ACT-003,18,Error de digitación
+2026-09,AG-CUM,ACT-003,13,Error de digitación
+2026-10,AG-CUM,ACT-003,18,Billete falso o en mal estado
+2025-11,AG-IBA,ACT-003,16,Error de digitación
+2025-12,AG-IBA,ACT-003,32,Reverso por cuenta errada
+2026-01,AG-IBA,ACT-003,23,Error de digitación
+2026-02,AG-IBA,ACT-003,20,Error de digitación
+2026-03,AG-IBA,ACT-003,21,Error de digitación
+2026-04,AG-IBA,ACT-003,32,Error de digitación
+2026-05,AG-IBA,ACT-003,19,Billete falso o en mal estado
+2026-06,AG-IBA,ACT-003,27,Billete falso o en mal estado
+2026-07,AG-IBA,ACT-003,30,Error de digitación
+2026-08,AG-IBA,ACT-003,27,Reverso por cuenta errada
+2026-09,AG-IBA,ACT-003,32,Billete falso o en mal estado
+2026-10,AG-IBA,ACT-003,29,Error de digitación
+2025-11,AG-OTA,ACT-003,14,Billete falso o en mal estado
+2025-12,AG-OTA,ACT-003,16,Billete falso o en mal estado
+2026-01,AG-OTA,ACT-003,16,Billete falso o en mal estado
+2026-02,AG-OTA,ACT-003,12,Reverso por cuenta errada
+2026-03,AG-OTA,ACT-003,17,Error de digitación
+2026-04,AG-OTA,ACT-003,16,Error de digitación
+2026-05,AG-OTA,ACT-003,11,Error de digitación
+2026-06,AG-OTA,ACT-003,17,Reverso por cuenta errada
+2026-07,AG-OTA,ACT-003,15,Reverso por cuenta errada
+2026-08,AG-OTA,ACT-003,10,Billete falso o en mal estado
+2026-09,AG-OTA,ACT-003,10,Reverso por cuenta errada
+2026-10,AG-OTA,ACT-003,14,Reverso por cuenta errada
+2025-11,AG-LAT,ACT-003,16,Reverso por cuenta errada
+2025-12,AG-LAT,ACT-003,20,Error de digitación
+2026-01,AG-LAT,ACT-003,18,Error de digitación
+2026-02,AG-LAT,ACT-003,15,Billete falso o en mal estado
+2026-03,AG-LAT,ACT-003,21,Billete falso o en mal estado
+2026-04,AG-LAT,ACT-003,21,Reverso por cuenta errada
+2026-05,AG-LAT,ACT-003,13,Reverso por cuenta errada
+2026-06,AG-LAT,ACT-003,13,Reverso por cuenta errada
+2026-07,AG-LAT,ACT-003,16,Reverso por cuenta errada
+2026-08,AG-LAT,ACT-003,19,Error de digitación
+2026-09,AG-LAT,ACT-003,17,Billete falso o en mal estado
+2026-10,AG-LAT,ACT-003,14,Reverso por cuenta errada
+2025-11,AG-AMB,ACT-003,24,Reverso por cuenta errada
+2025-12,AG-AMB,ACT-003,36,Billete falso o en mal estado
+2026-01,AG-AMB,ACT-003,31,Error de digitación
+2026-02,AG-AMB,ACT-003,23,Billete falso o en mal estado
+2026-03,AG-AMB,ACT-003,27,Error de digitación
+2026-04,AG-AMB,ACT-003,26,Reverso por cuenta errada
+2026-05,AG-AMB,ACT-003,23,Billete falso o en mal estado
+2026-06,AG-AMB,ACT-003,30,Reverso por cuenta errada
+2026-07,AG-AMB,ACT-003,24,Reverso por cuenta errada
+2026-08,AG-AMB,ACT-003,30,Reverso por cuenta errada
+2026-09,AG-AMB,ACT-003,27,Error de digitación
+2026-10,AG-AMB,ACT-003,26,Error de digitación
+2025-11,AG-RIO,ACT-003,21,Billete falso o en mal estado
+2025-12,AG-RIO,ACT-003,24,Reverso por cuenta errada
+2026-01,AG-RIO,ACT-003,16,Billete falso o en mal estado
+2026-02,AG-RIO,ACT-003,18,Billete falso o en mal estado
+2026-03,AG-RIO,ACT-003,20,Error de digitación
+2026-04,AG-RIO,ACT-003,29,Billete falso o en mal estado
+2026-05,AG-RIO,ACT-003,17,Error de digitación
+2026-06,AG-RIO,ACT-003,22,Error de digitación
+2026-07,AG-RIO,ACT-003,24,Reverso por cuenta errada
+2026-08,AG-RIO,ACT-003,22,Reverso por cuenta errada
+2026-09,AG-RIO,ACT-003,24,Billete falso o en mal estado
+2026-10,AG-RIO,ACT-003,25,Error de digitación
+2025-11,AG-QMA,ACT-004,48,Billete falso o en mal estado
+2025-12,AG-QMA,ACT-004,54,Error de digitación
+2026-01,AG-QMA,ACT-004,35,Error de digitación
+2026-02,AG-QMA,ACT-004,39,Billete falso o en mal estado
+2026-03,AG-QMA,ACT-004,43,Reverso por cuenta errada
+2026-04,AG-QMA,ACT-004,45,Billete falso o en mal estado
+2026-05,AG-QMA,ACT-004,53,Error de digitación
+2026-06,AG-QMA,ACT-004,56,Reverso por cuenta errada
+2026-07,AG-QMA,ACT-004,60,Error de digitación
+2026-08,AG-QMA,ACT-004,58,Error de digitación
+2026-09,AG-QMA,ACT-004,49,Error de digitación
+2026-10,AG-QMA,ACT-004,49,Reverso por cuenta errada
+2025-11,AG-QNO,ACT-004,28,Error de digitación
+2025-12,AG-QNO,ACT-004,38,Billete falso o en mal estado
+2026-01,AG-QNO,ACT-004,30,Reverso por cuenta errada
+2026-02,AG-QNO,ACT-004,18,Billete falso o en mal estado
+2026-03,AG-QNO,ACT-004,32,Error de digitación
+2026-04,AG-QNO,ACT-004,28,Reverso por cuenta errada
+2026-05,AG-QNO,ACT-004,30,Error de digitación
+2026-06,AG-QNO,ACT-004,30,Reverso por cuenta errada
+2026-07,AG-QNO,ACT-004,32,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-004,36,Billete falso o en mal estado
+2026-09,AG-QNO,ACT-004,27,Billete falso o en mal estado
+2026-10,AG-QNO,ACT-004,28,Billete falso o en mal estado
+2025-11,AG-QSU,ACT-004,16,Error de digitación
+2025-12,AG-QSU,ACT-004,28,Reverso por cuenta errada
+2026-01,AG-QSU,ACT-004,20,Error de digitación
+2026-02,AG-QSU,ACT-004,16,Error de digitación
+2026-03,AG-QSU,ACT-004,15,Reverso por cuenta errada
+2026-04,AG-QSU,ACT-004,22,Billete falso o en mal estado
+2026-05,AG-QSU,ACT-004,16,Error de digitación
+2026-06,AG-QSU,ACT-004,18,Error de digitación
+2026-07,AG-QSU,ACT-004,25,Reverso por cuenta errada
+2026-08,AG-QSU,ACT-004,21,Reverso por cuenta errada
+2026-09,AG-QSU,ACT-004,19,Error de digitación
+2026-10,AG-QSU,ACT-004,25,Reverso por cuenta errada
+2025-11,AG-VCH,ACT-004,15,Error de digitación
+2025-12,AG-VCH,ACT-004,23,Error de digitación
+2026-01,AG-VCH,ACT-004,21,Billete falso o en mal estado
+2026-02,AG-VCH,ACT-004,11,Error de digitación
+2026-03,AG-VCH,ACT-004,21,Billete falso o en mal estado
+2026-04,AG-VCH,ACT-004,25,Billete falso o en mal estado
+2026-05,AG-VCH,ACT-004,17,Reverso por cuenta errada
+2026-06,AG-VCH,ACT-004,20,Billete falso o en mal estado
+2026-07,AG-VCH,ACT-004,25,Reverso por cuenta errada
+2026-08,AG-VCH,ACT-004,17,Billete falso o en mal estado
+2026-09,AG-VCH,ACT-004,17,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-004,24,Error de digitación
+2025-11,AG-CUM,ACT-004,14,Billete falso o en mal estado
+2025-12,AG-CUM,ACT-004,12,Reverso por cuenta errada
+2026-01,AG-CUM,ACT-004,10,Error de digitación
+2026-02,AG-CUM,ACT-004,10,Billete falso o en mal estado
+2026-03,AG-CUM,ACT-004,15,Billete falso o en mal estado
+2026-04,AG-CUM,ACT-004,12,Billete falso o en mal estado
+2026-05,AG-CUM,ACT-004,12,Billete falso o en mal estado
+2026-06,AG-CUM,ACT-004,14,Error de digitación
+2026-07,AG-CUM,ACT-004,11,Billete falso o en mal estado
+2026-08,AG-CUM,ACT-004,16,Billete falso o en mal estado
+2026-09,AG-CUM,ACT-004,16,Billete falso o en mal estado
+2026-10,AG-CUM,ACT-004,14,Billete falso o en mal estado
+2025-11,AG-IBA,ACT-004,21,Error de digitación
+2025-12,AG-IBA,ACT-004,20,Reverso por cuenta errada
+2026-01,AG-IBA,ACT-004,17,Reverso por cuenta errada
+2026-02,AG-IBA,ACT-004,17,Reverso por cuenta errada
+2026-03,AG-IBA,ACT-004,16,Billete falso o en mal estado
+2026-04,AG-IBA,ACT-004,25,Error de digitación
+2026-05,AG-IBA,ACT-004,20,Billete falso o en mal estado
+2026-06,AG-IBA,ACT-004,20,Error de digitación
+2026-07,AG-IBA,ACT-004,24,Error de digitación
+2026-08,AG-IBA,ACT-004,19,Error de digitación
+2026-09,AG-IBA,ACT-004,19,Error de digitación
+2026-10,AG-IBA,ACT-004,18,Error de digitación
+2025-11,AG-OTA,ACT-004,11,Error de digitación
+2025-12,AG-OTA,ACT-004,14,Reverso por cuenta errada
+2026-01,AG-OTA,ACT-004,12,Error de digitación
+2026-02,AG-OTA,ACT-004,7,Error de digitación
+2026-03,AG-OTA,ACT-004,12,Billete falso o en mal estado
+2026-04,AG-OTA,ACT-004,14,Billete falso o en mal estado
+2026-05,AG-OTA,ACT-004,11,Reverso por cuenta errada
+2026-06,AG-OTA,ACT-004,12,Billete falso o en mal estado
+2026-07,AG-OTA,ACT-004,13,Billete falso o en mal estado
+2026-08,AG-OTA,ACT-004,15,Billete falso o en mal estado
+2026-09,AG-OTA,ACT-004,10,Error de digitación
+2026-10,AG-OTA,ACT-004,10,Reverso por cuenta errada
+2025-11,AG-LAT,ACT-004,15,Error de digitación
+2025-12,AG-LAT,ACT-004,23,Billete falso o en mal estado
+2026-01,AG-LAT,ACT-004,16,Reverso por cuenta errada
+2026-02,AG-LAT,ACT-004,10,Billete falso o en mal estado
+2026-03,AG-LAT,ACT-004,16,Error de digitación
+2026-04,AG-LAT,ACT-004,17,Reverso por cuenta errada
+2026-05,AG-LAT,ACT-004,11,Error de digitación
+2026-06,AG-LAT,ACT-004,16,Reverso por cuenta errada
+2026-07,AG-LAT,ACT-004,13,Billete falso o en mal estado
+2026-08,AG-LAT,ACT-004,19,Reverso por cuenta errada
+2026-09,AG-LAT,ACT-004,21,Error de digitación
+2026-10,AG-LAT,ACT-004,19,Error de digitación
+2025-11,AG-AMB,ACT-004,21,Error de digitación
+2025-12,AG-AMB,ACT-004,24,Reverso por cuenta errada
+2026-01,AG-AMB,ACT-004,17,Error de digitación
+2026-02,AG-AMB,ACT-004,17,Billete falso o en mal estado
+2026-03,AG-AMB,ACT-004,26,Reverso por cuenta errada
+2026-04,AG-AMB,ACT-004,18,Billete falso o en mal estado
+2026-05,AG-AMB,ACT-004,24,Error de digitación
+2026-06,AG-AMB,ACT-004,22,Reverso por cuenta errada
+2026-07,AG-AMB,ACT-004,23,Reverso por cuenta errada
+2026-08,AG-AMB,ACT-004,20,Billete falso o en mal estado
+2026-09,AG-AMB,ACT-004,25,Error de digitación
+2026-10,AG-AMB,ACT-004,25,Billete falso o en mal estado
+2025-11,AG-RIO,ACT-004,18,Reverso por cuenta errada
+2025-12,AG-RIO,ACT-004,21,Reverso por cuenta errada
+2026-01,AG-RIO,ACT-004,18,Billete falso o en mal estado
+2026-02,AG-RIO,ACT-004,15,Error de digitación
+2026-03,AG-RIO,ACT-004,21,Reverso por cuenta errada
+2026-04,AG-RIO,ACT-004,18,Reverso por cuenta errada
+2026-05,AG-RIO,ACT-004,16,Reverso por cuenta errada
+2026-06,AG-RIO,ACT-004,18,Error de digitación
+2026-07,AG-RIO,ACT-004,18,Reverso por cuenta errada
+2026-08,AG-RIO,ACT-004,20,Reverso por cuenta errada
+2026-09,AG-RIO,ACT-004,17,Billete falso o en mal estado
+2026-10,AG-RIO,ACT-004,13,Billete falso o en mal estado
+2025-11,AG-QMA,ACT-005,31,Reverso por cuenta errada
+2025-12,AG-QMA,ACT-005,38,Billete falso o en mal estado
+2026-01,AG-QMA,ACT-005,26,Billete falso o en mal estado
+2026-02,AG-QMA,ACT-005,24,Billete falso o en mal estado
+2026-03,AG-QMA,ACT-005,33,Error de digitación
+2026-04,AG-QMA,ACT-005,31,Billete falso o en mal estado
+2026-05,AG-QMA,ACT-005,27,Error de digitación
+2026-06,AG-QMA,ACT-005,29,Error de digitación
+2026-07,AG-QMA,ACT-005,32,Reverso por cuenta errada
+2026-08,AG-QMA,ACT-005,29,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-005,33,Error de digitación
+2026-10,AG-QMA,ACT-005,31,Billete falso o en mal estado
+2025-11,AG-QNO,ACT-005,20,Reverso por cuenta errada
+2025-12,AG-QNO,ACT-005,29,Billete falso o en mal estado
+2026-01,AG-QNO,ACT-005,21,Billete falso o en mal estado
+2026-02,AG-QNO,ACT-005,17,Billete falso o en mal estado
+2026-03,AG-QNO,ACT-005,20,Reverso por cuenta errada
+2026-04,AG-QNO,ACT-005,19,Reverso por cuenta errada
+2026-05,AG-QNO,ACT-005,19,Error de digitación
+2026-06,AG-QNO,ACT-005,15,Error de digitación
+2026-07,AG-QNO,ACT-005,15,Reverso por cuenta errada
+2026-08,AG-QNO,ACT-005,17,Billete falso o en mal estado
+2026-09,AG-QNO,ACT-005,19,Error de digitación
+2026-10,AG-QNO,ACT-005,17,Reverso por cuenta errada
+2025-11,AG-QSU,ACT-005,13,Error de digitación
+2025-12,AG-QSU,ACT-005,17,Error de digitación
+2026-01,AG-QSU,ACT-005,11,Error de digitación
+2026-02,AG-QSU,ACT-005,9,Error de digitación
+2026-03,AG-QSU,ACT-005,14,Billete falso o en mal estado
+2026-04,AG-QSU,ACT-005,16,Reverso por cuenta errada
+2026-05,AG-QSU,ACT-005,13,Reverso por cuenta errada
+2026-06,AG-QSU,ACT-005,11,Reverso por cuenta errada
+2026-07,AG-QSU,ACT-005,19,Billete falso o en mal estado
+2026-08,AG-QSU,ACT-005,13,Reverso por cuenta errada
+2026-09,AG-QSU,ACT-005,12,Reverso por cuenta errada
+2026-10,AG-QSU,ACT-005,11,Error de digitación
+2025-11,AG-VCH,ACT-005,9,Reverso por cuenta errada
+2025-12,AG-VCH,ACT-005,20,Reverso por cuenta errada
+2026-01,AG-VCH,ACT-005,10,Billete falso o en mal estado
+2026-02,AG-VCH,ACT-005,9,Billete falso o en mal estado
+2026-03,AG-VCH,ACT-005,13,Error de digitación
+2026-04,AG-VCH,ACT-005,10,Billete falso o en mal estado
+2026-05,AG-VCH,ACT-005,12,Billete falso o en mal estado
+2026-06,AG-VCH,ACT-005,11,Reverso por cuenta errada
+2026-07,AG-VCH,ACT-005,15,Error de digitación
+2026-08,AG-VCH,ACT-005,10,Reverso por cuenta errada
+2026-09,AG-VCH,ACT-005,10,Error de digitación
+2026-10,AG-VCH,ACT-005,10,Billete falso o en mal estado
+2025-11,AG-CUM,ACT-005,7,Reverso por cuenta errada
+2025-12,AG-CUM,ACT-005,7,Billete falso o en mal estado
+2026-01,AG-CUM,ACT-005,8,Billete falso o en mal estado
+2026-02,AG-CUM,ACT-005,6,Billete falso o en mal estado
+2026-03,AG-CUM,ACT-005,9,Billete falso o en mal estado
+2026-04,AG-CUM,ACT-005,9,Billete falso o en mal estado
+2026-05,AG-CUM,ACT-005,8,Billete falso o en mal estado
+2026-06,AG-CUM,ACT-005,7,Billete falso o en mal estado
+2026-07,AG-CUM,ACT-005,7,Billete falso o en mal estado
+2026-08,AG-CUM,ACT-005,9,Billete falso o en mal estado
+2026-09,AG-CUM,ACT-005,10,Reverso por cuenta errada
+2026-10,AG-CUM,ACT-005,7,Error de digitación
+2025-11,AG-IBA,ACT-005,12,Billete falso o en mal estado
+2025-12,AG-IBA,ACT-005,13,Billete falso o en mal estado
+2026-01,AG-IBA,ACT-005,14,Error de digitación
+2026-02,AG-IBA,ACT-005,9,Error de digitación
+2026-03,AG-IBA,ACT-005,13,Error de digitación
+2026-04,AG-IBA,ACT-005,12,Reverso por cuenta errada
+2026-05,AG-IBA,ACT-005,13,Reverso por cuenta errada
+2026-06,AG-IBA,ACT-005,15,Billete falso o en mal estado
+2026-07,AG-IBA,ACT-005,10,Reverso por cuenta errada
+2026-08,AG-IBA,ACT-005,10,Reverso por cuenta errada
+2026-09,AG-IBA,ACT-005,16,Reverso por cuenta errada
+2026-10,AG-IBA,ACT-005,10,Billete falso o en mal estado
+2025-11,AG-OTA,ACT-005,5,Error de digitación
+2025-12,AG-OTA,ACT-005,8,Reverso por cuenta errada
+2026-01,AG-OTA,ACT-005,5,Reverso por cuenta errada
+2026-02,AG-OTA,ACT-005,5,Billete falso o en mal estado
+2026-03,AG-OTA,ACT-005,7,Billete falso o en mal estado
+2026-04,AG-OTA,ACT-005,6,Error de digitación
+2026-05,AG-OTA,ACT-005,7,Reverso por cuenta errada
+2026-06,AG-OTA,ACT-005,5,Reverso por cuenta errada
+2026-07,AG-OTA,ACT-005,7,Billete falso o en mal estado
+2026-08,AG-OTA,ACT-005,7,Reverso por cuenta errada
+2026-09,AG-OTA,ACT-005,9,Billete falso o en mal estado
+2026-10,AG-OTA,ACT-005,7,Error de digitación
+2025-11,AG-LAT,ACT-005,7,Reverso por cuenta errada
+2025-12,AG-LAT,ACT-005,14,Reverso por cuenta errada
+2026-01,AG-LAT,ACT-005,7,Billete falso o en mal estado
+2026-02,AG-LAT,ACT-005,8,Billete falso o en mal estado
+2026-03,AG-LAT,ACT-005,10,Billete falso o en mal estado
+2026-04,AG-LAT,ACT-005,8,Billete falso o en mal estado
+2026-05,AG-LAT,ACT-005,6,Reverso por cuenta errada
+2026-06,AG-LAT,ACT-005,9,Error de digitación
+2026-07,AG-LAT,ACT-005,10,Billete falso o en mal estado
+2026-08,AG-LAT,ACT-005,8,Error de digitación
+2026-09,AG-LAT,ACT-005,11,Billete falso o en mal estado
+2026-10,AG-LAT,ACT-005,7,Billete falso o en mal estado
+2025-11,AG-AMB,ACT-005,14,Error de digitación
+2025-12,AG-AMB,ACT-005,18,Error de digitación
+2026-01,AG-AMB,ACT-005,9,Reverso por cuenta errada
+2026-02,AG-AMB,ACT-005,11,Error de digitación
+2026-03,AG-AMB,ACT-005,16,Reverso por cuenta errada
+2026-04,AG-AMB,ACT-005,13,Error de digitación
+2026-05,AG-AMB,ACT-005,14,Error de digitación
+2026-06,AG-AMB,ACT-005,13,Error de digitación
+2026-07,AG-AMB,ACT-005,13,Error de digitación
+2026-08,AG-AMB,ACT-005,14,Error de digitación
+2026-09,AG-AMB,ACT-005,16,Reverso por cuenta errada
+2026-10,AG-AMB,ACT-005,16,Reverso por cuenta errada
+2025-11,AG-RIO,ACT-005,9,Reverso por cuenta errada
+2025-12,AG-RIO,ACT-005,12,Billete falso o en mal estado
+2026-01,AG-RIO,ACT-005,12,Billete falso o en mal estado
+2026-02,AG-RIO,ACT-005,9,Error de digitación
+2026-03,AG-RIO,ACT-005,12,Error de digitación
+2026-04,AG-RIO,ACT-005,11,Reverso por cuenta errada
+2026-05,AG-RIO,ACT-005,7,Error de digitación
+2026-06,AG-RIO,ACT-005,9,Error de digitación
+2026-07,AG-RIO,ACT-005,13,Billete falso o en mal estado
+2026-08,AG-RIO,ACT-005,11,Billete falso o en mal estado
+2026-09,AG-RIO,ACT-005,9,Error de digitación
+2026-10,AG-RIO,ACT-005,11,Reverso por cuenta errada
+2025-11,AG-QMA,ACT-006,9,Billete falso o en mal estado
+2025-12,AG-QMA,ACT-006,16,Billete falso o en mal estado
+2026-01,AG-QMA,ACT-006,11,Billete falso o en mal estado
+2026-02,AG-QMA,ACT-006,7,Error de digitación
+2026-03,AG-QMA,ACT-006,9,Billete falso o en mal estado
+2026-04,AG-QMA,ACT-006,14,Error de digitación
+2026-05,AG-QMA,ACT-006,9,Billete falso o en mal estado
+2026-06,AG-QMA,ACT-006,9,Billete falso o en mal estado
+2026-07,AG-QMA,ACT-006,10,Reverso por cuenta errada
+2026-08,AG-QMA,ACT-006,12,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-006,15,Reverso por cuenta errada
+2026-10,AG-QMA,ACT-006,11,Error de digitación
+2025-11,AG-QNO,ACT-006,5,Billete falso o en mal estado
+2025-12,AG-QNO,ACT-006,10,Billete falso o en mal estado
+2026-01,AG-QNO,ACT-006,8,Reverso por cuenta errada
+2026-02,AG-QNO,ACT-006,6,Error de digitación
+2026-03,AG-QNO,ACT-006,9,Billete falso o en mal estado
+2026-04,AG-QNO,ACT-006,10,Reverso por cuenta errada
+2026-05,AG-QNO,ACT-006,7,Billete falso o en mal estado
+2026-06,AG-QNO,ACT-006,9,Error de digitación
+2026-07,AG-QNO,ACT-006,8,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-006,8,Billete falso o en mal estado
+2026-09,AG-QNO,ACT-006,9,Error de digitación
+2026-10,AG-QNO,ACT-006,9,Error de digitación
+2025-11,AG-QSU,ACT-006,4,Billete falso o en mal estado
+2025-12,AG-QSU,ACT-006,6,Reverso por cuenta errada
+2026-01,AG-QSU,ACT-006,5,Billete falso o en mal estado
+2026-02,AG-QSU,ACT-006,5,Reverso por cuenta errada
+2026-03,AG-QSU,ACT-006,6,Error de digitación
+2026-04,AG-QSU,ACT-006,7,Reverso por cuenta errada
+2026-05,AG-QSU,ACT-006,5,Billete falso o en mal estado
+2026-06,AG-QSU,ACT-006,5,Error de digitación
+2026-07,AG-QSU,ACT-006,6,Billete falso o en mal estado
+2026-08,AG-QSU,ACT-006,6,Error de digitación
+2026-09,AG-QSU,ACT-006,5,Error de digitación
+2026-10,AG-QSU,ACT-006,6,Billete falso o en mal estado
+2025-11,AG-VCH,ACT-006,3,Reverso por cuenta errada
+2025-12,AG-VCH,ACT-006,5,Billete falso o en mal estado
+2026-01,AG-VCH,ACT-006,5,Error de digitación
+2026-02,AG-VCH,ACT-006,3,Error de digitación
+2026-03,AG-VCH,ACT-006,6,Reverso por cuenta errada
+2026-04,AG-VCH,ACT-006,4,Error de digitación
+2026-05,AG-VCH,ACT-006,5,Reverso por cuenta errada
+2026-06,AG-VCH,ACT-006,5,Error de digitación
+2026-07,AG-VCH,ACT-006,6,Billete falso o en mal estado
+2026-08,AG-VCH,ACT-006,3,Reverso por cuenta errada
+2026-09,AG-VCH,ACT-006,4,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-006,5,Reverso por cuenta errada
+2025-11,AG-CUM,ACT-006,3,Error de digitación
+2025-12,AG-CUM,ACT-006,5,Error de digitación
+2026-01,AG-CUM,ACT-006,3,Billete falso o en mal estado
+2026-02,AG-CUM,ACT-006,2,Billete falso o en mal estado
+2026-03,AG-CUM,ACT-006,3,Error de digitación
+2026-04,AG-CUM,ACT-006,4,Error de digitación
+2026-05,AG-CUM,ACT-006,3,Reverso por cuenta errada
+2026-06,AG-CUM,ACT-006,3,Error de digitación
+2026-07,AG-CUM,ACT-006,3,Billete falso o en mal estado
+2026-08,AG-CUM,ACT-006,3,Error de digitación
+2026-09,AG-CUM,ACT-006,4,Reverso por cuenta errada
+2026-10,AG-CUM,ACT-006,3,Error de digitación
+2025-11,AG-IBA,ACT-006,5,Billete falso o en mal estado
+2025-12,AG-IBA,ACT-006,6,Reverso por cuenta errada
+2026-01,AG-IBA,ACT-006,4,Reverso por cuenta errada
+2026-02,AG-IBA,ACT-006,3,Billete falso o en mal estado
+2026-03,AG-IBA,ACT-006,4,Billete falso o en mal estado
+2026-04,AG-IBA,ACT-006,4,Reverso por cuenta errada
+2026-05,AG-IBA,ACT-006,5,Reverso por cuenta errada
+2026-06,AG-IBA,ACT-006,5,Reverso por cuenta errada
+2026-07,AG-IBA,ACT-006,4,Billete falso o en mal estado
+2026-08,AG-IBA,ACT-006,5,Error de digitación
+2026-09,AG-IBA,ACT-006,5,Reverso por cuenta errada
+2026-10,AG-IBA,ACT-006,4,Reverso por cuenta errada
+2025-11,AG-OTA,ACT-006,3,Error de digitación
+2025-12,AG-OTA,ACT-006,3,Reverso por cuenta errada
+2026-01,AG-OTA,ACT-006,2,Billete falso o en mal estado
+2026-02,AG-OTA,ACT-006,2,Reverso por cuenta errada
+2026-03,AG-OTA,ACT-006,3,Billete falso o en mal estado
+2026-04,AG-OTA,ACT-006,3,Reverso por cuenta errada
+2026-05,AG-OTA,ACT-006,3,Reverso por cuenta errada
+2026-06,AG-OTA,ACT-006,3,Reverso por cuenta errada
+2026-07,AG-OTA,ACT-006,2,Error de digitación
+2026-08,AG-OTA,ACT-006,3,Billete falso o en mal estado
+2026-09,AG-OTA,ACT-006,3,Error de digitación
+2026-10,AG-OTA,ACT-006,3,Reverso por cuenta errada
+2025-11,AG-LAT,ACT-006,3,Error de digitación
+2025-12,AG-LAT,ACT-006,4,Reverso por cuenta errada
+2026-01,AG-LAT,ACT-006,4,Error de digitación
+2026-02,AG-LAT,ACT-006,3,Reverso por cuenta errada
+2026-03,AG-LAT,ACT-006,3,Reverso por cuenta errada
+2026-04,AG-LAT,ACT-006,4,Reverso por cuenta errada
+2026-05,AG-LAT,ACT-006,3,Billete falso o en mal estado
+2026-06,AG-LAT,ACT-006,4,Billete falso o en mal estado
+2026-07,AG-LAT,ACT-006,3,Reverso por cuenta errada
+2026-08,AG-LAT,ACT-006,5,Error de digitación
+2026-09,AG-LAT,ACT-006,4,Billete falso o en mal estado
+2026-10,AG-LAT,ACT-006,4,Reverso por cuenta errada
+2025-11,AG-AMB,ACT-006,4,Reverso por cuenta errada
+2025-12,AG-AMB,ACT-006,6,Error de digitación
+2026-01,AG-AMB,ACT-006,5,Billete falso o en mal estado
+2026-02,AG-AMB,ACT-006,4,Error de digitación
+2026-03,AG-AMB,ACT-006,5,Reverso por cuenta errada
+2026-04,AG-AMB,ACT-006,7,Billete falso o en mal estado
+2026-05,AG-AMB,ACT-006,4,Reverso por cuenta errada
+2026-06,AG-AMB,ACT-006,4,Reverso por cuenta errada
+2026-07,AG-AMB,ACT-006,4,Error de digitación
+2026-08,AG-AMB,ACT-006,6,Billete falso o en mal estado
+2026-09,AG-AMB,ACT-006,6,Billete falso o en mal estado
+2026-10,AG-AMB,ACT-006,6,Billete falso o en mal estado
+2025-11,AG-RIO,ACT-006,4,Billete falso o en mal estado
+2025-12,AG-RIO,ACT-006,7,Error de digitación
+2026-01,AG-RIO,ACT-006,4,Reverso por cuenta errada
+2026-02,AG-RIO,ACT-006,4,Error de digitación
+2026-03,AG-RIO,ACT-006,4,Error de digitación
+2026-04,AG-RIO,ACT-006,5,Billete falso o en mal estado
+2026-05,AG-RIO,ACT-006,3,Billete falso o en mal estado
+2026-06,AG-RIO,ACT-006,4,Billete falso o en mal estado
+2026-07,AG-RIO,ACT-006,4,Billete falso o en mal estado
+2026-08,AG-RIO,ACT-006,4,Billete falso o en mal estado
+2026-09,AG-RIO,ACT-006,5,Error de digitación
+2026-10,AG-RIO,ACT-006,5,Error de digitación
+2025-11,AG-QMA,ACT-007,9,Billete falso o en mal estado
+2025-12,AG-QMA,ACT-007,12,Billete falso o en mal estado
+2026-01,AG-QMA,ACT-007,9,Billete falso o en mal estado
+2026-02,AG-QMA,ACT-007,8,Error de digitación
+2026-03,AG-QMA,ACT-007,11,Reverso por cuenta errada
+2026-04,AG-QMA,ACT-007,12,Reverso por cuenta errada
+2026-05,AG-QMA,ACT-007,11,Reverso por cuenta errada
+2026-06,AG-QMA,ACT-007,12,Error de digitación
+2026-07,AG-QMA,ACT-007,12,Billete falso o en mal estado
+2026-08,AG-QMA,ACT-007,10,Reverso por cuenta errada
+2026-09,AG-QMA,ACT-007,10,Billete falso o en mal estado
+2026-10,AG-QMA,ACT-007,10,Error de digitación
+2025-11,AG-QNO,ACT-007,5,Billete falso o en mal estado
+2025-12,AG-QNO,ACT-007,9,Error de digitación
+2026-01,AG-QNO,ACT-007,6,Error de digitación
+2026-02,AG-QNO,ACT-007,5,Billete falso o en mal estado
+2026-03,AG-QNO,ACT-007,7,Billete falso o en mal estado
+2026-04,AG-QNO,ACT-007,8,Error de digitación
+2026-05,AG-QNO,ACT-007,7,Error de digitación
+2026-06,AG-QNO,ACT-007,6,Reverso por cuenta errada
+2026-07,AG-QNO,ACT-007,7,Billete falso o en mal estado
+2026-08,AG-QNO,ACT-007,6,Billete falso o en mal estado
+2026-09,AG-QNO,ACT-007,6,Billete falso o en mal estado
+2026-10,AG-QNO,ACT-007,8,Error de digitación
+2025-11,AG-QSU,ACT-007,5,Error de digitación
+2025-12,AG-QSU,ACT-007,5,Reverso por cuenta errada
+2026-01,AG-QSU,ACT-007,5,Billete falso o en mal estado
+2026-02,AG-QSU,ACT-007,3,Billete falso o en mal estado
+2026-03,AG-QSU,ACT-007,5,Billete falso o en mal estado
+2026-04,AG-QSU,ACT-007,6,Reverso por cuenta errada
+2026-05,AG-QSU,ACT-007,3,Error de digitación
+2026-06,AG-QSU,ACT-007,4,Reverso por cuenta errada
+2026-07,AG-QSU,ACT-007,6,Error de digitación
+2026-08,AG-QSU,ACT-007,4,Reverso por cuenta errada
+2026-09,AG-QSU,ACT-007,5,Error de digitación
+2026-10,AG-QSU,ACT-007,4,Reverso por cuenta errada
+2025-11,AG-VCH,ACT-007,4,Reverso por cuenta errada
+2025-12,AG-VCH,ACT-007,4,Billete falso o en mal estado
+2026-01,AG-VCH,ACT-007,4,Billete falso o en mal estado
+2026-02,AG-VCH,ACT-007,2,Billete falso o en mal estado
+2026-03,AG-VCH,ACT-007,3,Reverso por cuenta errada
+2026-04,AG-VCH,ACT-007,3,Reverso por cuenta errada
+2026-05,AG-VCH,ACT-007,5,Reverso por cuenta errada
+2026-06,AG-VCH,ACT-007,3,Reverso por cuenta errada
+2026-07,AG-VCH,ACT-007,4,Billete falso o en mal estado
+2026-08,AG-VCH,ACT-007,4,Billete falso o en mal estado
+2026-09,AG-VCH,ACT-007,3,Reverso por cuenta errada
+2026-10,AG-VCH,ACT-007,4,Error de digitación
+2025-11,AG-CUM,ACT-007,2,Error de digitación
+2025-12,AG-CUM,ACT-007,3,Reverso por cuenta errada
+2026-01,AG-CUM,ACT-007,2,Billete falso o en mal estado
+2026-02,AG-CUM,ACT-007,2,Error de digitación
+2026-03,AG-CUM,ACT-007,3,Reverso por cuenta errada
+2026-04,AG-CUM,ACT-007,3,Error de digitación
+2026-05,AG-CUM,ACT-007,3,Reverso por cuenta errada
+2026-06,AG-CUM,ACT-007,3,Reverso por cuenta errada
+2026-07,AG-CUM,ACT-007,3,Billete falso o en mal estado
+2026-08,AG-CUM,ACT-007,3,Reverso por cuenta errada
+2026-09,AG-CUM,ACT-007,3,Billete falso o en mal estado
+2026-10,AG-CUM,ACT-007,3,Billete falso o en mal estado
+2025-11,AG-IBA,ACT-007,3,Error de digitación
+2025-12,AG-IBA,ACT-007,5,Error de digitación
+2026-01,AG-IBA,ACT-007,4,Error de digitación
+2026-02,AG-IBA,ACT-007,4,Billete falso o en mal estado
+2026-03,AG-IBA,ACT-007,4,Billete falso o en mal estado
+2026-04,AG-IBA,ACT-007,6,Reverso por cuenta errada
+2026-05,AG-IBA,ACT-007,4,Error de digitación
+2026-06,AG-IBA,ACT-007,3,Error de digitación
+2026-07,AG-IBA,ACT-007,4,Billete falso o en mal estado
+2026-08,AG-IBA,ACT-007,4,Error de digitación
+2026-09,AG-IBA,ACT-007,5,Billete falso o en mal estado
+2026-10,AG-IBA,ACT-007,4,Error de digitación
+2025-11,AG-OTA,ACT-007,2,Error de digitación
+2025-12,AG-OTA,ACT-007,3,Billete falso o en mal estado
+2026-01,AG-OTA,ACT-007,3,Error de digitación
+2026-02,AG-OTA,ACT-007,2,Reverso por cuenta errada
+2026-03,AG-OTA,ACT-007,2,Billete falso o en mal estado
+2026-04,AG-OTA,ACT-007,3,Error de digitación
+2026-05,AG-OTA,ACT-007,3,Billete falso o en mal estado
+2026-06,AG-OTA,ACT-007,3,Reverso por cuenta errada
+2026-07,AG-OTA,ACT-007,3,Billete falso o en mal estado
+2026-08,AG-OTA,ACT-007,3,Reverso por cuenta errada
+2026-09,AG-OTA,ACT-007,3,Reverso por cuenta errada
+2026-10,AG-OTA,ACT-007,3,Error de digitación
+2025-11,AG-LAT,ACT-007,3,Billete falso o en mal estado
+2025-12,AG-LAT,ACT-007,4,Billete falso o en mal estado
+2026-01,AG-LAT,ACT-007,3,Billete falso o en mal estado
+2026-02,AG-LAT,ACT-007,3,Billete falso o en mal estado
+2026-03,AG-LAT,ACT-007,4,Error de digitación
+2026-04,AG-LAT,ACT-007,3,Error de digitación
+2026-05,AG-LAT,ACT-007,3,Reverso por cuenta errada
+2026-06,AG-LAT,ACT-007,3,Billete falso o en mal estado
+2026-07,AG-LAT,ACT-007,4,Reverso por cuenta errada
+2026-08,AG-LAT,ACT-007,4,Reverso por cuenta errada
+2026-09,AG-LAT,ACT-007,4,Error de digitación
+2026-10,AG-LAT,ACT-007,2,Billete falso o en mal estado
+2025-11,AG-AMB,ACT-007,4,Reverso por cuenta errada
+2025-12,AG-AMB,ACT-007,5,Billete falso o en mal estado
+2026-01,AG-AMB,ACT-007,4,Error de digitación
+2026-02,AG-AMB,ACT-007,4,Error de digitación
+2026-03,AG-AMB,ACT-007,4,Reverso por cuenta errada
+2026-04,AG-AMB,ACT-007,4,Reverso por cuenta errada
+2026-05,AG-AMB,ACT-007,3,Billete falso o en mal estado
+2026-06,AG-AMB,ACT-007,5,Reverso por cuenta errada
+2026-07,AG-AMB,ACT-007,5,Error de digitación
+2026-08,AG-AMB,ACT-007,6,Error de digitación
+2026-09,AG-AMB,ACT-007,6,Reverso por cuenta errada
+2026-10,AG-AMB,ACT-007,4,Reverso por cuenta errada
+2025-11,AG-RIO,ACT-007,3,Billete falso o en mal estado
+2025-12,AG-RIO,ACT-007,5,Billete falso o en mal estado
+2026-01,AG-RIO,ACT-007,3,Error de digitación
+2026-02,AG-RIO,ACT-007,3,Reverso por cuenta errada
+2026-03,AG-RIO,ACT-007,5,Billete falso o en mal estado
+2026-04,AG-RIO,ACT-007,3,Billete falso o en mal estado
+2026-05,AG-RIO,ACT-007,4,Error de digitación
+2026-06,AG-RIO,ACT-007,5,Error de digitación
+2026-07,AG-RIO,ACT-007,4,Reverso por cuenta errada
+2026-08,AG-RIO,ACT-007,4,Reverso por cuenta errada
+2026-09,AG-RIO,ACT-007,5,Billete falso o en mal estado
+2026-10,AG-RIO,ACT-007,4,Error de digitación
+2025-11,AG-QMA,ACT-010,26,Documentación incompleta
+2025-12,AG-QMA,ACT-010,40,Firma no coincide
+2026-01,AG-QMA,ACT-010,36,Información inconsistente del cliente
+2026-02,AG-QMA,ACT-010,31,Firma no coincide
+2026-03,AG-QMA,ACT-010,30,Firma no coincide
+2026-04,AG-QMA,ACT-010,27,Información inconsistente del cliente
+2026-05,AG-QMA,ACT-010,36,Documentación incompleta
+2026-06,AG-QMA,ACT-010,28,Documentación incompleta
+2026-07,AG-QMA,ACT-010,29,Documentación incompleta
+2026-08,AG-QMA,ACT-010,38,Firma no coincide
+2026-09,AG-QMA,ACT-010,39,Documentación incompleta
+2026-10,AG-QMA,ACT-010,24,Información inconsistente del cliente
+2025-11,AG-QNO,ACT-010,18,Documentación incompleta
+2025-12,AG-QNO,ACT-010,17,Firma no coincide
+2026-01,AG-QNO,ACT-010,24,Firma no coincide
+2026-02,AG-QNO,ACT-010,19,Documentación incompleta
+2026-03,AG-QNO,ACT-010,25,Información inconsistente del cliente
+2026-04,AG-QNO,ACT-010,19,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-010,22,Documentación incompleta
+2026-06,AG-QNO,ACT-010,21,Firma no coincide
+2026-07,AG-QNO,ACT-010,17,Información inconsistente del cliente
+2026-08,AG-QNO,ACT-010,22,Documentación incompleta
+2026-09,AG-QNO,ACT-010,19,Documentación incompleta
+2026-10,AG-QNO,ACT-010,18,Firma no coincide
+2025-11,AG-QSU,ACT-010,14,Firma no coincide
+2025-12,AG-QSU,ACT-010,19,Documentación incompleta
+2026-01,AG-QSU,ACT-010,22,Información inconsistente del cliente
+2026-02,AG-QSU,ACT-010,12,Firma no coincide
+2026-03,AG-QSU,ACT-010,20,Firma no coincide
+2026-04,AG-QSU,ACT-010,17,Documentación incompleta
+2026-05,AG-QSU,ACT-010,19,Documentación incompleta
+2026-06,AG-QSU,ACT-010,20,Documentación incompleta
+2026-07,AG-QSU,ACT-010,22,Documentación incompleta
+2026-08,AG-QSU,ACT-010,23,Documentación incompleta
+2026-09,AG-QSU,ACT-010,21,Firma no coincide
+2026-10,AG-QSU,ACT-010,16,Firma no coincide
+2025-11,AG-VCH,ACT-010,15,Información inconsistente del cliente
+2025-12,AG-VCH,ACT-010,17,Firma no coincide
+2026-01,AG-VCH,ACT-010,16,Información inconsistente del cliente
+2026-02,AG-VCH,ACT-010,13,Firma no coincide
+2026-03,AG-VCH,ACT-010,15,Documentación incompleta
+2026-04,AG-VCH,ACT-010,17,Información inconsistente del cliente
+2026-05,AG-VCH,ACT-010,14,Información inconsistente del cliente
+2026-06,AG-VCH,ACT-010,16,Documentación incompleta
+2026-07,AG-VCH,ACT-010,12,Documentación incompleta
+2026-08,AG-VCH,ACT-010,17,Documentación incompleta
+2026-09,AG-VCH,ACT-010,18,Firma no coincide
+2026-10,AG-VCH,ACT-010,17,Firma no coincide
+2025-11,AG-CUM,ACT-010,8,Información inconsistente del cliente
+2025-12,AG-CUM,ACT-010,13,Información inconsistente del cliente
+2026-01,AG-CUM,ACT-010,12,Información inconsistente del cliente
+2026-02,AG-CUM,ACT-010,8,Documentación incompleta
+2026-03,AG-CUM,ACT-010,13,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-010,11,Documentación incompleta
+2026-05,AG-CUM,ACT-010,13,Documentación incompleta
+2026-06,AG-CUM,ACT-010,11,Firma no coincide
+2026-07,AG-CUM,ACT-010,13,Información inconsistente del cliente
+2026-08,AG-CUM,ACT-010,10,Documentación incompleta
+2026-09,AG-CUM,ACT-010,11,Información inconsistente del cliente
+2026-10,AG-CUM,ACT-010,15,Información inconsistente del cliente
+2025-11,AG-IBA,ACT-010,14,Documentación incompleta
+2025-12,AG-IBA,ACT-010,15,Documentación incompleta
+2026-01,AG-IBA,ACT-010,14,Firma no coincide
+2026-02,AG-IBA,ACT-010,12,Documentación incompleta
+2026-03,AG-IBA,ACT-010,15,Información inconsistente del cliente
+2026-04,AG-IBA,ACT-010,16,Información inconsistente del cliente
+2026-05,AG-IBA,ACT-010,12,Información inconsistente del cliente
+2026-06,AG-IBA,ACT-010,13,Información inconsistente del cliente
+2026-07,AG-IBA,ACT-010,17,Información inconsistente del cliente
+2026-08,AG-IBA,ACT-010,17,Firma no coincide
+2026-09,AG-IBA,ACT-010,14,Documentación incompleta
+2026-10,AG-IBA,ACT-010,16,Documentación incompleta
+2025-11,AG-OTA,ACT-010,6,Información inconsistente del cliente
+2025-12,AG-OTA,ACT-010,9,Documentación incompleta
+2026-01,AG-OTA,ACT-010,8,Firma no coincide
+2026-02,AG-OTA,ACT-010,7,Documentación incompleta
+2026-03,AG-OTA,ACT-010,10,Información inconsistente del cliente
+2026-04,AG-OTA,ACT-010,10,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-010,8,Documentación incompleta
+2026-06,AG-OTA,ACT-010,11,Documentación incompleta
+2026-07,AG-OTA,ACT-010,9,Documentación incompleta
+2026-08,AG-OTA,ACT-010,11,Firma no coincide
+2026-09,AG-OTA,ACT-010,10,Documentación incompleta
+2026-10,AG-OTA,ACT-010,8,Documentación incompleta
+2025-11,AG-LAT,ACT-010,14,Firma no coincide
+2025-12,AG-LAT,ACT-010,10,Firma no coincide
+2026-01,AG-LAT,ACT-010,13,Información inconsistente del cliente
+2026-02,AG-LAT,ACT-010,9,Información inconsistente del cliente
+2026-03,AG-LAT,ACT-010,14,Documentación incompleta
+2026-04,AG-LAT,ACT-010,11,Documentación incompleta
+2026-05,AG-LAT,ACT-010,12,Información inconsistente del cliente
+2026-06,AG-LAT,ACT-010,15,Documentación incompleta
+2026-07,AG-LAT,ACT-010,14,Documentación incompleta
+2026-08,AG-LAT,ACT-010,11,Información inconsistente del cliente
+2026-09,AG-LAT,ACT-010,14,Firma no coincide
+2026-10,AG-LAT,ACT-010,12,Información inconsistente del cliente
+2025-11,AG-AMB,ACT-010,13,Documentación incompleta
+2025-12,AG-AMB,ACT-010,23,Información inconsistente del cliente
+2026-01,AG-AMB,ACT-010,22,Firma no coincide
+2026-02,AG-AMB,ACT-010,12,Firma no coincide
+2026-03,AG-AMB,ACT-010,27,Firma no coincide
+2026-04,AG-AMB,ACT-010,21,Documentación incompleta
+2026-05,AG-AMB,ACT-010,15,Firma no coincide
+2026-06,AG-AMB,ACT-010,23,Información inconsistente del cliente
+2026-07,AG-AMB,ACT-010,20,Documentación incompleta
+2026-08,AG-AMB,ACT-010,15,Firma no coincide
+2026-09,AG-AMB,ACT-010,18,Firma no coincide
+2026-10,AG-AMB,ACT-010,22,Información inconsistente del cliente
+2025-11,AG-RIO,ACT-010,9,Información inconsistente del cliente
+2025-12,AG-RIO,ACT-010,11,Documentación incompleta
+2026-01,AG-RIO,ACT-010,10,Información inconsistente del cliente
+2026-02,AG-RIO,ACT-010,7,Firma no coincide
+2026-03,AG-RIO,ACT-010,10,Firma no coincide
+2026-04,AG-RIO,ACT-010,11,Firma no coincide
+2026-05,AG-RIO,ACT-010,9,Firma no coincide
+2026-06,AG-RIO,ACT-010,11,Firma no coincide
+2026-07,AG-RIO,ACT-010,11,Información inconsistente del cliente
+2026-08,AG-RIO,ACT-010,12,Documentación incompleta
+2026-09,AG-RIO,ACT-010,11,Firma no coincide
+2026-10,AG-RIO,ACT-010,9,Documentación incompleta
+2025-11,AG-QMA,ACT-011,7,Documentación incompleta
+2025-12,AG-QMA,ACT-011,7,Información inconsistente del cliente
+2026-01,AG-QMA,ACT-011,7,Información inconsistente del cliente
+2026-02,AG-QMA,ACT-011,5,Información inconsistente del cliente
+2026-03,AG-QMA,ACT-011,7,Información inconsistente del cliente
+2026-04,AG-QMA,ACT-011,11,Firma no coincide
+2026-05,AG-QMA,ACT-011,6,Información inconsistente del cliente
+2026-06,AG-QMA,ACT-011,9,Información inconsistente del cliente
+2026-07,AG-QMA,ACT-011,11,Firma no coincide
+2026-08,AG-QMA,ACT-011,9,Documentación incompleta
+2026-09,AG-QMA,ACT-011,8,Información inconsistente del cliente
+2026-10,AG-QMA,ACT-011,9,Documentación incompleta
+2025-11,AG-QNO,ACT-011,5,Documentación incompleta
+2025-12,AG-QNO,ACT-011,5,Documentación incompleta
+2026-01,AG-QNO,ACT-011,6,Firma no coincide
+2026-02,AG-QNO,ACT-011,4,Documentación incompleta
+2026-03,AG-QNO,ACT-011,5,Documentación incompleta
+2026-04,AG-QNO,ACT-011,6,Firma no coincide
+2026-05,AG-QNO,ACT-011,5,Firma no coincide
+2026-06,AG-QNO,ACT-011,5,Información inconsistente del cliente
+2026-07,AG-QNO,ACT-011,6,Documentación incompleta
+2026-08,AG-QNO,ACT-011,4,Firma no coincide
+2026-09,AG-QNO,ACT-011,6,Firma no coincide
+2026-10,AG-QNO,ACT-011,6,Documentación incompleta
+2025-11,AG-QSU,ACT-011,4,Información inconsistente del cliente
+2025-12,AG-QSU,ACT-011,6,Firma no coincide
+2026-01,AG-QSU,ACT-011,5,Documentación incompleta
+2026-02,AG-QSU,ACT-011,3,Documentación incompleta
+2026-03,AG-QSU,ACT-011,6,Documentación incompleta
+2026-04,AG-QSU,ACT-011,5,Firma no coincide
+2026-05,AG-QSU,ACT-011,5,Documentación incompleta
+2026-06,AG-QSU,ACT-011,5,Firma no coincide
+2026-07,AG-QSU,ACT-011,4,Documentación incompleta
+2026-08,AG-QSU,ACT-011,4,Información inconsistente del cliente
+2026-09,AG-QSU,ACT-011,6,Información inconsistente del cliente
+2026-10,AG-QSU,ACT-011,4,Información inconsistente del cliente
+2025-11,AG-VCH,ACT-011,3,Documentación incompleta
+2025-12,AG-VCH,ACT-011,5,Firma no coincide
+2026-01,AG-VCH,ACT-011,5,Documentación incompleta
+2026-02,AG-VCH,ACT-011,3,Información inconsistente del cliente
+2026-03,AG-VCH,ACT-011,4,Firma no coincide
+2026-04,AG-VCH,ACT-011,5,Información inconsistente del cliente
+2026-05,AG-VCH,ACT-011,3,Firma no coincide
+2026-06,AG-VCH,ACT-011,4,Información inconsistente del cliente
+2026-07,AG-VCH,ACT-011,4,Firma no coincide
+2026-08,AG-VCH,ACT-011,3,Información inconsistente del cliente
+2026-09,AG-VCH,ACT-011,3,Documentación incompleta
+2026-10,AG-VCH,ACT-011,5,Documentación incompleta
+2025-11,AG-CUM,ACT-011,3,Documentación incompleta
+2025-12,AG-CUM,ACT-011,4,Firma no coincide
+2026-01,AG-CUM,ACT-011,3,Información inconsistente del cliente
+2026-02,AG-CUM,ACT-011,2,Documentación incompleta
+2026-03,AG-CUM,ACT-011,2,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-011,3,Firma no coincide
+2026-05,AG-CUM,ACT-011,3,Información inconsistente del cliente
+2026-06,AG-CUM,ACT-011,3,Documentación incompleta
+2026-07,AG-CUM,ACT-011,3,Firma no coincide
+2026-08,AG-CUM,ACT-011,3,Documentación incompleta
+2026-09,AG-CUM,ACT-011,3,Firma no coincide
+2026-10,AG-CUM,ACT-011,3,Firma no coincide
+2025-11,AG-IBA,ACT-011,4,Documentación incompleta
+2025-12,AG-IBA,ACT-011,3,Información inconsistente del cliente
+2026-01,AG-IBA,ACT-011,4,Documentación incompleta
+2026-02,AG-IBA,ACT-011,3,Documentación incompleta
+2026-03,AG-IBA,ACT-011,5,Información inconsistente del cliente
+2026-04,AG-IBA,ACT-011,4,Documentación incompleta
+2026-05,AG-IBA,ACT-011,3,Documentación incompleta
+2026-06,AG-IBA,ACT-011,4,Información inconsistente del cliente
+2026-07,AG-IBA,ACT-011,4,Firma no coincide
+2026-08,AG-IBA,ACT-011,3,Información inconsistente del cliente
+2026-09,AG-IBA,ACT-011,4,Firma no coincide
+2026-10,AG-IBA,ACT-011,4,Información inconsistente del cliente
+2025-11,AG-OTA,ACT-011,2,Información inconsistente del cliente
+2025-12,AG-OTA,ACT-011,2,Documentación incompleta
+2026-01,AG-OTA,ACT-011,2,Firma no coincide
+2026-02,AG-OTA,ACT-011,2,Información inconsistente del cliente
+2026-03,AG-OTA,ACT-011,3,Documentación incompleta
+2026-04,AG-OTA,ACT-011,3,Documentación incompleta
+2026-05,AG-OTA,ACT-011,2,Información inconsistente del cliente
+2026-06,AG-OTA,ACT-011,2,Firma no coincide
+2026-07,AG-OTA,ACT-011,3,Documentación incompleta
+2026-08,AG-OTA,ACT-011,2,Documentación incompleta
+2026-09,AG-OTA,ACT-011,3,Firma no coincide
+2026-10,AG-OTA,ACT-011,2,Información inconsistente del cliente
+2025-11,AG-LAT,ACT-011,2,Firma no coincide
+2025-12,AG-LAT,ACT-011,3,Documentación incompleta
+2026-01,AG-LAT,ACT-011,4,Documentación incompleta
+2026-02,AG-LAT,ACT-011,2,Documentación incompleta
+2026-03,AG-LAT,ACT-011,3,Documentación incompleta
+2026-04,AG-LAT,ACT-011,4,Firma no coincide
+2026-05,AG-LAT,ACT-011,2,Información inconsistente del cliente
+2026-06,AG-LAT,ACT-011,3,Información inconsistente del cliente
+2026-07,AG-LAT,ACT-011,3,Información inconsistente del cliente
+2026-08,AG-LAT,ACT-011,3,Documentación incompleta
+2026-09,AG-LAT,ACT-011,4,Firma no coincide
+2026-10,AG-LAT,ACT-011,3,Información inconsistente del cliente
+2025-11,AG-AMB,ACT-011,4,Firma no coincide
+2025-12,AG-AMB,ACT-011,4,Información inconsistente del cliente
+2026-01,AG-AMB,ACT-011,6,Firma no coincide
+2026-02,AG-AMB,ACT-011,3,Información inconsistente del cliente
+2026-03,AG-AMB,ACT-011,5,Firma no coincide
+2026-04,AG-AMB,ACT-011,5,Información inconsistente del cliente
+2026-05,AG-AMB,ACT-011,4,Firma no coincide
+2026-06,AG-AMB,ACT-011,6,Documentación incompleta
+2026-07,AG-AMB,ACT-011,5,Documentación incompleta
+2026-08,AG-AMB,ACT-011,6,Firma no coincide
+2026-09,AG-AMB,ACT-011,5,Firma no coincide
+2026-10,AG-AMB,ACT-011,5,Firma no coincide
+2025-11,AG-RIO,ACT-011,3,Información inconsistente del cliente
+2025-12,AG-RIO,ACT-011,3,Información inconsistente del cliente
+2026-01,AG-RIO,ACT-011,4,Documentación incompleta
+2026-02,AG-RIO,ACT-011,3,Documentación incompleta
+2026-03,AG-RIO,ACT-011,3,Firma no coincide
+2026-04,AG-RIO,ACT-011,3,Información inconsistente del cliente
+2026-05,AG-RIO,ACT-011,3,Firma no coincide
+2026-06,AG-RIO,ACT-011,3,Documentación incompleta
+2026-07,AG-RIO,ACT-011,3,Documentación incompleta
+2026-08,AG-RIO,ACT-011,4,Información inconsistente del cliente
+2026-09,AG-RIO,ACT-011,3,Firma no coincide
+2026-10,AG-RIO,ACT-011,3,Firma no coincide
+2025-11,AG-QMA,ACT-012,14,Información inconsistente del cliente
+2025-12,AG-QMA,ACT-012,12,Documentación incompleta
+2026-01,AG-QMA,ACT-012,14,Firma no coincide
+2026-02,AG-QMA,ACT-012,11,Firma no coincide
+2026-03,AG-QMA,ACT-012,17,Documentación incompleta
+2026-04,AG-QMA,ACT-012,12,Documentación incompleta
+2026-05,AG-QMA,ACT-012,13,Documentación incompleta
+2026-06,AG-QMA,ACT-012,11,Documentación incompleta
+2026-07,AG-QMA,ACT-012,11,Documentación incompleta
+2026-08,AG-QMA,ACT-012,14,Firma no coincide
+2026-09,AG-QMA,ACT-012,14,Firma no coincide
+2026-10,AG-QMA,ACT-012,11,Documentación incompleta
+2025-11,AG-QNO,ACT-012,8,Información inconsistente del cliente
+2025-12,AG-QNO,ACT-012,9,Firma no coincide
+2026-01,AG-QNO,ACT-012,9,Firma no coincide
+2026-02,AG-QNO,ACT-012,5,Documentación incompleta
+2026-03,AG-QNO,ACT-012,10,Información inconsistente del cliente
+2026-04,AG-QNO,ACT-012,8,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-012,6,Documentación incompleta
+2026-06,AG-QNO,ACT-012,10,Documentación incompleta
+2026-07,AG-QNO,ACT-012,9,Información inconsistente del cliente
+2026-08,AG-QNO,ACT-012,9,Firma no coincide
+2026-09,AG-QNO,ACT-012,9,Firma no coincide
+2026-10,AG-QNO,ACT-012,6,Información inconsistente del cliente
+2025-11,AG-QSU,ACT-012,7,Firma no coincide
+2025-12,AG-QSU,ACT-012,10,Información inconsistente del cliente
+2026-01,AG-QSU,ACT-012,10,Información inconsistente del cliente
+2026-02,AG-QSU,ACT-012,5,Información inconsistente del cliente
+2026-03,AG-QSU,ACT-012,6,Documentación incompleta
+2026-04,AG-QSU,ACT-012,9,Firma no coincide
+2026-05,AG-QSU,ACT-012,6,Información inconsistente del cliente
+2026-06,AG-QSU,ACT-012,8,Información inconsistente del cliente
+2026-07,AG-QSU,ACT-012,7,Documentación incompleta
+2026-08,AG-QSU,ACT-012,7,Información inconsistente del cliente
+2026-09,AG-QSU,ACT-012,10,Documentación incompleta
+2026-10,AG-QSU,ACT-012,8,Firma no coincide
+2025-11,AG-VCH,ACT-012,7,Documentación incompleta
+2025-12,AG-VCH,ACT-012,7,Información inconsistente del cliente
+2026-01,AG-VCH,ACT-012,7,Documentación incompleta
+2026-02,AG-VCH,ACT-012,4,Información inconsistente del cliente
+2026-03,AG-VCH,ACT-012,7,Firma no coincide
+2026-04,AG-VCH,ACT-012,7,Información inconsistente del cliente
+2026-05,AG-VCH,ACT-012,6,Información inconsistente del cliente
+2026-06,AG-VCH,ACT-012,7,Documentación incompleta
+2026-07,AG-VCH,ACT-012,6,Firma no coincide
+2026-08,AG-VCH,ACT-012,6,Información inconsistente del cliente
+2026-09,AG-VCH,ACT-012,9,Documentación incompleta
+2026-10,AG-VCH,ACT-012,7,Firma no coincide
+2025-11,AG-CUM,ACT-012,3,Firma no coincide
+2025-12,AG-CUM,ACT-012,5,Firma no coincide
+2026-01,AG-CUM,ACT-012,6,Información inconsistente del cliente
+2026-02,AG-CUM,ACT-012,4,Documentación incompleta
+2026-03,AG-CUM,ACT-012,6,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-012,4,Firma no coincide
+2026-05,AG-CUM,ACT-012,5,Información inconsistente del cliente
+2026-06,AG-CUM,ACT-012,6,Información inconsistente del cliente
+2026-07,AG-CUM,ACT-012,6,Firma no coincide
+2026-08,AG-CUM,ACT-012,5,Documentación incompleta
+2026-09,AG-CUM,ACT-012,4,Documentación incompleta
+2026-10,AG-CUM,ACT-012,4,Documentación incompleta
+2025-11,AG-IBA,ACT-012,7,Información inconsistente del cliente
+2025-12,AG-IBA,ACT-012,6,Información inconsistente del cliente
+2026-01,AG-IBA,ACT-012,7,Documentación incompleta
+2026-02,AG-IBA,ACT-012,6,Firma no coincide
+2026-03,AG-IBA,ACT-012,6,Información inconsistente del cliente
+2026-04,AG-IBA,ACT-012,5,Firma no coincide
+2026-05,AG-IBA,ACT-012,6,Firma no coincide
+2026-06,AG-IBA,ACT-012,6,Información inconsistente del cliente
+2026-07,AG-IBA,ACT-012,7,Documentación incompleta
+2026-08,AG-IBA,ACT-012,7,Firma no coincide
+2026-09,AG-IBA,ACT-012,6,Firma no coincide
+2026-10,AG-IBA,ACT-012,5,Documentación incompleta
+2025-11,AG-OTA,ACT-012,3,Documentación incompleta
+2025-12,AG-OTA,ACT-012,4,Documentación incompleta
+2026-01,AG-OTA,ACT-012,5,Documentación incompleta
+2026-02,AG-OTA,ACT-012,3,Firma no coincide
+2026-03,AG-OTA,ACT-012,5,Firma no coincide
+2026-04,AG-OTA,ACT-012,4,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-012,3,Información inconsistente del cliente
+2026-06,AG-OTA,ACT-012,3,Firma no coincide
+2026-07,AG-OTA,ACT-012,5,Documentación incompleta
+2026-08,AG-OTA,ACT-012,3,Documentación incompleta
+2026-09,AG-OTA,ACT-012,5,Firma no coincide
+2026-10,AG-OTA,ACT-012,3,Documentación incompleta
+2025-11,AG-LAT,ACT-012,4,Información inconsistente del cliente
+2025-12,AG-LAT,ACT-012,5,Información inconsistente del cliente
+2026-01,AG-LAT,ACT-012,6,Información inconsistente del cliente
+2026-02,AG-LAT,ACT-012,4,Documentación incompleta
+2026-03,AG-LAT,ACT-012,6,Firma no coincide
+2026-04,AG-LAT,ACT-012,5,Firma no coincide
+2026-05,AG-LAT,ACT-012,4,Firma no coincide
+2026-06,AG-LAT,ACT-012,5,Documentación incompleta
+2026-07,AG-LAT,ACT-012,6,Documentación incompleta
+2026-08,AG-LAT,ACT-012,6,Información inconsistente del cliente
+2026-09,AG-LAT,ACT-012,5,Información inconsistente del cliente
+2026-10,AG-LAT,ACT-012,4,Documentación incompleta
+2025-11,AG-AMB,ACT-012,6,Documentación incompleta
+2025-12,AG-AMB,ACT-012,9,Documentación incompleta
+2026-01,AG-AMB,ACT-012,8,Documentación incompleta
+2026-02,AG-AMB,ACT-012,6,Documentación incompleta
+2026-03,AG-AMB,ACT-012,9,Información inconsistente del cliente
+2026-04,AG-AMB,ACT-012,7,Documentación incompleta
+2026-05,AG-AMB,ACT-012,8,Documentación incompleta
+2026-06,AG-AMB,ACT-012,8,Información inconsistente del cliente
+2026-07,AG-AMB,ACT-012,9,Información inconsistente del cliente
+2026-08,AG-AMB,ACT-012,8,Documentación incompleta
+2026-09,AG-AMB,ACT-012,7,Documentación incompleta
+2026-10,AG-AMB,ACT-012,6,Firma no coincide
+2025-11,AG-RIO,ACT-012,5,Firma no coincide
+2025-12,AG-RIO,ACT-012,6,Información inconsistente del cliente
+2026-01,AG-RIO,ACT-012,6,Documentación incompleta
+2026-02,AG-RIO,ACT-012,3,Documentación incompleta
+2026-03,AG-RIO,ACT-012,6,Firma no coincide
+2026-04,AG-RIO,ACT-012,6,Información inconsistente del cliente
+2026-05,AG-RIO,ACT-012,4,Firma no coincide
+2026-06,AG-RIO,ACT-012,4,Información inconsistente del cliente
+2026-07,AG-RIO,ACT-012,5,Firma no coincide
+2026-08,AG-RIO,ACT-012,6,Información inconsistente del cliente
+2026-09,AG-RIO,ACT-012,4,Firma no coincide
+2026-10,AG-RIO,ACT-012,4,Documentación incompleta
+2025-11,AG-QMA,ACT-013,36,Documentación incompleta
+2025-12,AG-QMA,ACT-013,55,Firma no coincide
+2026-01,AG-QMA,ACT-013,48,Información inconsistente del cliente
+2026-02,AG-QMA,ACT-013,37,Información inconsistente del cliente
+2026-03,AG-QMA,ACT-013,37,Documentación incompleta
+2026-04,AG-QMA,ACT-013,34,Documentación incompleta
+2026-05,AG-QMA,ACT-013,35,Firma no coincide
+2026-06,AG-QMA,ACT-013,48,Firma no coincide
+2026-07,AG-QMA,ACT-013,42,Firma no coincide
+2026-08,AG-QMA,ACT-013,38,Documentación incompleta
+2026-09,AG-QMA,ACT-013,43,Firma no coincide
+2026-10,AG-QMA,ACT-013,42,Firma no coincide
+2025-11,AG-QNO,ACT-013,25,Documentación incompleta
+2025-12,AG-QNO,ACT-013,26,Información inconsistente del cliente
+2026-01,AG-QNO,ACT-013,20,Firma no coincide
+2026-02,AG-QNO,ACT-013,23,Documentación incompleta
+2026-03,AG-QNO,ACT-013,21,Información inconsistente del cliente
+2026-04,AG-QNO,ACT-013,28,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-013,18,Documentación incompleta
+2026-06,AG-QNO,ACT-013,22,Información inconsistente del cliente
+2026-07,AG-QNO,ACT-013,28,Información inconsistente del cliente
+2026-08,AG-QNO,ACT-013,20,Documentación incompleta
+2026-09,AG-QNO,ACT-013,22,Documentación incompleta
+2026-10,AG-QNO,ACT-013,20,Firma no coincide
+2025-11,AG-QSU,ACT-013,24,Información inconsistente del cliente
+2025-12,AG-QSU,ACT-013,31,Firma no coincide
+2026-01,AG-QSU,ACT-013,22,Firma no coincide
+2026-02,AG-QSU,ACT-013,15,Documentación incompleta
+2026-03,AG-QSU,ACT-013,24,Información inconsistente del cliente
+2026-04,AG-QSU,ACT-013,31,Documentación incompleta
+2026-05,AG-QSU,ACT-013,21,Documentación incompleta
+2026-06,AG-QSU,ACT-013,18,Documentación incompleta
+2026-07,AG-QSU,ACT-013,28,Información inconsistente del cliente
+2026-08,AG-QSU,ACT-013,18,Información inconsistente del cliente
+2026-09,AG-QSU,ACT-013,26,Firma no coincide
+2026-10,AG-QSU,ACT-013,22,Documentación incompleta
+2025-11,AG-VCH,ACT-013,15,Documentación incompleta
+2025-12,AG-VCH,ACT-013,16,Firma no coincide
+2026-01,AG-VCH,ACT-013,19,Firma no coincide
+2026-02,AG-VCH,ACT-013,15,Firma no coincide
+2026-03,AG-VCH,ACT-013,17,Documentación incompleta
+2026-04,AG-VCH,ACT-013,16,Firma no coincide
+2026-05,AG-VCH,ACT-013,17,Firma no coincide
+2026-06,AG-VCH,ACT-013,23,Información inconsistente del cliente
+2026-07,AG-VCH,ACT-013,18,Firma no coincide
+2026-08,AG-VCH,ACT-013,16,Documentación incompleta
+2026-09,AG-VCH,ACT-013,21,Documentación incompleta
+2026-10,AG-VCH,ACT-013,20,Documentación incompleta
+2025-11,AG-CUM,ACT-013,14,Firma no coincide
+2025-12,AG-CUM,ACT-013,14,Firma no coincide
+2026-01,AG-CUM,ACT-013,18,Documentación incompleta
+2026-02,AG-CUM,ACT-013,11,Documentación incompleta
+2026-03,AG-CUM,ACT-013,15,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-013,14,Información inconsistente del cliente
+2026-05,AG-CUM,ACT-013,10,Firma no coincide
+2026-06,AG-CUM,ACT-013,16,Información inconsistente del cliente
+2026-07,AG-CUM,ACT-013,16,Información inconsistente del cliente
+2026-08,AG-CUM,ACT-013,17,Firma no coincide
+2026-09,AG-CUM,ACT-013,17,Documentación incompleta
+2026-10,AG-CUM,ACT-013,11,Información inconsistente del cliente
+2025-11,AG-IBA,ACT-013,13,Documentación incompleta
+2025-12,AG-IBA,ACT-013,16,Documentación incompleta
+2026-01,AG-IBA,ACT-013,20,Documentación incompleta
+2026-02,AG-IBA,ACT-013,18,Información inconsistente del cliente
+2026-03,AG-IBA,ACT-013,16,Información inconsistente del cliente
+2026-04,AG-IBA,ACT-013,16,Firma no coincide
+2026-05,AG-IBA,ACT-013,17,Firma no coincide
+2026-06,AG-IBA,ACT-013,16,Información inconsistente del cliente
+2026-07,AG-IBA,ACT-013,16,Firma no coincide
+2026-08,AG-IBA,ACT-013,19,Firma no coincide
+2026-09,AG-IBA,ACT-013,21,Documentación incompleta
+2026-10,AG-IBA,ACT-013,15,Información inconsistente del cliente
+2025-11,AG-OTA,ACT-013,9,Documentación incompleta
+2025-12,AG-OTA,ACT-013,13,Firma no coincide
+2026-01,AG-OTA,ACT-013,12,Información inconsistente del cliente
+2026-02,AG-OTA,ACT-013,7,Firma no coincide
+2026-03,AG-OTA,ACT-013,9,Firma no coincide
+2026-04,AG-OTA,ACT-013,12,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-013,11,Información inconsistente del cliente
+2026-06,AG-OTA,ACT-013,10,Información inconsistente del cliente
+2026-07,AG-OTA,ACT-013,9,Documentación incompleta
+2026-08,AG-OTA,ACT-013,13,Firma no coincide
+2026-09,AG-OTA,ACT-013,15,Documentación incompleta
+2026-10,AG-OTA,ACT-013,13,Firma no coincide
+2025-11,AG-LAT,ACT-013,14,Documentación incompleta
+2025-12,AG-LAT,ACT-013,18,Información inconsistente del cliente
+2026-01,AG-LAT,ACT-013,19,Documentación incompleta
+2026-02,AG-LAT,ACT-013,12,Información inconsistente del cliente
+2026-03,AG-LAT,ACT-013,18,Información inconsistente del cliente
+2026-04,AG-LAT,ACT-013,14,Firma no coincide
+2026-05,AG-LAT,ACT-013,11,Información inconsistente del cliente
+2026-06,AG-LAT,ACT-013,15,Información inconsistente del cliente
+2026-07,AG-LAT,ACT-013,13,Documentación incompleta
+2026-08,AG-LAT,ACT-013,18,Información inconsistente del cliente
+2026-09,AG-LAT,ACT-013,16,Información inconsistente del cliente
+2026-10,AG-LAT,ACT-013,17,Firma no coincide
+2025-11,AG-AMB,ACT-013,18,Información inconsistente del cliente
+2025-12,AG-AMB,ACT-013,29,Información inconsistente del cliente
+2026-01,AG-AMB,ACT-013,21,Firma no coincide
+2026-02,AG-AMB,ACT-013,21,Documentación incompleta
+2026-03,AG-AMB,ACT-013,20,Firma no coincide
+2026-04,AG-AMB,ACT-013,18,Información inconsistente del cliente
+2026-05,AG-AMB,ACT-013,17,Información inconsistente del cliente
+2026-06,AG-AMB,ACT-013,22,Documentación incompleta
+2026-07,AG-AMB,ACT-013,21,Información inconsistente del cliente
+2026-08,AG-AMB,ACT-013,26,Firma no coincide
+2026-09,AG-AMB,ACT-013,24,Firma no coincide
+2026-10,AG-AMB,ACT-013,23,Firma no coincide
+2025-11,AG-RIO,ACT-013,14,Información inconsistente del cliente
+2025-12,AG-RIO,ACT-013,15,Firma no coincide
+2026-01,AG-RIO,ACT-013,17,Información inconsistente del cliente
+2026-02,AG-RIO,ACT-013,10,Firma no coincide
+2026-03,AG-RIO,ACT-013,18,Firma no coincide
+2026-04,AG-RIO,ACT-013,18,Documentación incompleta
+2026-05,AG-RIO,ACT-013,11,Documentación incompleta
+2026-06,AG-RIO,ACT-013,13,Firma no coincide
+2026-07,AG-RIO,ACT-013,17,Documentación incompleta
+2026-08,AG-RIO,ACT-013,15,Información inconsistente del cliente
+2026-09,AG-RIO,ACT-013,14,Documentación incompleta
+2026-10,AG-RIO,ACT-013,13,Información inconsistente del cliente
+2025-11,AG-QMA,ACT-014,7,Información inconsistente del cliente
+2025-12,AG-QMA,ACT-014,12,Información inconsistente del cliente
+2026-01,AG-QMA,ACT-014,11,Documentación incompleta
+2026-02,AG-QMA,ACT-014,6,Documentación incompleta
+2026-03,AG-QMA,ACT-014,12,Información inconsistente del cliente
+2026-04,AG-QMA,ACT-014,11,Documentación incompleta
+2026-05,AG-QMA,ACT-014,9,Información inconsistente del cliente
+2026-06,AG-QMA,ACT-014,9,Información inconsistente del cliente
+2026-07,AG-QMA,ACT-014,7,Información inconsistente del cliente
+2026-08,AG-QMA,ACT-014,8,Información inconsistente del cliente
+2026-09,AG-QMA,ACT-014,7,Información inconsistente del cliente
+2026-10,AG-QMA,ACT-014,9,Información inconsistente del cliente
+2025-11,AG-QNO,ACT-014,4,Firma no coincide
+2025-12,AG-QNO,ACT-014,5,Documentación incompleta
+2026-01,AG-QNO,ACT-014,6,Información inconsistente del cliente
+2026-02,AG-QNO,ACT-014,4,Documentación incompleta
+2026-03,AG-QNO,ACT-014,5,Información inconsistente del cliente
+2026-04,AG-QNO,ACT-014,5,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-014,4,Firma no coincide
+2026-06,AG-QNO,ACT-014,5,Firma no coincide
+2026-07,AG-QNO,ACT-014,4,Firma no coincide
+2026-08,AG-QNO,ACT-014,6,Información inconsistente del cliente
+2026-09,AG-QNO,ACT-014,7,Documentación incompleta
+2026-10,AG-QNO,ACT-014,7,Información inconsistente del cliente
+2025-11,AG-QSU,ACT-014,4,Información inconsistente del cliente
+2025-12,AG-QSU,ACT-014,6,Información inconsistente del cliente
+2026-01,AG-QSU,ACT-014,6,Información inconsistente del cliente
+2026-02,AG-QSU,ACT-014,4,Firma no coincide
+2026-03,AG-QSU,ACT-014,6,Firma no coincide
+2026-04,AG-QSU,ACT-014,7,Firma no coincide
+2026-05,AG-QSU,ACT-014,5,Información inconsistente del cliente
+2026-06,AG-QSU,ACT-014,6,Información inconsistente del cliente
+2026-07,AG-QSU,ACT-014,5,Firma no coincide
+2026-08,AG-QSU,ACT-014,6,Documentación incompleta
+2026-09,AG-QSU,ACT-014,6,Firma no coincide
+2026-10,AG-QSU,ACT-014,4,Documentación incompleta
+2025-11,AG-VCH,ACT-014,4,Documentación incompleta
+2025-12,AG-VCH,ACT-014,6,Información inconsistente del cliente
+2026-01,AG-VCH,ACT-014,5,Documentación incompleta
+2026-02,AG-VCH,ACT-014,3,Información inconsistente del cliente
+2026-03,AG-VCH,ACT-014,5,Documentación incompleta
+2026-04,AG-VCH,ACT-014,4,Firma no coincide
+2026-05,AG-VCH,ACT-014,5,Información inconsistente del cliente
+2026-06,AG-VCH,ACT-014,3,Documentación incompleta
+2026-07,AG-VCH,ACT-014,5,Firma no coincide
+2026-08,AG-VCH,ACT-014,4,Firma no coincide
+2026-09,AG-VCH,ACT-014,4,Información inconsistente del cliente
+2026-10,AG-VCH,ACT-014,4,Firma no coincide
+2025-11,AG-CUM,ACT-014,2,Información inconsistente del cliente
+2025-12,AG-CUM,ACT-014,3,Firma no coincide
+2026-01,AG-CUM,ACT-014,4,Firma no coincide
+2026-02,AG-CUM,ACT-014,3,Información inconsistente del cliente
+2026-03,AG-CUM,ACT-014,4,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-014,3,Información inconsistente del cliente
+2026-05,AG-CUM,ACT-014,2,Documentación incompleta
+2026-06,AG-CUM,ACT-014,4,Información inconsistente del cliente
+2026-07,AG-CUM,ACT-014,3,Información inconsistente del cliente
+2026-08,AG-CUM,ACT-014,4,Información inconsistente del cliente
+2026-09,AG-CUM,ACT-014,4,Información inconsistente del cliente
+2026-10,AG-CUM,ACT-014,3,Firma no coincide
+2025-11,AG-IBA,ACT-014,4,Firma no coincide
+2025-12,AG-IBA,ACT-014,4,Documentación incompleta
+2026-01,AG-IBA,ACT-014,4,Firma no coincide
+2026-02,AG-IBA,ACT-014,3,Información inconsistente del cliente
+2026-03,AG-IBA,ACT-014,5,Información inconsistente del cliente
+2026-04,AG-IBA,ACT-014,4,Información inconsistente del cliente
+2026-05,AG-IBA,ACT-014,3,Información inconsistente del cliente
+2026-06,AG-IBA,ACT-014,5,Firma no coincide
+2026-07,AG-IBA,ACT-014,5,Documentación incompleta
+2026-08,AG-IBA,ACT-014,3,Firma no coincide
+2026-09,AG-IBA,ACT-014,5,Información inconsistente del cliente
+2026-10,AG-IBA,ACT-014,3,Documentación incompleta
+2025-11,AG-OTA,ACT-014,3,Información inconsistente del cliente
+2025-12,AG-OTA,ACT-014,3,Información inconsistente del cliente
+2026-01,AG-OTA,ACT-014,2,Documentación incompleta
+2026-02,AG-OTA,ACT-014,2,Firma no coincide
+2026-03,AG-OTA,ACT-014,3,Documentación incompleta
+2026-04,AG-OTA,ACT-014,2,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-014,3,Información inconsistente del cliente
+2026-06,AG-OTA,ACT-014,3,Firma no coincide
+2026-07,AG-OTA,ACT-014,3,Información inconsistente del cliente
+2026-08,AG-OTA,ACT-014,3,Documentación incompleta
+2026-09,AG-OTA,ACT-014,2,Firma no coincide
+2026-10,AG-OTA,ACT-014,2,Documentación incompleta
+2025-11,AG-LAT,ACT-014,2,Documentación incompleta
+2025-12,AG-LAT,ACT-014,4,Información inconsistente del cliente
+2026-01,AG-LAT,ACT-014,4,Información inconsistente del cliente
+2026-02,AG-LAT,ACT-014,3,Firma no coincide
+2026-03,AG-LAT,ACT-014,3,Documentación incompleta
+2026-04,AG-LAT,ACT-014,4,Documentación incompleta
+2026-05,AG-LAT,ACT-014,4,Documentación incompleta
+2026-06,AG-LAT,ACT-014,3,Información inconsistente del cliente
+2026-07,AG-LAT,ACT-014,3,Información inconsistente del cliente
+2026-08,AG-LAT,ACT-014,4,Información inconsistente del cliente
+2026-09,AG-LAT,ACT-014,4,Documentación incompleta
+2026-10,AG-LAT,ACT-014,3,Información inconsistente del cliente
+2025-11,AG-AMB,ACT-014,5,Firma no coincide
+2025-12,AG-AMB,ACT-014,8,Firma no coincide
+2026-01,AG-AMB,ACT-014,7,Información inconsistente del cliente
+2026-02,AG-AMB,ACT-014,5,Información inconsistente del cliente
+2026-03,AG-AMB,ACT-014,5,Información inconsistente del cliente
+2026-04,AG-AMB,ACT-014,6,Documentación incompleta
+2026-05,AG-AMB,ACT-014,6,Firma no coincide
+2026-06,AG-AMB,ACT-014,5,Documentación incompleta
+2026-07,AG-AMB,ACT-014,7,Firma no coincide
+2026-08,AG-AMB,ACT-014,5,Información inconsistente del cliente
+2026-09,AG-AMB,ACT-014,5,Documentación incompleta
+2026-10,AG-AMB,ACT-014,6,Firma no coincide
+2025-11,AG-RIO,ACT-014,3,Documentación incompleta
+2025-12,AG-RIO,ACT-014,4,Información inconsistente del cliente
+2026-01,AG-RIO,ACT-014,3,Información inconsistente del cliente
+2026-02,AG-RIO,ACT-014,2,Documentación incompleta
+2026-03,AG-RIO,ACT-014,4,Documentación incompleta
+2026-04,AG-RIO,ACT-014,4,Información inconsistente del cliente
+2026-05,AG-RIO,ACT-014,3,Información inconsistente del cliente
+2026-06,AG-RIO,ACT-014,4,Documentación incompleta
+2026-07,AG-RIO,ACT-014,4,Información inconsistente del cliente
+2026-08,AG-RIO,ACT-014,4,Firma no coincide
+2026-09,AG-RIO,ACT-014,3,Información inconsistente del cliente
+2026-10,AG-RIO,ACT-014,4,Documentación incompleta
+2025-11,AG-QMA,ACT-015,20,Información inconsistente del cliente
+2025-12,AG-QMA,ACT-015,22,Firma no coincide
+2026-01,AG-QMA,ACT-015,24,Firma no coincide
+2026-02,AG-QMA,ACT-015,15,Documentación incompleta
+2026-03,AG-QMA,ACT-015,18,Firma no coincide
+2026-04,AG-QMA,ACT-015,17,Firma no coincide
+2026-05,AG-QMA,ACT-015,19,Documentación incompleta
+2026-06,AG-QMA,ACT-015,22,Documentación incompleta
+2026-07,AG-QMA,ACT-015,18,Información inconsistente del cliente
+2026-08,AG-QMA,ACT-015,23,Documentación incompleta
+2026-09,AG-QMA,ACT-015,20,Documentación incompleta
+2026-10,AG-QMA,ACT-015,16,Firma no coincide
+2025-11,AG-QNO,ACT-015,12,Firma no coincide
+2025-12,AG-QNO,ACT-015,15,Firma no coincide
+2026-01,AG-QNO,ACT-015,11,Documentación incompleta
+2026-02,AG-QNO,ACT-015,11,Firma no coincide
+2026-03,AG-QNO,ACT-015,17,Información inconsistente del cliente
+2026-04,AG-QNO,ACT-015,10,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-015,11,Firma no coincide
+2026-06,AG-QNO,ACT-015,12,Firma no coincide
+2026-07,AG-QNO,ACT-015,13,Información inconsistente del cliente
+2026-08,AG-QNO,ACT-015,15,Firma no coincide
+2026-09,AG-QNO,ACT-015,12,Firma no coincide
+2026-10,AG-QNO,ACT-015,9,Firma no coincide
+2025-11,AG-QSU,ACT-015,11,Información inconsistente del cliente
+2025-12,AG-QSU,ACT-015,11,Firma no coincide
+2026-01,AG-QSU,ACT-015,14,Firma no coincide
+2026-02,AG-QSU,ACT-015,11,Firma no coincide
+2026-03,AG-QSU,ACT-015,11,Información inconsistente del cliente
+2026-04,AG-QSU,ACT-015,17,Información inconsistente del cliente
+2026-05,AG-QSU,ACT-015,13,Firma no coincide
+2026-06,AG-QSU,ACT-015,14,Documentación incompleta
+2026-07,AG-QSU,ACT-015,11,Firma no coincide
+2026-08,AG-QSU,ACT-015,12,Información inconsistente del cliente
+2026-09,AG-QSU,ACT-015,14,Firma no coincide
+2026-10,AG-QSU,ACT-015,14,Información inconsistente del cliente
+2025-11,AG-VCH,ACT-015,9,Información inconsistente del cliente
+2025-12,AG-VCH,ACT-015,13,Documentación incompleta
+2026-01,AG-VCH,ACT-015,8,Firma no coincide
+2026-02,AG-VCH,ACT-015,6,Firma no coincide
+2026-03,AG-VCH,ACT-015,13,Información inconsistente del cliente
+2026-04,AG-VCH,ACT-015,7,Documentación incompleta
+2026-05,AG-VCH,ACT-015,10,Información inconsistente del cliente
+2026-06,AG-VCH,ACT-015,11,Documentación incompleta
+2026-07,AG-VCH,ACT-015,12,Documentación incompleta
+2026-08,AG-VCH,ACT-015,8,Información inconsistente del cliente
+2026-09,AG-VCH,ACT-015,12,Información inconsistente del cliente
+2026-10,AG-VCH,ACT-015,8,Documentación incompleta
+2025-11,AG-CUM,ACT-015,8,Documentación incompleta
+2025-12,AG-CUM,ACT-015,9,Documentación incompleta
+2026-01,AG-CUM,ACT-015,10,Documentación incompleta
+2026-02,AG-CUM,ACT-015,5,Información inconsistente del cliente
+2026-03,AG-CUM,ACT-015,8,Información inconsistente del cliente
+2026-04,AG-CUM,ACT-015,6,Documentación incompleta
+2026-05,AG-CUM,ACT-015,8,Documentación incompleta
+2026-06,AG-CUM,ACT-015,10,Firma no coincide
+2026-07,AG-CUM,ACT-015,8,Documentación incompleta
+2026-08,AG-CUM,ACT-015,7,Documentación incompleta
+2026-09,AG-CUM,ACT-015,8,Información inconsistente del cliente
+2026-10,AG-CUM,ACT-015,8,Firma no coincide
+2025-11,AG-IBA,ACT-015,9,Información inconsistente del cliente
+2025-12,AG-IBA,ACT-015,10,Documentación incompleta
+2026-01,AG-IBA,ACT-015,11,Información inconsistente del cliente
+2026-02,AG-IBA,ACT-015,7,Firma no coincide
+2026-03,AG-IBA,ACT-015,10,Documentación incompleta
+2026-04,AG-IBA,ACT-015,11,Información inconsistente del cliente
+2026-05,AG-IBA,ACT-015,10,Documentación incompleta
+2026-06,AG-IBA,ACT-015,9,Firma no coincide
+2026-07,AG-IBA,ACT-015,8,Firma no coincide
+2026-08,AG-IBA,ACT-015,11,Documentación incompleta
+2026-09,AG-IBA,ACT-015,12,Información inconsistente del cliente
+2026-10,AG-IBA,ACT-015,10,Información inconsistente del cliente
+2025-11,AG-OTA,ACT-015,6,Firma no coincide
+2025-12,AG-OTA,ACT-015,9,Firma no coincide
+2026-01,AG-OTA,ACT-015,6,Firma no coincide
+2026-02,AG-OTA,ACT-015,5,Información inconsistente del cliente
+2026-03,AG-OTA,ACT-015,7,Firma no coincide
+2026-04,AG-OTA,ACT-015,5,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-015,6,Documentación incompleta
+2026-06,AG-OTA,ACT-015,5,Documentación incompleta
+2026-07,AG-OTA,ACT-015,7,Información inconsistente del cliente
+2026-08,AG-OTA,ACT-015,7,Información inconsistente del cliente
+2026-09,AG-OTA,ACT-015,7,Documentación incompleta
+2026-10,AG-OTA,ACT-015,6,Información inconsistente del cliente
+2025-11,AG-LAT,ACT-015,8,Firma no coincide
+2025-12,AG-LAT,ACT-015,9,Documentación incompleta
+2026-01,AG-LAT,ACT-015,9,Documentación incompleta
+2026-02,AG-LAT,ACT-015,6,Firma no coincide
+2026-03,AG-LAT,ACT-015,6,Firma no coincide
+2026-04,AG-LAT,ACT-015,7,Información inconsistente del cliente
+2026-05,AG-LAT,ACT-015,7,Documentación incompleta
+2026-06,AG-LAT,ACT-015,9,Firma no coincide
+2026-07,AG-LAT,ACT-015,9,Documentación incompleta
+2026-08,AG-LAT,ACT-015,9,Documentación incompleta
+2026-09,AG-LAT,ACT-015,9,Información inconsistente del cliente
+2026-10,AG-LAT,ACT-015,7,Documentación incompleta
+2025-11,AG-AMB,ACT-015,9,Firma no coincide
+2025-12,AG-AMB,ACT-015,12,Información inconsistente del cliente
+2026-01,AG-AMB,ACT-015,14,Documentación incompleta
+2026-02,AG-AMB,ACT-015,10,Documentación incompleta
+2026-03,AG-AMB,ACT-015,11,Documentación incompleta
+2026-04,AG-AMB,ACT-015,15,Firma no coincide
+2026-05,AG-AMB,ACT-015,9,Firma no coincide
+2026-06,AG-AMB,ACT-015,13,Firma no coincide
+2026-07,AG-AMB,ACT-015,12,Documentación incompleta
+2026-08,AG-AMB,ACT-015,10,Información inconsistente del cliente
+2026-09,AG-AMB,ACT-015,12,Información inconsistente del cliente
+2026-10,AG-AMB,ACT-015,15,Documentación incompleta
+2025-11,AG-RIO,ACT-015,7,Firma no coincide
+2025-12,AG-RIO,ACT-015,8,Firma no coincide
+2026-01,AG-RIO,ACT-015,8,Documentación incompleta
+2026-02,AG-RIO,ACT-015,7,Información inconsistente del cliente
+2026-03,AG-RIO,ACT-015,8,Firma no coincide
+2026-04,AG-RIO,ACT-015,10,Información inconsistente del cliente
+2026-05,AG-RIO,ACT-015,5,Información inconsistente del cliente
+2026-06,AG-RIO,ACT-015,8,Firma no coincide
+2026-07,AG-RIO,ACT-015,9,Documentación incompleta
+2026-08,AG-RIO,ACT-015,9,Información inconsistente del cliente
+2026-09,AG-RIO,ACT-015,10,Documentación incompleta
+2026-10,AG-RIO,ACT-015,7,Firma no coincide
+2025-11,AG-QMA,ACT-016,20,Firma no coincide
+2025-12,AG-QMA,ACT-016,22,Documentación incompleta
+2026-01,AG-QMA,ACT-016,18,Información inconsistente del cliente
+2026-02,AG-QMA,ACT-016,12,Información inconsistente del cliente
+2026-03,AG-QMA,ACT-016,26,Documentación incompleta
+2026-04,AG-QMA,ACT-016,23,Información inconsistente del cliente
+2026-05,AG-QMA,ACT-016,15,Información inconsistente del cliente
+2026-06,AG-QMA,ACT-016,19,Firma no coincide
+2026-07,AG-QMA,ACT-016,17,Documentación incompleta
+2026-08,AG-QMA,ACT-016,17,Información inconsistente del cliente
+2026-09,AG-QMA,ACT-016,23,Documentación incompleta
+2026-10,AG-QMA,ACT-016,22,Documentación incompleta
+2025-11,AG-QNO,ACT-016,13,Firma no coincide
+2025-12,AG-QNO,ACT-016,13,Firma no coincide
+2026-01,AG-QNO,ACT-016,15,Firma no coincide
+2026-02,AG-QNO,ACT-016,8,Información inconsistente del cliente
+2026-03,AG-QNO,ACT-016,13,Firma no coincide
+2026-04,AG-QNO,ACT-016,13,Información inconsistente del cliente
+2026-05,AG-QNO,ACT-016,13,Documentación incompleta
+2026-06,AG-QNO,ACT-016,13,Información inconsistente del cliente
+2026-07,AG-QNO,ACT-016,16,Información inconsistente del cliente
+2026-08,AG-QNO,ACT-016,15,Firma no coincide
+2026-09,AG-QNO,ACT-016,16,Información inconsistente del cliente
+2026-10,AG-QNO,ACT-016,13,Firma no coincide
+2025-11,AG-QSU,ACT-016,12,Información inconsistente del cliente
+2025-12,AG-QSU,ACT-016,11,Información inconsistente del cliente
+2026-01,AG-QSU,ACT-016,11,Documentación incompleta
+2026-02,AG-QSU,ACT-016,9,Firma no coincide
+2026-03,AG-QSU,ACT-016,11,Documentación incompleta
+2026-04,AG-QSU,ACT-016,13,Firma no coincide
+2026-05,AG-QSU,ACT-016,14,Firma no coincide
+2026-06,AG-QSU,ACT-016,11,Firma no coincide
+2026-07,AG-QSU,ACT-016,13,Firma no coincide
+2026-08,AG-QSU,ACT-016,10,Documentación incompleta
+2026-09,AG-QSU,ACT-016,12,Documentación incompleta
+2026-10,AG-QSU,ACT-016,10,Documentación incompleta
+2025-11,AG-VCH,ACT-016,11,Información inconsistente del cliente
+2025-12,AG-VCH,ACT-016,10,Firma no coincide
+2026-01,AG-VCH,ACT-016,11,Firma no coincide
+2026-02,AG-VCH,ACT-016,9,Información inconsistente del cliente
+2026-03,AG-VCH,ACT-016,11,Firma no coincide
+2026-04,AG-VCH,ACT-016,10,Documentación incompleta
+2026-05,AG-VCH,ACT-016,10,Documentación incompleta
+2026-06,AG-VCH,ACT-016,12,Información inconsistente del cliente
+2026-07,AG-VCH,ACT-016,11,Documentación incompleta
+2026-08,AG-VCH,ACT-016,10,Información inconsistente del cliente
+2026-09,AG-VCH,ACT-016,11,Información inconsistente del cliente
+2026-10,AG-VCH,ACT-016,12,Firma no coincide
+2025-11,AG-CUM,ACT-016,8,Documentación incompleta
+2025-12,AG-CUM,ACT-016,10,Documentación incompleta
+2026-01,AG-CUM,ACT-016,7,Documentación incompleta
+2026-02,AG-CUM,ACT-016,6,Información inconsistente del cliente
+2026-03,AG-CUM,ACT-016,8,Documentación incompleta
+2026-04,AG-CUM,ACT-016,10,Información inconsistente del cliente
+2026-05,AG-CUM,ACT-016,9,Información inconsistente del cliente
+2026-06,AG-CUM,ACT-016,7,Información inconsistente del cliente
+2026-07,AG-CUM,ACT-016,10,Firma no coincide
+2026-08,AG-CUM,ACT-016,6,Firma no coincide
+2026-09,AG-CUM,ACT-016,10,Documentación incompleta
+2026-10,AG-CUM,ACT-016,7,Documentación incompleta
+2025-11,AG-IBA,ACT-016,10,Firma no coincide
+2025-12,AG-IBA,ACT-016,12,Firma no coincide
+2026-01,AG-IBA,ACT-016,12,Documentación incompleta
+2026-02,AG-IBA,ACT-016,7,Información inconsistente del cliente
+2026-03,AG-IBA,ACT-016,9,Documentación incompleta
+2026-04,AG-IBA,ACT-016,8,Documentación incompleta
+2026-05,AG-IBA,ACT-016,7,Documentación incompleta
+2026-06,AG-IBA,ACT-016,12,Información inconsistente del cliente
+2026-07,AG-IBA,ACT-016,9,Documentación incompleta
+2026-08,AG-IBA,ACT-016,9,Firma no coincide
+2026-09,AG-IBA,ACT-016,13,Información inconsistente del cliente
+2026-10,AG-IBA,ACT-016,12,Firma no coincide
+2025-11,AG-OTA,ACT-016,5,Información inconsistente del cliente
+2025-12,AG-OTA,ACT-016,6,Información inconsistente del cliente
+2026-01,AG-OTA,ACT-016,7,Documentación incompleta
+2026-02,AG-OTA,ACT-016,4,Documentación incompleta
+2026-03,AG-OTA,ACT-016,6,Documentación incompleta
+2026-04,AG-OTA,ACT-016,6,Información inconsistente del cliente
+2026-05,AG-OTA,ACT-016,4,Firma no coincide
+2026-06,AG-OTA,ACT-016,5,Documentación incompleta
+2026-07,AG-OTA,ACT-016,7,Documentación incompleta
+2026-08,AG-OTA,ACT-016,5,Firma no coincide
+2026-09,AG-OTA,ACT-016,5,Firma no coincide
+2026-10,AG-OTA,ACT-016,6,Firma no coincide
+2025-11,AG-LAT,ACT-016,5,Documentación incompleta
+2025-12,AG-LAT,ACT-016,7,Firma no coincide
+2026-01,AG-LAT,ACT-016,6,Firma no coincide
+2026-02,AG-LAT,ACT-016,5,Documentación incompleta
+2026-03,AG-LAT,ACT-016,7,Firma no coincide
+2026-04,AG-LAT,ACT-016,6,Documentación incompleta
+2026-05,AG-LAT,ACT-016,6,Información inconsistente del cliente
+2026-06,AG-LAT,ACT-016,10,Documentación incompleta
+2026-07,AG-LAT,ACT-016,10,Información inconsistente del cliente
+2026-08,AG-LAT,ACT-016,8,Documentación incompleta
+2026-09,AG-LAT,ACT-016,7,Firma no coincide
+2026-10,AG-LAT,ACT-016,8,Firma no coincide
+2025-11,AG-AMB,ACT-016,8,Firma no coincide
+2025-12,AG-AMB,ACT-016,14,Documentación incompleta
+2026-01,AG-AMB,ACT-016,15,Información inconsistente del cliente
+2026-02,AG-AMB,ACT-016,8,Información inconsistente del cliente
+2026-03,AG-AMB,ACT-016,13,Firma no coincide
+2026-04,AG-AMB,ACT-016,14,Información inconsistente del cliente
+2026-05,AG-AMB,ACT-016,12,Documentación incompleta
+2026-06,AG-AMB,ACT-016,11,Información inconsistente del cliente
+2026-07,AG-AMB,ACT-016,14,Información inconsistente del cliente
+2026-08,AG-AMB,ACT-016,11,Firma no coincide
+2026-09,AG-AMB,ACT-016,18,Información inconsistente del cliente
+2026-10,AG-AMB,ACT-016,13,Información inconsistente del cliente
+2025-11,AG-RIO,ACT-016,7,Información inconsistente del cliente
+2025-12,AG-RIO,ACT-016,10,Documentación incompleta
+2026-01,AG-RIO,ACT-016,9,Documentación incompleta
+2026-02,AG-RIO,ACT-016,6,Información inconsistente del cliente
+2026-03,AG-RIO,ACT-016,10,Información inconsistente del cliente
+2026-04,AG-RIO,ACT-016,8,Documentación incompleta
+2026-05,AG-RIO,ACT-016,6,Firma no coincide
+2026-06,AG-RIO,ACT-016,10,Documentación incompleta
+2026-07,AG-RIO,ACT-016,10,Firma no coincide
+2026-08,AG-RIO,ACT-016,7,Firma no coincide
+2026-09,AG-RIO,ACT-016,10,Documentación incompleta
+2026-10,AG-RIO,ACT-016,8,Información inconsistente del cliente
+2025-11,AG-QMA,ACT-020,24,Información de ingresos no verificable
+2025-12,AG-QMA,ACT-020,36,Error en la simulación
+2026-01,AG-QMA,ACT-020,25,Error en la simulación
+2026-02,AG-QMA,ACT-020,22,Información de ingresos no verificable
+2026-03,AG-QMA,ACT-020,29,Documentación incompleta
+2026-04,AG-QMA,ACT-020,35,Información de ingresos no verificable
+2026-05,AG-QMA,ACT-020,35,Información de ingresos no verificable
+2026-06,AG-QMA,ACT-020,24,Documentación incompleta
+2026-07,AG-QMA,ACT-020,24,Error en la simulación
+2026-08,AG-QMA,ACT-020,24,Documentación incompleta
+2026-09,AG-QMA,ACT-020,34,Documentación incompleta
+2026-10,AG-QMA,ACT-020,30,Error en la simulación
+2025-11,AG-QNO,ACT-020,23,Información de ingresos no verificable
+2025-12,AG-QNO,ACT-020,24,Error en la simulación
+2026-01,AG-QNO,ACT-020,15,Información de ingresos no verificable
+2026-02,AG-QNO,ACT-020,15,Documentación incompleta
+2026-03,AG-QNO,ACT-020,28,Documentación incompleta
+2026-04,AG-QNO,ACT-020,28,Información de ingresos no verificable
+2026-05,AG-QNO,ACT-020,18,Información de ingresos no verificable
+2026-06,AG-QNO,ACT-020,21,Documentación incompleta
+2026-07,AG-QNO,ACT-020,23,Documentación incompleta
+2026-08,AG-QNO,ACT-020,19,Información de ingresos no verificable
+2026-09,AG-QNO,ACT-020,28,Información de ingresos no verificable
+2026-10,AG-QNO,ACT-020,19,Error en la simulación
+2025-11,AG-QSU,ACT-020,17,Información de ingresos no verificable
+2025-12,AG-QSU,ACT-020,17,Información de ingresos no verificable
+2026-01,AG-QSU,ACT-020,15,Documentación incompleta
+2026-02,AG-QSU,ACT-020,16,Información de ingresos no verificable
+2026-03,AG-QSU,ACT-020,21,Error en la simulación
+2026-04,AG-QSU,ACT-020,17,Información de ingresos no verificable
+2026-05,AG-QSU,ACT-020,19,Error en la simulación
+2026-06,AG-QSU,ACT-020,19,Documentación incompleta
+2026-07,AG-QSU,ACT-020,17,Información de ingresos no verificable
+2026-08,AG-QSU,ACT-020,21,Error en la simulación
+2026-09,AG-QSU,ACT-020,16,Información de ingresos no verificable
+2026-10,AG-QSU,ACT-020,17,Información de ingresos no verificable
+2025-11,AG-VCH,ACT-020,17,Error en la simulación
+2025-12,AG-VCH,ACT-020,19,Documentación incompleta
+2026-01,AG-VCH,ACT-020,16,Error en la simulación
+2026-02,AG-VCH,ACT-020,9,Información de ingresos no verificable
+2026-03,AG-VCH,ACT-020,17,Documentación incompleta
+2026-04,AG-VCH,ACT-020,20,Información de ingresos no verificable
+2026-05,AG-VCH,ACT-020,11,Error en la simulación
+2026-06,AG-VCH,ACT-020,19,Error en la simulación
+2026-07,AG-VCH,ACT-020,17,Documentación incompleta
+2026-08,AG-VCH,ACT-020,14,Documentación incompleta
+2026-09,AG-VCH,ACT-020,15,Documentación incompleta
+2026-10,AG-VCH,ACT-020,19,Documentación incompleta
+2025-11,AG-CUM,ACT-020,18,Error en la simulación
+2025-12,AG-CUM,ACT-020,14,Información de ingresos no verificable
+2026-01,AG-CUM,ACT-020,17,Error en la simulación
+2026-02,AG-CUM,ACT-020,13,Documentación incompleta
+2026-03,AG-CUM,ACT-020,17,Documentación incompleta
+2026-04,AG-CUM,ACT-020,14,Documentación incompleta
+2026-05,AG-CUM,ACT-020,19,Error en la simulación
+2026-06,AG-CUM,ACT-020,18,Información de ingresos no verificable
+2026-07,AG-CUM,ACT-020,21,Información de ingresos no verificable
+2026-08,AG-CUM,ACT-020,17,Error en la simulación
+2026-09,AG-CUM,ACT-020,20,Información de ingresos no verificable
+2026-10,AG-CUM,ACT-020,19,Información de ingresos no verificable
+2025-11,AG-IBA,ACT-020,16,Documentación incompleta
+2025-12,AG-IBA,ACT-020,21,Documentación incompleta
+2026-01,AG-IBA,ACT-020,14,Documentación incompleta
+2026-02,AG-IBA,ACT-020,12,Error en la simulación
+2026-03,AG-IBA,ACT-020,13,Error en la simulación
+2026-04,AG-IBA,ACT-020,19,Documentación incompleta
+2026-05,AG-IBA,ACT-020,17,Error en la simulación
+2026-06,AG-IBA,ACT-020,18,Documentación incompleta
+2026-07,AG-IBA,ACT-020,14,Documentación incompleta
+2026-08,AG-IBA,ACT-020,11,Documentación incompleta
+2026-09,AG-IBA,ACT-020,14,Error en la simulación
+2026-10,AG-IBA,ACT-020,19,Error en la simulación
+2025-11,AG-OTA,ACT-020,7,Información de ingresos no verificable
+2025-12,AG-OTA,ACT-020,10,Información de ingresos no verificable
+2026-01,AG-OTA,ACT-020,7,Error en la simulación
+2026-02,AG-OTA,ACT-020,5,Información de ingresos no verificable
+2026-03,AG-OTA,ACT-020,7,Información de ingresos no verificable
+2026-04,AG-OTA,ACT-020,8,Información de ingresos no verificable
+2026-05,AG-OTA,ACT-020,8,Error en la simulación
+2026-06,AG-OTA,ACT-020,9,Documentación incompleta
+2026-07,AG-OTA,ACT-020,8,Documentación incompleta
+2026-08,AG-OTA,ACT-020,6,Documentación incompleta
+2026-09,AG-OTA,ACT-020,6,Documentación incompleta
+2026-10,AG-OTA,ACT-020,8,Error en la simulación
+2025-11,AG-LAT,ACT-020,14,Información de ingresos no verificable
+2025-12,AG-LAT,ACT-020,18,Error en la simulación
+2026-01,AG-LAT,ACT-020,14,Información de ingresos no verificable
+2026-02,AG-LAT,ACT-020,8,Error en la simulación
+2026-03,AG-LAT,ACT-020,16,Documentación incompleta
+2026-04,AG-LAT,ACT-020,14,Error en la simulación
+2026-05,AG-LAT,ACT-020,15,Documentación incompleta
+2026-06,AG-LAT,ACT-020,16,Información de ingresos no verificable
+2026-07,AG-LAT,ACT-020,17,Documentación incompleta
+2026-08,AG-LAT,ACT-020,20,Error en la simulación
+2026-09,AG-LAT,ACT-020,20,Documentación incompleta
+2026-10,AG-LAT,ACT-020,12,Documentación incompleta
+2025-11,AG-AMB,ACT-020,17,Error en la simulación
+2025-12,AG-AMB,ACT-020,24,Documentación incompleta
+2026-01,AG-AMB,ACT-020,13,Documentación incompleta
+2026-02,AG-AMB,ACT-020,15,Información de ingresos no verificable
+2026-03,AG-AMB,ACT-020,20,Información de ingresos no verificable
+2026-04,AG-AMB,ACT-020,18,Documentación incompleta
+2026-05,AG-AMB,ACT-020,21,Información de ingresos no verificable
+2026-06,AG-AMB,ACT-020,18,Documentación incompleta
+2026-07,AG-AMB,ACT-020,18,Información de ingresos no verificable
+2026-08,AG-AMB,ACT-020,18,Información de ingresos no verificable
+2026-09,AG-AMB,ACT-020,17,Información de ingresos no verificable
+2026-10,AG-AMB,ACT-020,23,Error en la simulación
+2025-11,AG-RIO,ACT-020,19,Información de ingresos no verificable
+2025-12,AG-RIO,ACT-020,19,Información de ingresos no verificable
+2026-01,AG-RIO,ACT-020,15,Información de ingresos no verificable
+2026-02,AG-RIO,ACT-020,11,Información de ingresos no verificable
+2026-03,AG-RIO,ACT-020,20,Información de ingresos no verificable
+2026-04,AG-RIO,ACT-020,19,Error en la simulación
+2026-05,AG-RIO,ACT-020,17,Información de ingresos no verificable
+2026-06,AG-RIO,ACT-020,18,Error en la simulación
+2026-07,AG-RIO,ACT-020,17,Error en la simulación
+2026-08,AG-RIO,ACT-020,17,Error en la simulación
+2026-09,AG-RIO,ACT-020,19,Información de ingresos no verificable
+2026-10,AG-RIO,ACT-020,17,Error en la simulación
+2025-11,AG-QMA,ACT-021,11,Documentación incompleta
+2025-12,AG-QMA,ACT-021,12,Información de ingresos no verificable
+2026-01,AG-QMA,ACT-021,9,Documentación incompleta
+2026-02,AG-QMA,ACT-021,6,Error en la simulación
+2026-03,AG-QMA,ACT-021,11,Error en la simulación
+2026-04,AG-QMA,ACT-021,12,Documentación incompleta
+2026-05,AG-QMA,ACT-021,7,Información de ingresos no verificable
+2026-06,AG-QMA,ACT-021,10,Información de ingresos no verificable
+2026-07,AG-QMA,ACT-021,10,Error en la simulación
+2026-08,AG-QMA,ACT-021,12,Error en la simulación
+2026-09,AG-QMA,ACT-021,10,Información de ingresos no verificable
+2026-10,AG-QMA,ACT-021,8,Información de ingresos no verificable
+2025-11,AG-QNO,ACT-021,8,Información de ingresos no verificable
+2025-12,AG-QNO,ACT-021,10,Error en la simulación
+2026-01,AG-QNO,ACT-021,5,Error en la simulación
+2026-02,AG-QNO,ACT-021,5,Error en la simulación
+2026-03,AG-QNO,ACT-021,7,Error en la simulación
+2026-04,AG-QNO,ACT-021,8,Documentación incompleta
+2026-05,AG-QNO,ACT-021,8,Documentación incompleta
+2026-06,AG-QNO,ACT-021,9,Información de ingresos no verificable
+2026-07,AG-QNO,ACT-021,7,Error en la simulación
+2026-08,AG-QNO,ACT-021,6,Información de ingresos no verificable
+2026-09,AG-QNO,ACT-021,9,Error en la simulación
+2026-10,AG-QNO,ACT-021,7,Información de ingresos no verificable
+2025-11,AG-QSU,ACT-021,5,Error en la simulación
+2025-12,AG-QSU,ACT-021,7,Documentación incompleta
+2026-01,AG-QSU,ACT-021,6,Error en la simulación
+2026-02,AG-QSU,ACT-021,5,Documentación incompleta
+2026-03,AG-QSU,ACT-021,9,Documentación incompleta
+2026-04,AG-QSU,ACT-021,7,Información de ingresos no verificable
+2026-05,AG-QSU,ACT-021,5,Información de ingresos no verificable
+2026-06,AG-QSU,ACT-021,7,Documentación incompleta
+2026-07,AG-QSU,ACT-021,9,Error en la simulación
+2026-08,AG-QSU,ACT-021,7,Error en la simulación
+2026-09,AG-QSU,ACT-021,9,Error en la simulación
+2026-10,AG-QSU,ACT-021,6,Documentación incompleta
+2025-11,AG-VCH,ACT-021,7,Información de ingresos no verificable
+2025-12,AG-VCH,ACT-021,7,Información de ingresos no verificable
+2026-01,AG-VCH,ACT-021,5,Error en la simulación
+2026-02,AG-VCH,ACT-021,5,Documentación incompleta
+2026-03,AG-VCH,ACT-021,6,Error en la simulación
+2026-04,AG-VCH,ACT-021,5,Información de ingresos no verificable
+2026-05,AG-VCH,ACT-021,4,Documentación incompleta
+2026-06,AG-VCH,ACT-021,6,Información de ingresos no verificable
+2026-07,AG-VCH,ACT-021,5,Información de ingresos no verificable
+2026-08,AG-VCH,ACT-021,5,Información de ingresos no verificable
+2026-09,AG-VCH,ACT-021,6,Documentación incompleta
+2026-10,AG-VCH,ACT-021,7,Error en la simulación
+2025-11,AG-CUM,ACT-021,5,Información de ingresos no verificable
+2025-12,AG-CUM,ACT-021,7,Documentación incompleta
+2026-01,AG-CUM,ACT-021,5,Documentación incompleta
+2026-02,AG-CUM,ACT-021,5,Documentación incompleta
+2026-03,AG-CUM,ACT-021,5,Documentación incompleta
+2026-04,AG-CUM,ACT-021,5,Información de ingresos no verificable
+2026-05,AG-CUM,ACT-021,5,Documentación incompleta
+2026-06,AG-CUM,ACT-021,7,Información de ingresos no verificable
+2026-07,AG-CUM,ACT-021,7,Documentación incompleta
+2026-08,AG-CUM,ACT-021,5,Documentación incompleta
+2026-09,AG-CUM,ACT-021,6,Información de ingresos no verificable
+2026-10,AG-CUM,ACT-021,6,Información de ingresos no verificable
+2025-11,AG-IBA,ACT-021,4,Información de ingresos no verificable
+2025-12,AG-IBA,ACT-021,8,Información de ingresos no verificable
+2026-01,AG-IBA,ACT-021,5,Error en la simulación
+2026-02,AG-IBA,ACT-021,5,Error en la simulación
+2026-03,AG-IBA,ACT-021,6,Documentación incompleta
+2026-04,AG-IBA,ACT-021,7,Documentación incompleta
+2026-05,AG-IBA,ACT-021,5,Información de ingresos no verificable
+2026-06,AG-IBA,ACT-021,4,Información de ingresos no verificable
+2026-07,AG-IBA,ACT-021,6,Error en la simulación
+2026-08,AG-IBA,ACT-021,5,Error en la simulación
+2026-09,AG-IBA,ACT-021,7,Error en la simulación
+2026-10,AG-IBA,ACT-021,6,Error en la simulación
+2025-11,AG-OTA,ACT-021,2,Error en la simulación
+2025-12,AG-OTA,ACT-021,4,Error en la simulación
+2026-01,AG-OTA,ACT-021,3,Información de ingresos no verificable
+2026-02,AG-OTA,ACT-021,2,Información de ingresos no verificable
+2026-03,AG-OTA,ACT-021,3,Información de ingresos no verificable
+2026-04,AG-OTA,ACT-021,2,Error en la simulación
+2026-05,AG-OTA,ACT-021,2,Documentación incompleta
+2026-06,AG-OTA,ACT-021,3,Error en la simulación
+2026-07,AG-OTA,ACT-021,3,Error en la simulación
+2026-08,AG-OTA,ACT-021,3,Información de ingresos no verificable
+2026-09,AG-OTA,ACT-021,3,Información de ingresos no verificable
+2026-10,AG-OTA,ACT-021,2,Documentación incompleta
+2025-11,AG-LAT,ACT-021,4,Información de ingresos no verificable
+2025-12,AG-LAT,ACT-021,5,Información de ingresos no verificable
+2026-01,AG-LAT,ACT-021,5,Error en la simulación
+2026-02,AG-LAT,ACT-021,4,Error en la simulación
+2026-03,AG-LAT,ACT-021,7,Documentación incompleta
+2026-04,AG-LAT,ACT-021,6,Error en la simulación
+2026-05,AG-LAT,ACT-021,4,Información de ingresos no verificable
+2026-06,AG-LAT,ACT-021,4,Información de ingresos no verificable
+2026-07,AG-LAT,ACT-021,5,Documentación incompleta
+2026-08,AG-LAT,ACT-021,5,Información de ingresos no verificable
+2026-09,AG-LAT,ACT-021,5,Error en la simulación
+2026-10,AG-LAT,ACT-021,7,Error en la simulación
+2025-11,AG-AMB,ACT-021,6,Documentación incompleta
+2025-12,AG-AMB,ACT-021,7,Error en la simulación
+2026-01,AG-AMB,ACT-021,7,Información de ingresos no verificable
+2026-02,AG-AMB,ACT-021,5,Error en la simulación
+2026-03,AG-AMB,ACT-021,8,Información de ingresos no verificable
+2026-04,AG-AMB,ACT-021,8,Información de ingresos no verificable
+2026-05,AG-AMB,ACT-021,5,Error en la simulación
+2026-06,AG-AMB,ACT-021,8,Error en la simulación
+2026-07,AG-AMB,ACT-021,8,Documentación incompleta
+2026-08,AG-AMB,ACT-021,7,Información de ingresos no verificable
+2026-09,AG-AMB,ACT-021,6,Error en la simulación
+2026-10,AG-AMB,ACT-021,8,Documentación incompleta
+2025-11,AG-RIO,ACT-021,6,Error en la simulación
+2025-12,AG-RIO,ACT-021,7,Información de ingresos no verificable
+2026-01,AG-RIO,ACT-021,5,Información de ingresos no verificable
+2026-02,AG-RIO,ACT-021,5,Documentación incompleta
+2026-03,AG-RIO,ACT-021,7,Documentación incompleta
+2026-04,AG-RIO,ACT-021,6,Error en la simulación
+2026-05,AG-RIO,ACT-021,5,Información de ingresos no verificable
+2026-06,AG-RIO,ACT-021,5,Documentación incompleta
+2026-07,AG-RIO,ACT-021,6,Información de ingresos no verificable
+2026-08,AG-RIO,ACT-021,6,Documentación incompleta
+2026-09,AG-RIO,ACT-021,7,Información de ingresos no verificable
+2026-10,AG-RIO,ACT-021,6,Documentación incompleta
+2025-11,AG-QMA,ACT-022,4,Documentación incompleta
+2025-12,AG-QMA,ACT-022,8,Error en la simulación
+2026-01,AG-QMA,ACT-022,5,Documentación incompleta
+2026-02,AG-QMA,ACT-022,4,Información de ingresos no verificable
+2026-03,AG-QMA,ACT-022,7,Información de ingresos no verificable
+2026-04,AG-QMA,ACT-022,5,Documentación incompleta
+2026-05,AG-QMA,ACT-022,7,Información de ingresos no verificable
+2026-06,AG-QMA,ACT-022,7,Documentación incompleta
+2026-07,AG-QMA,ACT-022,6,Error en la simulación
+2026-08,AG-QMA,ACT-022,5,Error en la simulación
+2026-09,AG-QMA,ACT-022,8,Información de ingresos no verificable
+2026-10,AG-QMA,ACT-022,6,Información de ingresos no verificable
+2025-11,AG-QNO,ACT-022,3,Información de ingresos no verificable
+2025-12,AG-QNO,ACT-022,6,Información de ingresos no verificable
+2026-01,AG-QNO,ACT-022,4,Documentación incompleta
+2026-02,AG-QNO,ACT-022,3,Error en la simulación
+2026-03,AG-QNO,ACT-022,5,Error en la simulación
+2026-04,AG-QNO,ACT-022,4,Información de ingresos no verificable
+2026-05,AG-QNO,ACT-022,3,Información de ingresos no verificable
+2026-06,AG-QNO,ACT-022,5,Error en la simulación
+2026-07,AG-QNO,ACT-022,4,Documentación incompleta
+2026-08,AG-QNO,ACT-022,4,Documentación incompleta
+2026-09,AG-QNO,ACT-022,5,Información de ingresos no verificable
+2026-10,AG-QNO,ACT-022,3,Error en la simulación
+2025-11,AG-QSU,ACT-022,3,Documentación incompleta
+2025-12,AG-QSU,ACT-022,4,Error en la simulación
+2026-01,AG-QSU,ACT-022,4,Información de ingresos no verificable
+2026-02,AG-QSU,ACT-022,3,Error en la simulación
+2026-03,AG-QSU,ACT-022,3,Error en la simulación
+2026-04,AG-QSU,ACT-022,4,Información de ingresos no verificable
+2026-05,AG-QSU,ACT-022,4,Información de ingresos no verificable
+2026-06,AG-QSU,ACT-022,3,Documentación incompleta
+2026-07,AG-QSU,ACT-022,4,Error en la simulación
+2026-08,AG-QSU,ACT-022,3,Información de ingresos no verificable
+2026-09,AG-QSU,ACT-022,3,Información de ingresos no verificable
+2026-10,AG-QSU,ACT-022,4,Información de ingresos no verificable
+2025-11,AG-VCH,ACT-022,2,Información de ingresos no verificable
+2025-12,AG-VCH,ACT-022,4,Error en la simulación
+2026-01,AG-VCH,ACT-022,2,Información de ingresos no verificable
+2026-02,AG-VCH,ACT-022,3,Documentación incompleta
+2026-03,AG-VCH,ACT-022,4,Información de ingresos no verificable
+2026-04,AG-VCH,ACT-022,3,Error en la simulación
+2026-05,AG-VCH,ACT-022,2,Documentación incompleta
+2026-06,AG-VCH,ACT-022,4,Información de ingresos no verificable
+2026-07,AG-VCH,ACT-022,4,Información de ingresos no verificable
+2026-08,AG-VCH,ACT-022,3,Error en la simulación
+2026-09,AG-VCH,ACT-022,3,Error en la simulación
+2026-10,AG-VCH,ACT-022,4,Documentación incompleta
+2025-11,AG-CUM,ACT-022,3,Documentación incompleta
+2025-12,AG-CUM,ACT-022,4,Información de ingresos no verificable
+2026-01,AG-CUM,ACT-022,4,Documentación incompleta
+2026-02,AG-CUM,ACT-022,2,Documentación incompleta
+2026-03,AG-CUM,ACT-022,4,Documentación incompleta
+2026-04,AG-CUM,ACT-022,4,Documentación incompleta
+2026-05,AG-CUM,ACT-022,3,Documentación incompleta
+2026-06,AG-CUM,ACT-022,3,Información de ingresos no verificable
+2026-07,AG-CUM,ACT-022,4,Error en la simulación
+2026-08,AG-CUM,ACT-022,3,Error en la simulación
+2026-09,AG-CUM,ACT-022,4,Documentación incompleta
+2026-10,AG-CUM,ACT-022,4,Error en la simulación
+2025-11,AG-IBA,ACT-022,3,Documentación incompleta
+2025-12,AG-IBA,ACT-022,4,Documentación incompleta
+2026-01,AG-IBA,ACT-022,3,Documentación incompleta
+2026-02,AG-IBA,ACT-022,2,Error en la simulación
+2026-03,AG-IBA,ACT-022,4,Documentación incompleta
+2026-04,AG-IBA,ACT-022,3,Error en la simulación
+2026-05,AG-IBA,ACT-022,3,Documentación incompleta
+2026-06,AG-IBA,ACT-022,3,Error en la simulación
+2026-07,AG-IBA,ACT-022,4,Información de ingresos no verificable
+2026-08,AG-IBA,ACT-022,3,Información de ingresos no verificable
+2026-09,AG-IBA,ACT-022,3,Información de ingresos no verificable
+2026-10,AG-IBA,ACT-022,4,Error en la simulación
+2025-11,AG-OTA,ACT-022,2,Información de ingresos no verificable
+2025-12,AG-OTA,ACT-022,1,Información de ingresos no verificable
+2026-01,AG-OTA,ACT-022,1,Error en la simulación
+2026-02,AG-OTA,ACT-022,1,Error en la simulación
+2026-03,AG-OTA,ACT-022,2,Documentación incompleta
+2026-04,AG-OTA,ACT-022,2,Error en la simulación
+2026-05,AG-OTA,ACT-022,2,Documentación incompleta
+2026-06,AG-OTA,ACT-022,2,Documentación incompleta
+2026-07,AG-OTA,ACT-022,2,Información de ingresos no verificable
+2026-08,AG-OTA,ACT-022,1,Error en la simulación
+2026-09,AG-OTA,ACT-022,1,Información de ingresos no verificable
+2026-10,AG-OTA,ACT-022,1,Información de ingresos no verificable
+2025-11,AG-LAT,ACT-022,3,Documentación incompleta
+2025-12,AG-LAT,ACT-022,3,Información de ingresos no verificable
+2026-01,AG-LAT,ACT-022,2,Documentación incompleta
+2026-02,AG-LAT,ACT-022,2,Error en la simulación
+2026-03,AG-LAT,ACT-022,4,Error en la simulación
+2026-04,AG-LAT,ACT-022,3,Error en la simulación
+2026-05,AG-LAT,ACT-022,2,Error en la simulación
+2026-06,AG-LAT,ACT-022,3,Error en la simulación
+2026-07,AG-LAT,ACT-022,3,Información de ingresos no verificable
+2026-08,AG-LAT,ACT-022,4,Documentación incompleta
+2026-09,AG-LAT,ACT-022,4,Documentación incompleta
+2026-10,AG-LAT,ACT-022,3,Documentación incompleta
+2025-11,AG-AMB,ACT-022,3,Error en la simulación
+2025-12,AG-AMB,ACT-022,4,Información de ingresos no verificable
+2026-01,AG-AMB,ACT-022,4,Información de ingresos no verificable
+2026-02,AG-AMB,ACT-022,3,Documentación incompleta
+2026-03,AG-AMB,ACT-022,4,Error en la simulación
+2026-04,AG-AMB,ACT-022,5,Información de ingresos no verificable
+2026-05,AG-AMB,ACT-022,4,Error en la simulación
+2026-06,AG-AMB,ACT-022,5,Documentación incompleta
+2026-07,AG-AMB,ACT-022,4,Error en la simulación
+2026-08,AG-AMB,ACT-022,4,Documentación incompleta
+2026-09,AG-AMB,ACT-022,5,Información de ingresos no verificable
+2026-10,AG-AMB,ACT-022,4,Error en la simulación
+2025-11,AG-RIO,ACT-022,3,Error en la simulación
+2025-12,AG-RIO,ACT-022,4,Error en la simulación
+2026-01,AG-RIO,ACT-022,2,Documentación incompleta
+2026-02,AG-RIO,ACT-022,2,Información de ingresos no verificable
+2026-03,AG-RIO,ACT-022,3,Documentación incompleta
+2026-04,AG-RIO,ACT-022,3,Documentación incompleta
+2026-05,AG-RIO,ACT-022,3,Documentación incompleta
+2026-06,AG-RIO,ACT-022,4,Información de ingresos no verificable
+2026-07,AG-RIO,ACT-022,3,Documentación incompleta
+2026-08,AG-RIO,ACT-022,4,Documentación incompleta
+2026-09,AG-RIO,ACT-022,4,Información de ingresos no verificable
+2026-10,AG-RIO,ACT-022,4,Documentación incompleta
+2025-11,AG-QMA,ACT-023,17,Documentación incompleta
+2025-12,AG-QMA,ACT-023,22,Error en la simulación
+2026-01,AG-QMA,ACT-023,21,Documentación incompleta
+2026-02,AG-QMA,ACT-023,19,Documentación incompleta
+2026-03,AG-QMA,ACT-023,20,Error en la simulación
+2026-04,AG-QMA,ACT-023,25,Información de ingresos no verificable
+2026-05,AG-QMA,ACT-023,16,Error en la simulación
+2026-06,AG-QMA,ACT-023,20,Documentación incompleta
+2026-07,AG-QMA,ACT-023,17,Documentación incompleta
+2026-08,AG-QMA,ACT-023,19,Documentación incompleta
+2026-09,AG-QMA,ACT-023,21,Error en la simulación
+2026-10,AG-QMA,ACT-023,17,Error en la simulación
+2025-11,AG-QNO,ACT-023,14,Error en la simulación
+2025-12,AG-QNO,ACT-023,21,Error en la simulación
+2026-01,AG-QNO,ACT-023,11,Información de ingresos no verificable
+2026-02,AG-QNO,ACT-023,9,Documentación incompleta
+2026-03,AG-QNO,ACT-023,17,Información de ingresos no verificable
+2026-04,AG-QNO,ACT-023,12,Documentación incompleta
+2026-05,AG-QNO,ACT-023,15,Documentación incompleta
+2026-06,AG-QNO,ACT-023,13,Información de ingresos no verificable
+2026-07,AG-QNO,ACT-023,15,Documentación incompleta
+2026-08,AG-QNO,ACT-023,15,Documentación incompleta
+2026-09,AG-QNO,ACT-023,14,Error en la simulación
+2026-10,AG-QNO,ACT-023,18,Información de ingresos no verificable
+2025-11,AG-QSU,ACT-023,12,Documentación incompleta
+2025-12,AG-QSU,ACT-023,16,Error en la simulación
+2026-01,AG-QSU,ACT-023,10,Documentación incompleta
+2026-02,AG-QSU,ACT-023,11,Información de ingresos no verificable
+2026-03,AG-QSU,ACT-023,12,Documentación incompleta
+2026-04,AG-QSU,ACT-023,17,Información de ingresos no verificable
+2026-05,AG-QSU,ACT-023,13,Error en la simulación
+2026-06,AG-QSU,ACT-023,11,Información de ingresos no verificable
+2026-07,AG-QSU,ACT-023,11,Error en la simulación
+2026-08,AG-QSU,ACT-023,17,Información de ingresos no verificable
+2026-09,AG-QSU,ACT-023,16,Información de ingresos no verificable
+2026-10,AG-QSU,ACT-023,12,Error en la simulación
+2025-11,AG-VCH,ACT-023,8,Error en la simulación
+2025-12,AG-VCH,ACT-023,11,Información de ingresos no verificable
+2026-01,AG-VCH,ACT-023,12,Documentación incompleta
+2026-02,AG-VCH,ACT-023,7,Error en la simulación
+2026-03,AG-VCH,ACT-023,10,Documentación incompleta
+2026-04,AG-VCH,ACT-023,11,Documentación incompleta
+2026-05,AG-VCH,ACT-023,13,Error en la simulación
+2026-06,AG-VCH,ACT-023,12,Error en la simulación
+2026-07,AG-VCH,ACT-023,12,Información de ingresos no verificable
+2026-08,AG-VCH,ACT-023,10,Error en la simulación
+2026-09,AG-VCH,ACT-023,10,Documentación incompleta
+2026-10,AG-VCH,ACT-023,14,Documentación incompleta
+2025-11,AG-CUM,ACT-023,13,Información de ingresos no verificable
+2025-12,AG-CUM,ACT-023,14,Documentación incompleta
+2026-01,AG-CUM,ACT-023,12,Información de ingresos no verificable
+2026-02,AG-CUM,ACT-023,8,Información de ingresos no verificable
+2026-03,AG-CUM,ACT-023,14,Error en la simulación
+2026-04,AG-CUM,ACT-023,14,Error en la simulación
+2026-05,AG-CUM,ACT-023,9,Documentación incompleta
+2026-06,AG-CUM,ACT-023,13,Documentación incompleta
+2026-07,AG-CUM,ACT-023,11,Error en la simulación
+2026-08,AG-CUM,ACT-023,9,Documentación incompleta
+2026-09,AG-CUM,ACT-023,13,Información de ingresos no verificable
+2026-10,AG-CUM,ACT-023,12,Información de ingresos no verificable
+2025-11,AG-IBA,ACT-023,9,Error en la simulación
+2025-12,AG-IBA,ACT-023,11,Documentación incompleta
+2026-01,AG-IBA,ACT-023,12,Información de ingresos no verificable
+2026-02,AG-IBA,ACT-023,7,Información de ingresos no verificable
+2026-03,AG-IBA,ACT-023,10,Error en la simulación
+2026-04,AG-IBA,ACT-023,10,Error en la simulación
+2026-05,AG-IBA,ACT-023,9,Documentación incompleta
+2026-06,AG-IBA,ACT-023,14,Documentación incompleta
+2026-07,AG-IBA,ACT-023,11,Documentación incompleta
+2026-08,AG-IBA,ACT-023,11,Error en la simulación
+2026-09,AG-IBA,ACT-023,10,Documentación incompleta
+2026-10,AG-IBA,ACT-023,11,Documentación incompleta
+2025-11,AG-OTA,ACT-023,4,Información de ingresos no verificable
+2025-12,AG-OTA,ACT-023,6,Información de ingresos no verificable
+2026-01,AG-OTA,ACT-023,5,Error en la simulación
+2026-02,AG-OTA,ACT-023,3,Información de ingresos no verificable
+2026-03,AG-OTA,ACT-023,6,Información de ingresos no verificable
+2026-04,AG-OTA,ACT-023,6,Información de ingresos no verificable
+2026-05,AG-OTA,ACT-023,6,Error en la simulación
+2026-06,AG-OTA,ACT-023,6,Información de ingresos no verificable
+2026-07,AG-OTA,ACT-023,6,Documentación incompleta
+2026-08,AG-OTA,ACT-023,6,Información de ingresos no verificable
+2026-09,AG-OTA,ACT-023,7,Información de ingresos no verificable
+2026-10,AG-OTA,ACT-023,6,Error en la simulación
+2025-11,AG-LAT,ACT-023,9,Error en la simulación
+2025-12,AG-LAT,ACT-023,14,Información de ingresos no verificable
+2026-01,AG-LAT,ACT-023,10,Información de ingresos no verificable
+2026-02,AG-LAT,ACT-023,10,Error en la simulación
+2026-03,AG-LAT,ACT-023,13,Error en la simulación
+2026-04,AG-LAT,ACT-023,11,Error en la simulación
+2026-05,AG-LAT,ACT-023,9,Error en la simulación
+2026-06,AG-LAT,ACT-023,11,Error en la simulación
+2026-07,AG-LAT,ACT-023,9,Documentación incompleta
+2026-08,AG-LAT,ACT-023,10,Documentación incompleta
+2026-09,AG-LAT,ACT-023,13,Error en la simulación
+2026-10,AG-LAT,ACT-023,11,Error en la simulación
+2025-11,AG-AMB,ACT-023,10,Información de ingresos no verificable
+2025-12,AG-AMB,ACT-023,14,Documentación incompleta
+2026-01,AG-AMB,ACT-023,9,Documentación incompleta
+2026-02,AG-AMB,ACT-023,10,Error en la simulación
+2026-03,AG-AMB,ACT-023,17,Información de ingresos no verificable
+2026-04,AG-AMB,ACT-023,17,Documentación incompleta
+2026-05,AG-AMB,ACT-023,11,Documentación incompleta
+2026-06,AG-AMB,ACT-023,13,Documentación incompleta
+2026-07,AG-AMB,ACT-023,14,Documentación incompleta
+2026-08,AG-AMB,ACT-023,13,Error en la simulación
+2026-09,AG-AMB,ACT-023,18,Información de ingresos no verificable
+2026-10,AG-AMB,ACT-023,16,Error en la simulación
+2025-11,AG-RIO,ACT-023,10,Información de ingresos no verificable
+2025-12,AG-RIO,ACT-023,9,Información de ingresos no verificable
+2026-01,AG-RIO,ACT-023,12,Información de ingresos no verificable
+2026-02,AG-RIO,ACT-023,8,Información de ingresos no verificable
+2026-03,AG-RIO,ACT-023,15,Error en la simulación
+2026-04,AG-RIO,ACT-023,12,Documentación incompleta
+2026-05,AG-RIO,ACT-023,11,Error en la simulación
+2026-06,AG-RIO,ACT-023,15,Información de ingresos no verificable
+2026-07,AG-RIO,ACT-023,14,Información de ingresos no verificable
+2026-08,AG-RIO,ACT-023,12,Documentación incompleta
+2026-09,AG-RIO,ACT-023,10,Documentación incompleta
+2026-10,AG-RIO,ACT-023,12,Información de ingresos no verificable
+2025-11,AG-QMA,ACT-034,1,Error de registro
+2025-12,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-01,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-02,AG-QMA,ACT-034,1,Error de registro
+2026-03,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-04,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-05,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-06,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-07,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-08,AG-QMA,ACT-034,1,Error de registro
+2026-09,AG-QMA,ACT-034,1,Diferencia en arqueo
+2026-10,AG-QMA,ACT-034,1,Diferencia en arqueo
+2025-11,AG-QNO,ACT-034,1,Diferencia en arqueo
+2025-12,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-01,AG-QNO,ACT-034,1,Error de registro
+2026-02,AG-QNO,ACT-034,1,Error de registro
+2026-03,AG-QNO,ACT-034,1,Error de registro
+2026-04,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-05,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-06,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-07,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-08,AG-QNO,ACT-034,1,Diferencia en arqueo
+2026-09,AG-QNO,ACT-034,1,Error de registro
+2026-10,AG-QNO,ACT-034,1,Error de registro
+2025-11,AG-QSU,ACT-034,1,Error de registro
+2025-12,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-01,AG-QSU,ACT-034,1,Error de registro
+2026-02,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-03,AG-QSU,ACT-034,1,Error de registro
+2026-04,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-05,AG-QSU,ACT-034,1,Error de registro
+2026-06,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-07,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-08,AG-QSU,ACT-034,1,Error de registro
+2026-09,AG-QSU,ACT-034,1,Diferencia en arqueo
+2026-10,AG-QSU,ACT-034,1,Error de registro
+2025-11,AG-VCH,ACT-034,1,Diferencia en arqueo
+2025-12,AG-VCH,ACT-034,1,Error de registro
+2026-01,AG-VCH,ACT-034,1,Error de registro
+2026-02,AG-VCH,ACT-034,1,Error de registro
+2026-03,AG-VCH,ACT-034,1,Error de registro
+2026-04,AG-VCH,ACT-034,1,Error de registro
+2026-05,AG-VCH,ACT-034,1,Diferencia en arqueo
+2026-06,AG-VCH,ACT-034,1,Error de registro
+2026-07,AG-VCH,ACT-034,1,Diferencia en arqueo
+2026-08,AG-VCH,ACT-034,1,Diferencia en arqueo
+2026-09,AG-VCH,ACT-034,1,Diferencia en arqueo
+2026-10,AG-VCH,ACT-034,1,Diferencia en arqueo
+2025-11,AG-CUM,ACT-034,1,Diferencia en arqueo
+2025-12,AG-CUM,ACT-034,1,Diferencia en arqueo
+2026-01,AG-CUM,ACT-034,1,Error de registro
+2026-02,AG-CUM,ACT-034,1,Error de registro
+2026-03,AG-CUM,ACT-034,1,Error de registro
+2026-04,AG-CUM,ACT-034,1,Diferencia en arqueo
+2026-05,AG-CUM,ACT-034,1,Diferencia en arqueo
+2026-06,AG-CUM,ACT-034,1,Error de registro
+2026-07,AG-CUM,ACT-034,1,Error de registro
+2026-08,AG-CUM,ACT-034,1,Error de registro
+2026-09,AG-CUM,ACT-034,1,Diferencia en arqueo
+2026-10,AG-CUM,ACT-034,1,Diferencia en arqueo
+2025-11,AG-IBA,ACT-034,1,Diferencia en arqueo
+2025-12,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-01,AG-IBA,ACT-034,1,Error de registro
+2026-02,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-03,AG-IBA,ACT-034,1,Error de registro
+2026-04,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-05,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-06,AG-IBA,ACT-034,1,Error de registro
+2026-07,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-08,AG-IBA,ACT-034,1,Error de registro
+2026-09,AG-IBA,ACT-034,1,Diferencia en arqueo
+2026-10,AG-IBA,ACT-034,1,Diferencia en arqueo
+2025-11,AG-AMB,ACT-034,1,Diferencia en arqueo
+2025-12,AG-AMB,ACT-034,1,Diferencia en arqueo
+2026-01,AG-AMB,ACT-034,1,Error de registro
+2026-02,AG-AMB,ACT-034,1,Diferencia en arqueo
+2026-03,AG-AMB,ACT-034,1,Error de registro
+2026-04,AG-AMB,ACT-034,1,Error de registro
+2026-05,AG-AMB,ACT-034,1,Error de registro
+2026-06,AG-AMB,ACT-034,1,Error de registro
+2026-07,AG-AMB,ACT-034,1,Error de registro
+2026-08,AG-AMB,ACT-034,1,Diferencia en arqueo
+2026-09,AG-AMB,ACT-034,1,Error de registro
+2026-10,AG-AMB,ACT-034,1,Error de registro
+2025-11,AG-RIO,ACT-034,1,Error de registro
+2025-12,AG-RIO,ACT-034,1,Error de registro
+2026-01,AG-RIO,ACT-034,1,Diferencia en arqueo
+2026-02,AG-RIO,ACT-034,1,Error de registro
+2026-03,AG-RIO,ACT-034,1,Error de registro
+2026-04,AG-RIO,ACT-034,1,Error de registro
+2026-05,AG-RIO,ACT-034,1,Error de registro
+2026-06,AG-RIO,ACT-034,1,Error de registro
+2026-07,AG-RIO,ACT-034,1,Diferencia en arqueo
+2026-08,AG-RIO,ACT-034,1,Error de registro
+2026-09,AG-RIO,ACT-034,1,Error de registro
+2026-10,AG-RIO,ACT-034,1,Diferencia en arqueo
+2025-11,AG-QMA,ACT-035,6,Error de registro
+2025-12,AG-QMA,ACT-035,6,Error de registro
+2026-01,AG-QMA,ACT-035,7,Error de registro
+2026-02,AG-QMA,ACT-035,5,Error de registro
+2026-03,AG-QMA,ACT-035,8,Error de registro
+2026-04,AG-QMA,ACT-035,8,Diferencia en arqueo
+2026-05,AG-QMA,ACT-035,4,Diferencia en arqueo
+2026-06,AG-QMA,ACT-035,6,Diferencia en arqueo
+2026-07,AG-QMA,ACT-035,8,Error de registro
+2026-08,AG-QMA,ACT-035,4,Error de registro
+2026-09,AG-QMA,ACT-035,6,Error de registro
+2026-10,AG-QMA,ACT-035,5,Error de registro
+2025-11,AG-QNO,ACT-035,6,Error de registro
+2025-12,AG-QNO,ACT-035,9,Error de registro
+2026-01,AG-QNO,ACT-035,9,Error de registro
+2026-02,AG-QNO,ACT-035,6,Error de registro
+2026-03,AG-QNO,ACT-035,9,Error de registro
+2026-04,AG-QNO,ACT-035,8,Diferencia en arqueo
+2026-05,AG-QNO,ACT-035,6,Error de registro
+2026-06,AG-QNO,ACT-035,6,Error de registro
+2026-07,AG-QNO,ACT-035,9,Error de registro
+2026-08,AG-QNO,ACT-035,5,Error de registro
+2026-09,AG-QNO,ACT-035,9,Diferencia en arqueo
+2026-10,AG-QNO,ACT-035,6,Diferencia en arqueo
+2025-11,AG-QSU,ACT-035,5,Error de registro
+2025-12,AG-QSU,ACT-035,9,Diferencia en arqueo
+2026-01,AG-QSU,ACT-035,8,Diferencia en arqueo
+2026-02,AG-QSU,ACT-035,8,Error de registro
+2026-03,AG-QSU,ACT-035,7,Error de registro
+2026-04,AG-QSU,ACT-035,8,Diferencia en arqueo
+2026-05,AG-QSU,ACT-035,7,Error de registro
+2026-06,AG-QSU,ACT-035,9,Error de registro
+2026-07,AG-QSU,ACT-035,8,Error de registro
+2026-08,AG-QSU,ACT-035,8,Diferencia en arqueo
+2026-09,AG-QSU,ACT-035,7,Error de registro
+2026-10,AG-QSU,ACT-035,6,Diferencia en arqueo
+2025-11,AG-VCH,ACT-035,5,Diferencia en arqueo
+2025-12,AG-VCH,ACT-035,5,Diferencia en arqueo
+2026-01,AG-VCH,ACT-035,5,Diferencia en arqueo
+2026-02,AG-VCH,ACT-035,4,Diferencia en arqueo
+2026-03,AG-VCH,ACT-035,7,Error de registro
+2026-04,AG-VCH,ACT-035,7,Error de registro
+2026-05,AG-VCH,ACT-035,5,Error de registro
+2026-06,AG-VCH,ACT-035,6,Error de registro
+2026-07,AG-VCH,ACT-035,6,Error de registro
+2026-08,AG-VCH,ACT-035,6,Diferencia en arqueo
+2026-09,AG-VCH,ACT-035,7,Error de registro
+2026-10,AG-VCH,ACT-035,7,Error de registro
+2025-11,AG-CUM,ACT-035,6,Diferencia en arqueo
+2025-12,AG-CUM,ACT-035,7,Error de registro
+2026-01,AG-CUM,ACT-035,8,Error de registro
+2026-02,AG-CUM,ACT-035,5,Error de registro
+2026-03,AG-CUM,ACT-035,6,Error de registro
+2026-04,AG-CUM,ACT-035,5,Diferencia en arqueo
+2026-05,AG-CUM,ACT-035,6,Error de registro
+2026-06,AG-CUM,ACT-035,5,Error de registro
+2026-07,AG-CUM,ACT-035,7,Diferencia en arqueo
+2026-08,AG-CUM,ACT-035,5,Error de registro
+2026-09,AG-CUM,ACT-035,5,Diferencia en arqueo
+2026-10,AG-CUM,ACT-035,7,Diferencia en arqueo
+2025-11,AG-IBA,ACT-035,8,Diferencia en arqueo
+2025-12,AG-IBA,ACT-035,6,Diferencia en arqueo
+2026-01,AG-IBA,ACT-035,8,Error de registro
+2026-02,AG-IBA,ACT-035,7,Error de registro
+2026-03,AG-IBA,ACT-035,9,Error de registro
+2026-04,AG-IBA,ACT-035,8,Diferencia en arqueo
+2026-05,AG-IBA,ACT-035,5,Diferencia en arqueo
+2026-06,AG-IBA,ACT-035,8,Error de registro
+2026-07,AG-IBA,ACT-035,7,Error de registro
+2026-08,AG-IBA,ACT-035,8,Error de registro
+2026-09,AG-IBA,ACT-035,8,Diferencia en arqueo
+2026-10,AG-IBA,ACT-035,7,Error de registro
+2025-11,AG-AMB,ACT-035,8,Diferencia en arqueo
+2025-12,AG-AMB,ACT-035,5,Error de registro
+2026-01,AG-AMB,ACT-035,6,Error de registro
+2026-02,AG-AMB,ACT-035,5,Diferencia en arqueo
+2026-03,AG-AMB,ACT-035,6,Diferencia en arqueo
+2026-04,AG-AMB,ACT-035,6,Diferencia en arqueo
+2026-05,AG-AMB,ACT-035,6,Diferencia en arqueo
+2026-06,AG-AMB,ACT-035,7,Error de registro
+2026-07,AG-AMB,ACT-035,9,Diferencia en arqueo
+2026-08,AG-AMB,ACT-035,5,Diferencia en arqueo
+2026-09,AG-AMB,ACT-035,7,Diferencia en arqueo
+2026-10,AG-AMB,ACT-035,7,Diferencia en arqueo
+2025-11,AG-RIO,ACT-035,6,Error de registro
+2025-12,AG-RIO,ACT-035,7,Error de registro
+2026-01,AG-RIO,ACT-035,5,Diferencia en arqueo
+2026-02,AG-RIO,ACT-035,7,Diferencia en arqueo
+2026-03,AG-RIO,ACT-035,7,Error de registro
+2026-04,AG-RIO,ACT-035,6,Diferencia en arqueo
+2026-05,AG-RIO,ACT-035,7,Diferencia en arqueo
+2026-06,AG-RIO,ACT-035,8,Diferencia en arqueo
+2026-07,AG-RIO,ACT-035,8,Diferencia en arqueo
+2026-08,AG-RIO,ACT-035,7,Error de registro
+2026-09,AG-RIO,ACT-035,8,Diferencia en arqueo
+2026-10,AG-RIO,ACT-035,6,Diferencia en arqueo
+2025-11,GER-OPC,ACT-043,3,Información de entrada errónea
+2025-12,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-01,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-02,GER-OPC,ACT-043,3,Información de entrada errónea
+2026-03,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-04,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-05,GER-OPC,ACT-043,3,Información de entrada errónea
+2026-06,GER-OPC,ACT-043,5,Información de entrada errónea
+2026-07,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-08,GER-OPC,ACT-043,4,Información de entrada errónea
+2026-09,GER-OPC,ACT-043,3,Información de entrada errónea
+2026-10,GER-OPC,ACT-043,3,Información de entrada errónea
+2025-11,GER-RAS,ACT-043,4,Información de entrada errónea
+2025-12,GER-RAS,ACT-043,3,Información de entrada errónea
+2026-01,GER-RAS,ACT-043,3,Información de entrada errónea
+2026-02,GER-RAS,ACT-043,3,Información de entrada errónea
+2026-03,GER-RAS,ACT-043,4,Información de entrada errónea
+2026-04,GER-RAS,ACT-043,4,Información de entrada errónea
+2026-05,GER-RAS,ACT-043,3,Información de entrada errónea
+2026-06,GER-RAS,ACT-043,5,Información de entrada errónea
+2026-07,GER-RAS,ACT-043,3,Información de entrada errónea
+2026-08,GER-RAS,ACT-043,4,Información de entrada errónea
+2026-09,GER-RAS,ACT-043,5,Información de entrada errónea
+2026-10,GER-RAS,ACT-043,4,Información de entrada errónea
+2025-11,DEP-PAG,ACT-050,303,Archivo de carga con formato inválido
+2025-12,DEP-PAG,ACT-050,328,Archivo de carga con formato inválido
+2026-01,DEP-PAG,ACT-050,322,Rechazo del sistema SPI
+2026-02,DEP-PAG,ACT-050,311,Archivo de carga con formato inválido
+2026-03,DEP-PAG,ACT-050,405,Datos del beneficiario errados
+2026-04,DEP-PAG,ACT-050,461,Archivo de carga con formato inválido
+2026-05,DEP-PAG,ACT-050,239,Datos del beneficiario errados
+2026-06,DEP-PAG,ACT-050,396,Datos del beneficiario errados
+2026-07,DEP-PAG,ACT-050,356,Rechazo del sistema SPI
+2026-08,DEP-PAG,ACT-050,445,Datos del beneficiario errados
+2026-09,DEP-PAG,ACT-050,389,Rechazo del sistema SPI
+2026-10,DEP-PAG,ACT-050,349,Rechazo del sistema SPI
+2025-11,DEP-PAG,ACT-051,109,Datos del beneficiario errados
+2025-12,DEP-PAG,ACT-051,109,Archivo de carga con formato inválido
+2026-01,DEP-PAG,ACT-051,83,Archivo de carga con formato inválido
+2026-02,DEP-PAG,ACT-051,85,Rechazo del sistema SPI
+2026-03,DEP-PAG,ACT-051,103,Datos del beneficiario errados
+2026-04,DEP-PAG,ACT-051,91,Rechazo del sistema SPI
+2026-05,DEP-PAG,ACT-051,105,Datos del beneficiario errados
+2026-06,DEP-PAG,ACT-051,114,Datos del beneficiario errados
+2026-07,DEP-PAG,ACT-051,79,Datos del beneficiario errados
+2026-08,DEP-PAG,ACT-051,97,Datos del beneficiario errados
+2026-09,DEP-PAG,ACT-051,86,Archivo de carga con formato inválido
+2026-10,DEP-PAG,ACT-051,101,Rechazo del sistema SPI
+2025-11,DEP-PAG,ACT-052,50,Rechazo del sistema SPI
+2025-12,DEP-PAG,ACT-052,48,Rechazo del sistema SPI
+2026-01,DEP-PAG,ACT-052,41,Archivo de carga con formato inválido
+2026-02,DEP-PAG,ACT-052,46,Datos del beneficiario errados
+2026-03,DEP-PAG,ACT-052,45,Datos del beneficiario errados
+2026-04,DEP-PAG,ACT-052,47,Archivo de carga con formato inválido
+2026-05,DEP-PAG,ACT-052,48,Rechazo del sistema SPI
+2026-06,DEP-PAG,ACT-052,57,Rechazo del sistema SPI
+2026-07,DEP-PAG,ACT-052,63,Rechazo del sistema SPI
+2026-08,DEP-PAG,ACT-052,42,Archivo de carga con formato inválido
+2026-09,DEP-PAG,ACT-052,45,Archivo de carga con formato inválido
+2026-10,DEP-PAG,ACT-052,50,Rechazo del sistema SPI
+2025-11,DEP-PAG,ACT-053,17,Datos del beneficiario errados
+2025-12,DEP-PAG,ACT-053,32,Datos del beneficiario errados
+2026-01,DEP-PAG,ACT-053,26,Rechazo del sistema SPI
+2026-02,DEP-PAG,ACT-053,24,Rechazo del sistema SPI
+2026-03,DEP-PAG,ACT-053,24,Rechazo del sistema SPI
+2026-04,DEP-PAG,ACT-053,26,Datos del beneficiario errados
+2026-05,DEP-PAG,ACT-053,18,Rechazo del sistema SPI
+2026-06,DEP-PAG,ACT-053,30,Archivo de carga con formato inválido
+2026-07,DEP-PAG,ACT-053,22,Rechazo del sistema SPI
+2026-08,DEP-PAG,ACT-053,30,Datos del beneficiario errados
+2026-09,DEP-PAG,ACT-053,28,Rechazo del sistema SPI
+2026-10,DEP-PAG,ACT-053,27,Datos del beneficiario errados
+2025-11,DEP-PAG,ACT-054,2,Datos del beneficiario errados
+2025-12,DEP-PAG,ACT-054,2,Rechazo del sistema SPI
+2026-01,DEP-PAG,ACT-054,2,Datos del beneficiario errados
+2026-02,DEP-PAG,ACT-054,1,Archivo de carga con formato inválido
+2026-03,DEP-PAG,ACT-054,2,Rechazo del sistema SPI
+2026-04,DEP-PAG,ACT-054,2,Archivo de carga con formato inválido
+2026-05,DEP-PAG,ACT-054,1,Rechazo del sistema SPI
+2026-06,DEP-PAG,ACT-054,2,Datos del beneficiario errados
+2026-07,DEP-PAG,ACT-054,2,Archivo de carga con formato inválido
+2026-08,DEP-PAG,ACT-054,2,Archivo de carga con formato inválido
+2026-09,DEP-PAG,ACT-054,2,Datos del beneficiario errados
+2026-10,DEP-PAG,ACT-054,1,Archivo de carga con formato inválido
+2025-11,DEP-CTA,ACT-060,404,Documentación incompleta desde agencia
+2025-12,DEP-CTA,ACT-060,328,Error en ficha del cliente
+2026-01,DEP-CTA,ACT-060,481,Error en ficha del cliente
+2026-02,DEP-CTA,ACT-060,246,Error en ficha del cliente
+2026-03,DEP-CTA,ACT-060,545,Documentación incompleta desde agencia
+2026-04,DEP-CTA,ACT-060,376,Error en ficha del cliente
+2026-05,DEP-CTA,ACT-060,452,Documentación incompleta desde agencia
+2026-06,DEP-CTA,ACT-060,325,Oficio ilegible o incompleto
+2026-07,DEP-CTA,ACT-060,370,Documentación incompleta desde agencia
+2026-08,DEP-CTA,ACT-060,297,Oficio ilegible o incompleto
+2026-09,DEP-CTA,ACT-060,456,Documentación incompleta desde agencia
+2026-10,DEP-CTA,ACT-060,375,Error en ficha del cliente
+2025-11,DEP-CTA,ACT-061,93,Documentación incompleta desde agencia
+2025-12,DEP-CTA,ACT-061,89,Error en ficha del cliente
+2026-01,DEP-CTA,ACT-061,112,Error en ficha del cliente
+2026-02,DEP-CTA,ACT-061,81,Documentación incompleta desde agencia
+2026-03,DEP-CTA,ACT-061,117,Error en ficha del cliente
+2026-04,DEP-CTA,ACT-061,84,Oficio ilegible o incompleto
+2026-05,DEP-CTA,ACT-061,95,Error en ficha del cliente
+2026-06,DEP-CTA,ACT-061,93,Oficio ilegible o incompleto
+2026-07,DEP-CTA,ACT-061,97,Oficio ilegible o incompleto
+2026-08,DEP-CTA,ACT-061,80,Error en ficha del cliente
+2026-09,DEP-CTA,ACT-061,118,Error en ficha del cliente
+2026-10,DEP-CTA,ACT-061,90,Documentación incompleta desde agencia
+2025-11,DEP-CTA,ACT-062,42,Oficio ilegible o incompleto
+2025-12,DEP-CTA,ACT-062,61,Error en ficha del cliente
+2026-01,DEP-CTA,ACT-062,40,Error en ficha del cliente
+2026-02,DEP-CTA,ACT-062,50,Documentación incompleta desde agencia
+2026-03,DEP-CTA,ACT-062,65,Error en ficha del cliente
+2026-04,DEP-CTA,ACT-062,53,Documentación incompleta desde agencia
+2026-05,DEP-CTA,ACT-062,47,Documentación incompleta desde agencia
+2026-06,DEP-CTA,ACT-062,50,Documentación incompleta desde agencia
+2026-07,DEP-CTA,ACT-062,46,Oficio ilegible o incompleto
+2026-08,DEP-CTA,ACT-062,36,Error en ficha del cliente
+2026-09,DEP-CTA,ACT-062,63,Error en ficha del cliente
+2026-10,DEP-CTA,ACT-062,41,Oficio ilegible o incompleto
+2025-11,DEP-CTA,ACT-063,5,Error en ficha del cliente
+2025-12,DEP-CTA,ACT-063,7,Oficio ilegible o incompleto
+2026-01,DEP-CTA,ACT-063,7,Oficio ilegible o incompleto
+2026-02,DEP-CTA,ACT-063,5,Error en ficha del cliente
+2026-03,DEP-CTA,ACT-063,8,Documentación incompleta desde agencia
+2026-04,DEP-CTA,ACT-063,6,Documentación incompleta desde agencia
+2026-05,DEP-CTA,ACT-063,7,Oficio ilegible o incompleto
+2026-06,DEP-CTA,ACT-063,6,Documentación incompleta desde agencia
+2026-07,DEP-CTA,ACT-063,8,Documentación incompleta desde agencia
+2026-08,DEP-CTA,ACT-063,6,Documentación incompleta desde agencia
+2026-09,DEP-CTA,ACT-063,6,Error en ficha del cliente
+2026-10,DEP-CTA,ACT-063,7,Error en ficha del cliente
+2025-11,DEP-CTA,ACT-064,36,Oficio ilegible o incompleto
+2025-12,DEP-CTA,ACT-064,38,Oficio ilegible o incompleto
+2026-01,DEP-CTA,ACT-064,52,Error en ficha del cliente
+2026-02,DEP-CTA,ACT-064,35,Error en ficha del cliente
+2026-03,DEP-CTA,ACT-064,36,Documentación incompleta desde agencia
+2026-04,DEP-CTA,ACT-064,28,Oficio ilegible o incompleto
+2026-05,DEP-CTA,ACT-064,44,Oficio ilegible o incompleto
+2026-06,DEP-CTA,ACT-064,40,Oficio ilegible o incompleto
+2026-07,DEP-CTA,ACT-064,42,Oficio ilegible o incompleto
+2026-08,DEP-CTA,ACT-064,45,Documentación incompleta desde agencia
+2026-09,DEP-CTA,ACT-064,36,Error en ficha del cliente
+2026-10,DEP-CTA,ACT-064,41,Error en ficha del cliente
+2025-11,DEP-CTA,ACT-067,255,Error en ficha del cliente
+2025-12,DEP-CTA,ACT-067,230,Documentación incompleta desde agencia
+2026-01,DEP-CTA,ACT-067,326,Oficio ilegible o incompleto
+2026-02,DEP-CTA,ACT-067,198,Oficio ilegible o incompleto
+2026-03,DEP-CTA,ACT-067,322,Error en ficha del cliente
+2026-04,DEP-CTA,ACT-067,353,Oficio ilegible o incompleto
+2026-05,DEP-CTA,ACT-067,278,Oficio ilegible o incompleto
+2026-06,DEP-CTA,ACT-067,323,Error en ficha del cliente
+2026-07,DEP-CTA,ACT-067,228,Documentación incompleta desde agencia
+2026-08,DEP-CTA,ACT-067,318,Oficio ilegible o incompleto
+2026-09,DEP-CTA,ACT-067,264,Oficio ilegible o incompleto
+2026-10,DEP-CTA,ACT-067,361,Oficio ilegible o incompleto
+2025-11,DEP-OCR,ACT-070,89,Garantía sin inscripción
+2025-12,DEP-OCR,ACT-070,138,Expediente incompleto desde agencia
+2026-01,DEP-OCR,ACT-070,77,Garantía sin inscripción
+2026-02,DEP-OCR,ACT-070,75,Garantía sin inscripción
+2026-03,DEP-OCR,ACT-070,91,Garantía sin inscripción
+2026-04,DEP-OCR,ACT-070,128,Error en datos de la operación
+2026-05,DEP-OCR,ACT-070,110,Garantía sin inscripción
+2026-06,DEP-OCR,ACT-070,101,Garantía sin inscripción
+2026-07,DEP-OCR,ACT-070,86,Garantía sin inscripción
+2026-08,DEP-OCR,ACT-070,78,Error en datos de la operación
+2026-09,DEP-OCR,ACT-070,87,Error en datos de la operación
+2026-10,DEP-OCR,ACT-070,87,Garantía sin inscripción
+2025-11,DEP-OCR,ACT-071,56,Error en datos de la operación
+2025-12,DEP-OCR,ACT-071,77,Garantía sin inscripción
+2026-01,DEP-OCR,ACT-071,37,Error en datos de la operación
+2026-02,DEP-OCR,ACT-071,47,Expediente incompleto desde agencia
+2026-03,DEP-OCR,ACT-071,70,Garantía sin inscripción
+2026-04,DEP-OCR,ACT-071,57,Expediente incompleto desde agencia
+2026-05,DEP-OCR,ACT-071,54,Expediente incompleto desde agencia
+2026-06,DEP-OCR,ACT-071,74,Error en datos de la operación
+2026-07,DEP-OCR,ACT-071,70,Expediente incompleto desde agencia
+2026-08,DEP-OCR,ACT-071,56,Expediente incompleto desde agencia
+2026-09,DEP-OCR,ACT-071,63,Expediente incompleto desde agencia
+2026-10,DEP-OCR,ACT-071,59,Garantía sin inscripción
+2025-11,DEP-OCR,ACT-072,15,Garantía sin inscripción
+2025-12,DEP-OCR,ACT-072,30,Error en datos de la operación
+2026-01,DEP-OCR,ACT-072,13,Expediente incompleto desde agencia
+2026-02,DEP-OCR,ACT-072,17,Expediente incompleto desde agencia
+2026-03,DEP-OCR,ACT-072,22,Error en datos de la operación
+2026-04,DEP-OCR,ACT-072,20,Garantía sin inscripción
+2026-05,DEP-OCR,ACT-072,15,Garantía sin inscripción
+2026-06,DEP-OCR,ACT-072,22,Garantía sin inscripción
+2026-07,DEP-OCR,ACT-072,24,Error en datos de la operación
+2026-08,DEP-OCR,ACT-072,24,Error en datos de la operación
+2026-09,DEP-OCR,ACT-072,20,Garantía sin inscripción
+2026-10,DEP-OCR,ACT-072,25,Garantía sin inscripción
+2025-11,DEP-OCR,ACT-073,22,Expediente incompleto desde agencia
+2025-12,DEP-OCR,ACT-073,24,Error en datos de la operación
+2026-01,DEP-OCR,ACT-073,13,Garantía sin inscripción
+2026-02,DEP-OCR,ACT-073,14,Garantía sin inscripción
+2026-03,DEP-OCR,ACT-073,24,Expediente incompleto desde agencia
+2026-04,DEP-OCR,ACT-073,18,Garantía sin inscripción
+2026-05,DEP-OCR,ACT-073,16,Expediente incompleto desde agencia
+2026-06,DEP-OCR,ACT-073,19,Garantía sin inscripción
+2026-07,DEP-OCR,ACT-073,17,Garantía sin inscripción
+2026-08,DEP-OCR,ACT-073,21,Garantía sin inscripción
+2026-09,DEP-OCR,ACT-073,18,Expediente incompleto desde agencia
+2026-10,DEP-OCR,ACT-073,18,Expediente incompleto desde agencia
+2025-11,DEP-OCR,ACT-074,47,Garantía sin inscripción
+2025-12,DEP-OCR,ACT-074,64,Garantía sin inscripción
+2026-01,DEP-OCR,ACT-074,51,Expediente incompleto desde agencia
+2026-02,DEP-OCR,ACT-074,33,Garantía sin inscripción
+2026-03,DEP-OCR,ACT-074,40,Expediente incompleto desde agencia
+2026-04,DEP-OCR,ACT-074,67,Garantía sin inscripción
+2026-05,DEP-OCR,ACT-074,36,Expediente incompleto desde agencia
+2026-06,DEP-OCR,ACT-074,50,Error en datos de la operación
+2026-07,DEP-OCR,ACT-074,67,Expediente incompleto desde agencia
+2026-08,DEP-OCR,ACT-074,59,Error en datos de la operación
+2026-09,DEP-OCR,ACT-074,72,Expediente incompleto desde agencia
+2026-10,DEP-OCR,ACT-074,63,Error en datos de la operación
+2025-11,DEP-TAR,ACT-080,97,Plazo de marca vencido
+2025-12,DEP-TAR,ACT-080,89,Evidencia insuficiente
+2026-01,DEP-TAR,ACT-080,71,Error en registro del reclamo
+2026-02,DEP-TAR,ACT-080,70,Evidencia insuficiente
+2026-03,DEP-TAR,ACT-080,93,Plazo de marca vencido
+2026-04,DEP-TAR,ACT-080,88,Evidencia insuficiente
+2026-05,DEP-TAR,ACT-080,72,Plazo de marca vencido
+2026-06,DEP-TAR,ACT-080,82,Evidencia insuficiente
+2026-07,DEP-TAR,ACT-080,93,Error en registro del reclamo
+2026-08,DEP-TAR,ACT-080,88,Evidencia insuficiente
+2026-09,DEP-TAR,ACT-080,73,Error en registro del reclamo
+2026-10,DEP-TAR,ACT-080,70,Plazo de marca vencido
+2025-11,DEP-TAR,ACT-081,122,Plazo de marca vencido
+2025-12,DEP-TAR,ACT-081,117,Plazo de marca vencido
+2026-01,DEP-TAR,ACT-081,96,Error en registro del reclamo
+2026-02,DEP-TAR,ACT-081,85,Plazo de marca vencido
+2026-03,DEP-TAR,ACT-081,145,Evidencia insuficiente
+2026-04,DEP-TAR,ACT-081,106,Error en registro del reclamo
+2026-05,DEP-TAR,ACT-081,114,Plazo de marca vencido
+2026-06,DEP-TAR,ACT-081,125,Evidencia insuficiente
+2026-07,DEP-TAR,ACT-081,114,Evidencia insuficiente
+2026-08,DEP-TAR,ACT-081,140,Error en registro del reclamo
+2026-09,DEP-TAR,ACT-081,93,Evidencia insuficiente
+2026-10,DEP-TAR,ACT-081,88,Error en registro del reclamo
+2025-11,DEP-TAR,ACT-082,56,Evidencia insuficiente
+2025-12,DEP-TAR,ACT-082,98,Evidencia insuficiente
+2026-01,DEP-TAR,ACT-082,69,Plazo de marca vencido
+2026-02,DEP-TAR,ACT-082,57,Evidencia insuficiente
+2026-03,DEP-TAR,ACT-082,51,Error en registro del reclamo
+2026-04,DEP-TAR,ACT-082,68,Plazo de marca vencido
+2026-05,DEP-TAR,ACT-082,60,Evidencia insuficiente
+2026-06,DEP-TAR,ACT-082,63,Plazo de marca vencido
+2026-07,DEP-TAR,ACT-082,58,Evidencia insuficiente
+2026-08,DEP-TAR,ACT-082,53,Error en registro del reclamo
+2026-09,DEP-TAR,ACT-082,54,Error en registro del reclamo
+2026-10,DEP-TAR,ACT-082,49,Evidencia insuficiente
+2025-11,DEP-TAR,ACT-086,7,Error en registro del reclamo
+2025-12,DEP-TAR,ACT-086,10,Evidencia insuficiente
+2026-01,DEP-TAR,ACT-086,10,Evidencia insuficiente
+2026-02,DEP-TAR,ACT-086,5,Error en registro del reclamo
+2026-03,DEP-TAR,ACT-086,8,Plazo de marca vencido
+2026-04,DEP-TAR,ACT-086,6,Error en registro del reclamo
+2026-05,DEP-TAR,ACT-086,7,Evidencia insuficiente
+2026-06,DEP-TAR,ACT-086,6,Error en registro del reclamo
+2026-07,DEP-TAR,ACT-086,7,Plazo de marca vencido
+2026-08,DEP-TAR,ACT-086,7,Evidencia insuficiente
+2026-09,DEP-TAR,ACT-086,8,Evidencia insuficiente
+2026-10,DEP-TAR,ACT-086,7,Evidencia insuficiente
+2025-11,DEP-CAM,ACT-090,139,Imagen de cheque ilegible
+2025-12,DEP-CAM,ACT-090,182,Error de cuadre
+2026-01,DEP-CAM,ACT-090,140,Error de cuadre
+2026-02,DEP-CAM,ACT-090,93,Imagen de cheque ilegible
+2026-03,DEP-CAM,ACT-090,122,Imagen de cheque ilegible
+2026-04,DEP-CAM,ACT-090,150,Error de cuadre
+2026-05,DEP-CAM,ACT-090,134,Imagen de cheque ilegible
+2026-06,DEP-CAM,ACT-090,120,Imagen de cheque ilegible
+2026-07,DEP-CAM,ACT-090,142,Imagen de cheque ilegible
+2026-08,DEP-CAM,ACT-090,107,Imagen de cheque ilegible
+2026-09,DEP-CAM,ACT-090,150,Error de cuadre
+2026-10,DEP-CAM,ACT-090,123,Imagen de cheque ilegible
+2025-11,DEP-CAM,ACT-091,29,Imagen de cheque ilegible
+2025-12,DEP-CAM,ACT-091,36,Error de cuadre
+2026-01,DEP-CAM,ACT-091,29,Error de cuadre
+2026-02,DEP-CAM,ACT-091,29,Error de cuadre
+2026-03,DEP-CAM,ACT-091,24,Error de cuadre
+2026-04,DEP-CAM,ACT-091,20,Imagen de cheque ilegible
+2026-05,DEP-CAM,ACT-091,26,Error de cuadre
+2026-06,DEP-CAM,ACT-091,23,Imagen de cheque ilegible
+2026-07,DEP-CAM,ACT-091,32,Error de cuadre
+2026-08,DEP-CAM,ACT-091,31,Imagen de cheque ilegible
+2026-09,DEP-CAM,ACT-091,30,Error de cuadre
+2026-10,DEP-CAM,ACT-091,27,Imagen de cheque ilegible
+2025-11,DEP-CAM,ACT-094,241,Error de cuadre
+2025-12,DEP-CAM,ACT-094,286,Imagen de cheque ilegible
+2026-01,DEP-CAM,ACT-094,223,Imagen de cheque ilegible
+2026-02,DEP-CAM,ACT-094,199,Error de cuadre
+2026-03,DEP-CAM,ACT-094,185,Imagen de cheque ilegible
+2026-04,DEP-CAM,ACT-094,211,Imagen de cheque ilegible
+2026-05,DEP-CAM,ACT-094,165,Imagen de cheque ilegible
+2026-06,DEP-CAM,ACT-094,287,Imagen de cheque ilegible
+2026-07,DEP-CAM,ACT-094,274,Error de cuadre
+2026-08,DEP-CAM,ACT-094,242,Error de cuadre
+2026-09,DEP-CAM,ACT-094,267,Imagen de cheque ilegible
+2026-10,DEP-CAM,ACT-094,247,Error de cuadre
+2025-11,DEP-CCT,ACT-101,258,Información incorrecta al cliente
+2025-12,DEP-CCT,ACT-101,375,Información incorrecta al cliente
+2026-01,DEP-CCT,ACT-101,278,Información incorrecta al cliente
+2026-02,DEP-CCT,ACT-101,244,Información incorrecta al cliente
+2026-03,DEP-CCT,ACT-101,386,Caso mal tipificado
+2026-04,DEP-CCT,ACT-101,297,Información incorrecta al cliente
+2026-05,DEP-CCT,ACT-101,316,Caso mal tipificado
+2026-06,DEP-CCT,ACT-101,295,Caso mal tipificado
+2026-07,DEP-CCT,ACT-101,386,Información incorrecta al cliente
+2026-08,DEP-CCT,ACT-101,364,Información incorrecta al cliente
+2026-09,DEP-CCT,ACT-101,287,Información incorrecta al cliente
+2026-10,DEP-CCT,ACT-101,367,Información incorrecta al cliente
+2025-11,DEP-CCT,ACT-103,172,Información incorrecta al cliente
+2025-12,DEP-CCT,ACT-103,283,Información incorrecta al cliente
+2026-01,DEP-CCT,ACT-103,227,Información incorrecta al cliente
+2026-02,DEP-CCT,ACT-103,189,Información incorrecta al cliente
+2026-03,DEP-CCT,ACT-103,209,Caso mal tipificado
+2026-04,DEP-CCT,ACT-103,156,Información incorrecta al cliente
+2026-05,DEP-CCT,ACT-103,170,Caso mal tipificado
+2026-06,DEP-CCT,ACT-103,176,Información incorrecta al cliente
+2026-07,DEP-CCT,ACT-103,259,Información incorrecta al cliente
+2026-08,DEP-CCT,ACT-103,195,Caso mal tipificado
+2026-09,DEP-CCT,ACT-103,184,Información incorrecta al cliente
+2026-10,DEP-CCT,ACT-103,148,Información incorrecta al cliente
+2025-11,DEP-CCT,ACT-108,28,Caso mal tipificado
+2025-12,DEP-CCT,ACT-108,32,Caso mal tipificado
+2026-01,DEP-CCT,ACT-108,36,Información incorrecta al cliente
+2026-02,DEP-CCT,ACT-108,20,Caso mal tipificado
+2026-03,DEP-CCT,ACT-108,28,Caso mal tipificado
+2026-04,DEP-CCT,ACT-108,30,Caso mal tipificado
+2026-05,DEP-CCT,ACT-108,26,Información incorrecta al cliente
+2026-06,DEP-CCT,ACT-108,28,Caso mal tipificado
+2026-07,DEP-CCT,ACT-108,24,Caso mal tipificado
+2026-08,DEP-CCT,ACT-108,34,Caso mal tipificado
+2026-09,DEP-CCT,ACT-108,24,Información incorrecta al cliente
+2026-10,DEP-CCT,ACT-108,30,Caso mal tipificado

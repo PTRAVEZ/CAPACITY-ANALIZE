@@ -1,0 +1,15 @@
+cargo_id,nombre_cargo,familia,nivel_jerarquico,tipo_rol
+CAR-GER,Gerente de Área,Gestión,Gerencial,Gestión
+CAR-AGE,Asistente de Gerencia,Soporte administrativo,Operativo,Soporte
+CAR-JDP,Jefe de Departamento,Gestión,Jefatura,Gestión
+CAR-ASR,Analista Senior de Operaciones,Operaciones,Profesional,Operativo
+CAR-ANO,Analista Operativo,Operaciones,Profesional,Operativo
+CAR-AST,Asistente Operativo,Operaciones,Operativo,Operativo
+CAR-JAG,Jefe de Agencia,Red de agencias,Jefatura,Gestión
+CAR-SOP,Supervisor Operativo de Agencia,Red de agencias,Supervisión,Supervisión
+CAR-CAJ,Cajero,Red de agencias,Operativo,Operativo
+CAR-ASV,Asesor de Servicios,Red de agencias,Operativo,Operativo
+CAR-ANG,Asesor de Negocios,Red de agencias,Profesional,Comercial
+CAR-SCC,Supervisor de Centro de Contacto,Centro de contacto,Supervisión,Supervisión
+CAR-ACC,Agente de Centro de Contacto,Centro de contacto,Operativo,Operativo
+CAR-ACA,Analista de Calidad de Servicio,Centro de contacto,Profesional,Operativo

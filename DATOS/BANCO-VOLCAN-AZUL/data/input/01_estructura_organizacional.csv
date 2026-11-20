@@ -1,0 +1,22 @@
+unidad_id,nombre,nivel,unidad_padre_id,ciudad,provincia,tipo_unidad
+BVA,Banco Volcán Azul S.A. (ficticio),Banco,,Quito,Pichincha,Corporativo
+VP-OPC,Vicepresidencia de Operaciones y Canales,Dirección,BVA,Quito,Pichincha,Dirección
+GER-OPC,Gerencia de Operaciones Centralizadas,Gerencia,VP-OPC,Quito,Pichincha,Back office
+GER-RAS,Gerencia de Red de Agencias Sierra,Gerencia,VP-OPC,Quito,Pichincha,Red de agencias
+GER-CCC,Gerencia de Banca Telefónica y Digital,Gerencia,VP-OPC,Quito,Pichincha,Centro de contacto
+DEP-PAG,Departamento de Pagos y Transferencias,Departamento,GER-OPC,Quito,Pichincha,Back office
+DEP-CTA,Departamento de Cuentas y Servicios,Departamento,GER-OPC,Quito,Pichincha,Back office
+DEP-OCR,Departamento de Operaciones de Crédito,Departamento,GER-OPC,Quito,Pichincha,Back office
+DEP-TAR,Departamento de Tarjetas y Reclamos,Departamento,GER-OPC,Quito,Pichincha,Back office
+DEP-CAM,Departamento de Cámara de Compensación y Valores,Departamento,GER-OPC,Quito,Pichincha,Back office
+DEP-CCT,Centro de Contacto,Departamento,GER-CCC,Quito,Pichincha,Centro de contacto
+AG-QMA,Agencia Matriz Quito (Av. Amazonas),Agencia,GER-RAS,Quito,Pichincha,Agencia
+AG-QNO,Agencia Quito Norte (El Condado),Agencia,GER-RAS,Quito,Pichincha,Agencia
+AG-QSU,Agencia Quito Sur (Quitumbe),Agencia,GER-RAS,Quito,Pichincha,Agencia
+AG-VCH,Agencia Valle de los Chillos,Agencia,GER-RAS,Sangolquí,Pichincha,Agencia
+AG-CUM,Agencia Cumbayá,Agencia,GER-RAS,Quito,Pichincha,Agencia
+AG-IBA,Agencia Ibarra,Agencia,GER-RAS,Ibarra,Imbabura,Agencia
+AG-OTA,Agencia Otavalo,Agencia,GER-RAS,Otavalo,Imbabura,Agencia
+AG-LAT,Agencia Latacunga,Agencia,GER-RAS,Latacunga,Cotopaxi,Agencia
+AG-AMB,Agencia Ambato,Agencia,GER-RAS,Ambato,Tungurahua,Agencia
+AG-RIO,Agencia Riobamba,Agencia,GER-RAS,Riobamba,Chimborazo,Agencia

@@ -1,0 +1,13 @@
+escenario_id,nombre_escenario,descripcion_ajuste,ambito_tipo,ambito_id,variable,valor,estado
+ESC-BASE,Base 2027,Crecimiento orgánico del negocio,GLOBAL,,volumen_pct,0.04,Supuesto
+ESC-DIG,Migración digital,Crecimiento base + migración de transacciones a canales digitales,GLOBAL,,volumen_pct,0.04,Supuesto
+ESC-DIG,Migración digital,Menos transacciones en caja,PROCESO,P-CAJ,volumen_pct,-0.18,Supuesto
+ESC-DIG,Migración digital,Menos servicios presenciales,PROCESO,P-SER,volumen_pct,-0.12,Supuesto
+ESC-DIG,Migración digital,Más atención digital en centro de contacto,ACTIVIDAD,ACT-103,volumen_pct,0.35,Supuesto
+ESC-AUT,Automatización back office,Crecimiento base,GLOBAL,,volumen_pct,0.04,Supuesto
+ESC-AUT,Automatización back office,Validación automática de transferencias SPI,ACTIVIDAD,ACT-050,tiempo_pct,-0.4,Supuesto
+ESC-AUT,Automatización back office,Lectura automática (OCR) de documentos de apertura,ACTIVIDAD,ACT-060,tiempo_pct,-0.3,Supuesto
+ESC-AUT,Automatización back office,Robot de conciliación SPI,ACTIVIDAD,ACT-054,tiempo_pct,-0.5,Supuesto
+ESC-CRE,Crecimiento comercial,Crecimiento base,GLOBAL,,volumen_pct,0.04,Supuesto
+ESC-CRE,Crecimiento comercial,Plan comercial agresivo en crédito,PROCESO,P-NEG,volumen_pct,0.15,Supuesto
+ESC-CRE,Crecimiento comercial,Más operaciones de crédito a procesar,PROCESO,P-OCR,volumen_pct,0.12,Supuesto

@@ -1,0 +1,4 @@
+gerencia_id,horas_nominales,horas_ausencias,horas_capacitacion,horas_disponibles,horas_carga,horas_reproceso,horas_extra,fte_contractual_promedio,fte_disponible,fte_requerido,brecha_fte,fte_requerido_dotacion,dotacion_corte,fte_contractual_corte,brecha_dotacion_fte,fte_equivalente_horas_extra,utilizacion,estado
+GER-CCC,67584.0,5744.5837,1623.4163,54194.4,59383.9417,577.1667,3652.0,33.792,30.108,32.9911,-2.8831,37.0409,36,33.0,-4.0409,2.0289,1.0958,Sobrecarga
+GER-OPC,203088.0,16726.0,4747.0,163453.5,159389.065,3472.4417,5127.0,101.544,90.8075,88.5495,2.258,99.037,102,102.0,2.963,2.8483,0.9751,Equilibrio
+GER-RAS,319128.0,27808.0,7342.0,255580.2,250398.7567,4157.0967,5446.0,159.564,141.989,139.1104,2.8786,156.5554,160,160.0,3.4446,3.0256,0.9797,Equilibrio
