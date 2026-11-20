@@ -1,5 +1,7 @@
 # 13 · LOOP v2.1 — Bloque 2: Datos y fuentes de información
 
+> ✅ **Bloque aprobado por el usuario en el chat (2026-11-20).** DEC-019 a DEC-026 y las fichas FTE-SRC-01 a 14 pasan a *Confirmado*; los SUP-, PEN- y RSK- se mantienen.
+
 > **Contexto:** el usuario aprobó el Bloque 1 en el chat el 2026-11-20, así que DEC-004 a DEC-018 pasan a *Confirmado*.
 > Este bloque mantiene el modo de trabajo autorizado: el consultor propone y el usuario valida. Todo lo nuevo queda en estado *Propuesto* o *Supuesto*.
 > Las fuentes son los 14 CSV **ficticios** de `DATOS/BANCO-VOLCAN-AZUL/data/input/`. El diccionario campo por campo está en `DATOS/BANCO-VOLCAN-AZUL/docs/diccionario_datos.md` (DAT- de referencia).
@@ -69,17 +71,17 @@
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-019 | Propuesto | Las llaves de cruce oficiales son `unidad_id`, `cargo_id`, `colaborador_id`, `actividad_id`, `proceso_id` y `periodo` (AAAA-MM). Ninguna fuente se cruza por nombres. |
-| DEC-020 | Propuesto | **Granularidad mínima de carga:** unidad × actividad × mes. **Granularidad mínima de disponibilidad:** colaborador × mes. Se alinea con DEC-014. |
-| DEC-021 | Propuesto | Las 14 fuentes de `BANCO-VOLCAN-AZUL` son las fuentes oficiales del piloto (con DEC-004). Su formato de intercambio es CSV UTF-8. |
+| DEC-019 | Confirmado | Las llaves de cruce oficiales son `unidad_id`, `cargo_id`, `colaborador_id`, `actividad_id`, `proceso_id` y `periodo` (AAAA-MM). Ninguna fuente se cruza por nombres. |
+| DEC-020 | Confirmado | **Granularidad mínima de carga:** unidad × actividad × mes. **Granularidad mínima de disponibilidad:** colaborador × mes. Se alinea con DEC-014. |
+| DEC-021 | Confirmado | Las 14 fuentes de `BANCO-VOLCAN-AZUL` son las fuentes oficiales del piloto (con DEC-004). Su formato de intercambio es CSV UTF-8. |
 
 ## 2.3 Calidad y reglas de validación
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-022 | Propuesto | Se adoptan las reglas de validación V-01 a V-16 (`docs/metodologia_calculo.md` §5) como controles obligatorios de cada carga mensual. Un **ERROR** excluye el registro; una **ADVERTENCIA** lo incluye ajustado y lo deja registrado. |
-| DEC-023 | Propuesto | Cada fuente recibe una calificación de calidad: Alta (registro de sistema o estudio de tiempos), Media (registro manual o estimación experta) o Baja (sin respaldo). Los resultados que dependen de fuentes Media o Baja se señalan en los reportes. |
-| DEC-024 | Propuesto | Prioridad de métodos para el tiempo estándar: 1) estudio de tiempos; 2) registro de sistema (marca de inicio y fin); 3) muestreo de trabajo; 4) estimación experta por consenso (técnica de 3 puntos). Las estimaciones expertas se reemplazan gradualmente por mediciones. |
+| DEC-022 | Confirmado | Se adoptan las reglas de validación V-01 a V-16 (`docs/metodologia_calculo.md` §5) como controles obligatorios de cada carga mensual. Un **ERROR** excluye el registro; una **ADVERTENCIA** lo incluye ajustado y lo deja registrado. |
+| DEC-023 | Confirmado | Cada fuente recibe una calificación de calidad: Alta (registro de sistema o estudio de tiempos), Media (registro manual o estimación experta) o Baja (sin respaldo). Los resultados que dependen de fuentes Media o Baja se señalan en los reportes. |
+| DEC-024 | Confirmado | Prioridad de métodos para el tiempo estándar: 1) estudio de tiempos; 2) registro de sistema (marca de inicio y fin); 3) muestreo de trabajo; 4) estimación experta por consenso (técnica de 3 puntos). Las estimaciones expertas se reemplazan gradualmente por mediciones. |
 
 ## 2.4 Vacíos y cómo cubrirlos
 
@@ -97,15 +99,15 @@
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-025 | Propuesto | Las fuentes con datos por persona (03, 10, 11 y 12) se manejan seudonimizadas. La tabla que vincula seudónimo e identidad permanece en Talento Humano y **no entra** al producto. |
-| DEC-026 | Propuesto | Del ausentismo solo se usan horas por categoría; **no** se almacena el diagnóstico ni el motivo médico. |
+| DEC-025 | Confirmado | Las fuentes con datos por persona (03, 10, 11 y 12) se manejan seudonimizadas. La tabla que vincula seudónimo e identidad permanece en Talento Humano y **no entra** al producto. |
+| DEC-026 | Confirmado | Del ausentismo solo se usan horas por categoría; **no** se almacena el diagnóstico ni el motivo médico. |
 
 ---
 
 ## Resumen del Bloque 2
 
 - ✅ **Confirmado (Bloque 1):** DEC-004 a DEC-018.
-- 💡 **Propuesto:** DEC-019 a DEC-026 y las fichas FTE-SRC-01 a FTE-SRC-14.
+- ✅ **Confirmado por el usuario (2026-11-20):** DEC-019 a DEC-026 y las fichas FTE-SRC-01 a FTE-SRC-14.
 - ⚠️ **Supuestos:** SUP-003 (volúmenes solo de primera vez) y SUP-004 (confiabilidad de los registros manuales).
 - ⏳ **Pendiente:** PEN-004 (Comité), PEN-005 (medir ACT-017) y PEN-006 (reemplazar estimaciones expertas).
 - ⚠️ **Riesgos:** RSK-001 (calendario), RSK-002 (historia corta) y RSK-003 (sin traslados).

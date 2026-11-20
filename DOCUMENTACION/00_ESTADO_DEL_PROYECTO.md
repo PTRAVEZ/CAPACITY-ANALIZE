@@ -65,3 +65,10 @@
 - Bloque 2 (Datos y fuentes) completo en estado *Propuesto*: fichas FTE-SRC-01 a 14, llaves de cruce, reglas de calidad V-01 a V-16, vacíos y riesgos (ver `13_BLOQUE2_DATOS_Y_FUENTES.md`).
 - Nuevos pendientes: PEN-005 (medir ACT-017) y PEN-006 (reemplazar estimaciones expertas). Riesgos: RSK-001 a RSK-003.
 - Próximo paso: validación del Bloque 2 por el usuario y luego el Bloque 3 (indicadores y fórmulas).
+
+## Actualización 2026-11-20 — Bloque 2 aprobado y Bloque 3 propuesto
+
+- El usuario **aprobó el Bloque 2**: DEC-019 a DEC-026 pasan a *Confirmado*.
+- Bloque 3 (Indicadores y fórmulas) completo en estado *Propuesto*: taxonomía de tiempo, RN-01 a RN-07, fichas IND-01 a IND-21, escenarios y salidas (ver `14_BLOQUE3_INDICADORES_Y_FORMULAS.md`).
+- IND-17 a IND-20 (productividad, estacionalidad, dispersión y Pareto de causas) quedan pendientes de programar en el demostrador.
+- Próximo paso: validación del Bloque 3 por el usuario y luego el Bloque 4 (privacidad, accesos, despliegue y criterios de éxito).
