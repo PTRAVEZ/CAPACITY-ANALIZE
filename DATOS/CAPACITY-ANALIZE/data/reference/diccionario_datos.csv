@@ -1,0 +1,100 @@
+﻿archivo,campo,tipo_dato,descripcion_dataset,definicion_campo
+dim_direcciones.csv,id_direccion,object,Catálogo de direcciones organizacionales ficticias.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_direcciones.csv,direccion,object,Catálogo de direcciones organizacionales ficticias.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_direcciones.csv,macro_area,object,Catálogo de direcciones organizacionales ficticias.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_departamentos.csv,id_departamento,object,Departamentos y relación con dirección.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_departamentos.csv,departamento,object,Departamentos y relación con dirección.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_departamentos.csv,id_direccion,object,Departamentos y relación con dirección.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_agencias.csv,id_agencia,object,Agencias ficticias ubicadas en ciudades de Ecuador.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_agencias.csv,agencia,object,Agencias ficticias ubicadas en ciudades de Ecuador.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_agencias.csv,provincia,object,Agencias ficticias ubicadas en ciudades de Ecuador.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_agencias.csv,ciudad,object,Agencias ficticias ubicadas en ciudades de Ecuador.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_agencias.csv,tipo_sede,object,Agencias ficticias ubicadas en ciudades de Ecuador.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_cargos.csv,id_cargo,object,"Catálogo de cargos, familias y niveles.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_cargos.csv,cargo,object,"Catálogo de cargos, familias y niveles.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_cargos.csv,familia_cargo,object,"Catálogo de cargos, familias y niveles.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_cargos.csv,id_departamento_referencial,object,"Catálogo de cargos, familias y niveles.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_cargos.csv,nivel,int64,"Catálogo de cargos, familias y niveles.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,id_colaborador,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,nombres,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,apellidos,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,id_direccion,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,id_departamento,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,id_agencia,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,id_cargo,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,tipo_contrato,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,jornada_semanal_horas,int64,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,fecha_ingreso,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,estado,object,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_colaboradores.csv,dedicacion_porcentaje,int64,Dotación individual ficticia y anonimizada mediante IDs.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,id_vacante,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,id_cargo,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,id_departamento,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,id_agencia,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,fecha_apertura,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,estado,object,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_vacantes.csv,jornada_semanal_horas,int64,"Vacantes ficticias por cargo, departamento y agencia.",Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_procesos.csv,id_proceso,object,Catálogo de procesos de negocio.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_procesos.csv,proceso,object,Catálogo de procesos de negocio.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_procesos.csv,id_departamento_responsable,object,Catálogo de procesos de negocio.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_procesos.csv,macroproceso,object,Catálogo de procesos de negocio.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,id_actividad,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,actividad,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,id_proceso,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,id_cargo_referencial,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,tipo_actividad,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+dim_actividades.csv,unidad_tiempo,object,Actividades medibles asociadas a procesos y cargos referenciales.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,periodo,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,id_agencia,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,id_departamento,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,id_proceso,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,id_actividad,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,volumen_recibido,int64,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,volumen_procesado,int64,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,volumen_pendiente,int64,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,volumen_reproceso,int64,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,volumen_rechazado,int64,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_volumenes_mensuales.csv,fuente_dato,object,Volúmenes mensuales simulados de 2025-01 a 2026-10.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,id_observacion,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,id_actividad,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,nivel_complejidad,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,tiempo_observado_min,float64,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,fecha_observacion,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,metodo_medicion,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,observador,object,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_estudio_tiempos.csv,muestra_valida,int64,Observaciones de tiempos por actividad y complejidad.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,periodo,object,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,id_departamento,object,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_contractuales_mes,int64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_vacaciones_promedio,float64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_ausentismo_promedio,float64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_capacitacion,float64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_reuniones,float64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,horas_pausas_no_productivas,float64,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_disponibilidad_mensual.csv,nota,object,Horas promedio mensuales por FTE y departamento.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,id_evento,object,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,id_colaborador,object,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,periodo,object,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,tipo_ausencia,object,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,horas_ausencia,float64,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_ausentismo.csv,estado_registro,object,Eventos de ausencia simulados por colaborador y mes.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,periodo,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,id_agencia,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,id_departamento,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,id_proceso,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,id_actividad,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,volumen_reproceso,int64,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,volumen_rechazado,int64,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,causa_reproceso,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+fact_reprocesos.csv,clasificacion,object,Detalle agregado de reprocesos y rechazos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,id_actividad,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,id_cargo,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,porcentaje_dedicacion_referencial,float64,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,tipo_dedicacion,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,vigente_desde,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,vigente_hasta,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+bridge_actividad_cargo.csv,estado,object,Asignación referencial de actividades a cargos.,Pendiente de validación funcional; revisar README y reglas de negocio.
+parametros_modelo.csv,parametro,object,Parámetros ilustrativos que deben ser aprobados.,Pendiente de validación funcional; revisar README y reglas de negocio.
+parametros_modelo.csv,valor,object,Parámetros ilustrativos que deben ser aprobados.,Pendiente de validación funcional; revisar README y reglas de negocio.
+parametros_modelo.csv,unidad,object,Parámetros ilustrativos que deben ser aprobados.,Pendiente de validación funcional; revisar README y reglas de negocio.
+parametros_modelo.csv,descripcion,object,Parámetros ilustrativos que deben ser aprobados.,Pendiente de validación funcional; revisar README y reglas de negocio.

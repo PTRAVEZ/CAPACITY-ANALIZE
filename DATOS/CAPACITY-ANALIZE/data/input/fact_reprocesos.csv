@@ -1,0 +1,309 @@
+﻿periodo,id_agencia,id_departamento,id_proceso,id_actividad,volumen_reproceso,volumen_rechazado,causa_reproceso,clasificacion
+2025-01,AGE002,DEP002,PRO001,ACT001,44,52,Información incompleta,Simulado
+2025-01,AGE003,DEP002,PRO001,ACT002,49,39,Validación documental,Simulado
+2025-01,AGE004,DEP002,PRO002,ACT003,26,10,Diferencia de datos,Simulado
+2025-01,AGE005,DEP002,PRO002,ACT004,14,14,Error de digitación,Simulado
+2025-01,BANCO,DEP005,PRO003,ACT005,19,8,Criterio operativo,Simulado
+2025-01,AGE007,DEP005,PRO003,ACT006,16,5,Información incompleta,Simulado
+2025-01,BANCO,DEP004,PRO004,ACT007,8,4,Error de digitación,Simulado
+2025-01,AGE001,DEP001,PRO005,ACT008,195,79,Validación documental,Simulado
+2025-01,AGE002,DEP001,PRO006,ACT009,21,13,Diferencia de datos,Simulado
+2025-01,BANCO,DEP006,PRO007,ACT010,7,5,Diferencia de datos,Simulado
+2025-01,BANCO,DEP007,PRO008,ACT011,107,48,Criterio operativo,Simulado
+2025-01,BANCO,DEP008,PRO009,ACT012,2,1,Validación documental,Simulado
+2025-01,AGE006,DEP003,PRO010,ACT013,36,15,Información incompleta,Simulado
+2025-01,AGE007,DEP002,PRO001,ACT014,5,1,Criterio operativo,Simulado
+2025-02,AGE003,DEP002,PRO001,ACT001,86,12,Información incompleta,Simulado
+2025-02,AGE004,DEP002,PRO001,ACT002,82,22,Error de digitación,Simulado
+2025-02,AGE005,DEP002,PRO002,ACT003,19,15,Criterio operativo,Simulado
+2025-02,AGE006,DEP002,PRO002,ACT004,16,8,Validación documental,Simulado
+2025-02,BANCO,DEP005,PRO003,ACT005,24,6,Criterio operativo,Simulado
+2025-02,AGE008,DEP005,PRO003,ACT006,17,4,Validación documental,Simulado
+2025-02,BANCO,DEP004,PRO004,ACT007,5,3,Error de digitación,Simulado
+2025-02,AGE002,DEP001,PRO005,ACT008,132,46,Diferencia de datos,Simulado
+2025-02,AGE003,DEP001,PRO006,ACT009,19,10,Criterio operativo,Simulado
+2025-02,BANCO,DEP006,PRO007,ACT010,13,1,Validación documental,Simulado
+2025-02,BANCO,DEP007,PRO008,ACT011,65,44,Error de digitación,Simulado
+2025-02,BANCO,DEP008,PRO009,ACT012,8,2,Información incompleta,Simulado
+2025-02,AGE007,DEP003,PRO010,ACT013,40,4,Diferencia de datos,Simulado
+2025-02,AGE008,DEP002,PRO001,ACT014,5,1,Información incompleta,Simulado
+2025-03,AGE004,DEP002,PRO001,ACT001,32,27,Diferencia de datos,Simulado
+2025-03,AGE005,DEP002,PRO001,ACT002,41,50,Error de digitación,Simulado
+2025-03,AGE006,DEP002,PRO002,ACT003,25,11,Validación documental,Simulado
+2025-03,AGE007,DEP002,PRO002,ACT004,34,4,Validación documental,Simulado
+2025-03,BANCO,DEP005,PRO003,ACT005,14,12,Criterio operativo,Simulado
+2025-03,AGE001,DEP005,PRO003,ACT006,8,5,Criterio operativo,Simulado
+2025-03,BANCO,DEP004,PRO004,ACT007,9,4,Criterio operativo,Simulado
+2025-03,AGE003,DEP001,PRO005,ACT008,169,70,Información incompleta,Simulado
+2025-03,AGE004,DEP001,PRO006,ACT009,18,8,Error de digitación,Simulado
+2025-03,BANCO,DEP006,PRO007,ACT010,4,5,Información incompleta,Simulado
+2025-03,BANCO,DEP007,PRO008,ACT011,65,40,Error de digitación,Simulado
+2025-03,BANCO,DEP008,PRO009,ACT012,7,1,Diferencia de datos,Simulado
+2025-03,AGE008,DEP003,PRO010,ACT013,49,15,Criterio operativo,Simulado
+2025-03,AGE001,DEP002,PRO001,ACT014,5,2,Información incompleta,Simulado
+2025-04,AGE005,DEP002,PRO001,ACT001,68,26,Diferencia de datos,Simulado
+2025-04,AGE006,DEP002,PRO001,ACT002,37,12,Información incompleta,Simulado
+2025-04,AGE007,DEP002,PRO002,ACT003,33,14,Información incompleta,Simulado
+2025-04,AGE008,DEP002,PRO002,ACT004,33,4,Información incompleta,Simulado
+2025-04,BANCO,DEP005,PRO003,ACT005,5,3,Error de digitación,Simulado
+2025-04,AGE002,DEP005,PRO003,ACT006,10,2,Validación documental,Simulado
+2025-04,BANCO,DEP004,PRO004,ACT007,8,1,Información incompleta,Simulado
+2025-04,AGE004,DEP001,PRO005,ACT008,63,40,Diferencia de datos,Simulado
+2025-04,AGE005,DEP001,PRO006,ACT009,15,3,Información incompleta,Simulado
+2025-04,BANCO,DEP006,PRO007,ACT010,13,1,Error de digitación,Simulado
+2025-04,BANCO,DEP007,PRO008,ACT011,65,45,Error de digitación,Simulado
+2025-04,BANCO,DEP008,PRO009,ACT012,8,2,Información incompleta,Simulado
+2025-04,AGE001,DEP003,PRO010,ACT013,19,19,Validación documental,Simulado
+2025-04,AGE002,DEP002,PRO001,ACT014,2,2,Criterio operativo,Simulado
+2025-05,AGE006,DEP002,PRO001,ACT001,79,14,Error de digitación,Simulado
+2025-05,AGE007,DEP002,PRO001,ACT002,78,17,Error de digitación,Simulado
+2025-05,AGE008,DEP002,PRO002,ACT003,37,19,Validación documental,Simulado
+2025-05,AGE001,DEP002,PRO002,ACT004,33,11,Criterio operativo,Simulado
+2025-05,BANCO,DEP005,PRO003,ACT005,13,10,Diferencia de datos,Simulado
+2025-05,AGE003,DEP005,PRO003,ACT006,14,7,Diferencia de datos,Simulado
+2025-05,BANCO,DEP004,PRO004,ACT007,10,2,Validación documental,Simulado
+2025-05,AGE005,DEP001,PRO005,ACT008,200,31,Criterio operativo,Simulado
+2025-05,AGE006,DEP001,PRO006,ACT009,23,13,Información incompleta,Simulado
+2025-05,BANCO,DEP006,PRO007,ACT010,4,2,Validación documental,Simulado
+2025-05,BANCO,DEP007,PRO008,ACT011,55,36,Validación documental,Simulado
+2025-05,BANCO,DEP008,PRO009,ACT012,9,4,Error de digitación,Simulado
+2025-05,AGE002,DEP003,PRO010,ACT013,37,20,Validación documental,Simulado
+2025-05,AGE003,DEP002,PRO001,ACT014,2,1,Información incompleta,Simulado
+2025-06,AGE007,DEP002,PRO001,ACT001,93,50,Criterio operativo,Simulado
+2025-06,AGE008,DEP002,PRO001,ACT002,23,21,Información incompleta,Simulado
+2025-06,AGE001,DEP002,PRO002,ACT003,30,17,Validación documental,Simulado
+2025-06,AGE002,DEP002,PRO002,ACT004,19,16,Error de digitación,Simulado
+2025-06,BANCO,DEP005,PRO003,ACT005,6,11,Diferencia de datos,Simulado
+2025-06,AGE004,DEP005,PRO003,ACT006,11,5,Diferencia de datos,Simulado
+2025-06,BANCO,DEP004,PRO004,ACT007,7,3,Error de digitación,Simulado
+2025-06,AGE006,DEP001,PRO005,ACT008,120,97,Error de digitación,Simulado
+2025-06,AGE007,DEP001,PRO006,ACT009,13,14,Criterio operativo,Simulado
+2025-06,BANCO,DEP006,PRO007,ACT010,14,1,Validación documental,Simulado
+2025-06,BANCO,DEP007,PRO008,ACT011,51,12,Diferencia de datos,Simulado
+2025-06,BANCO,DEP008,PRO009,ACT012,9,4,Validación documental,Simulado
+2025-06,AGE003,DEP003,PRO010,ACT013,49,12,Validación documental,Simulado
+2025-06,AGE004,DEP002,PRO001,ACT014,3,2,Validación documental,Simulado
+2025-07,AGE008,DEP002,PRO001,ACT001,120,23,Validación documental,Simulado
+2025-07,AGE001,DEP002,PRO001,ACT002,70,11,Diferencia de datos,Simulado
+2025-07,AGE002,DEP002,PRO002,ACT003,39,7,Diferencia de datos,Simulado
+2025-07,AGE003,DEP002,PRO002,ACT004,34,11,Criterio operativo,Simulado
+2025-07,BANCO,DEP005,PRO003,ACT005,5,2,Validación documental,Simulado
+2025-07,AGE005,DEP005,PRO003,ACT006,11,4,Error de digitación,Simulado
+2025-07,BANCO,DEP004,PRO004,ACT007,8,4,Error de digitación,Simulado
+2025-07,AGE007,DEP001,PRO005,ACT008,176,25,Información incompleta,Simulado
+2025-07,AGE008,DEP001,PRO006,ACT009,20,12,Información incompleta,Simulado
+2025-07,BANCO,DEP006,PRO007,ACT010,9,2,Validación documental,Simulado
+2025-07,BANCO,DEP007,PRO008,ACT011,37,25,Información incompleta,Simulado
+2025-07,BANCO,DEP008,PRO009,ACT012,7,4,Validación documental,Simulado
+2025-07,AGE004,DEP003,PRO010,ACT013,19,9,Error de digitación,Simulado
+2025-07,AGE005,DEP002,PRO001,ACT014,1,1,Información incompleta,Simulado
+2025-08,AGE001,DEP002,PRO001,ACT001,65,46,Información incompleta,Simulado
+2025-08,AGE002,DEP002,PRO001,ACT002,77,12,Criterio operativo,Simulado
+2025-08,AGE003,DEP002,PRO002,ACT003,21,7,Diferencia de datos,Simulado
+2025-08,AGE004,DEP002,PRO002,ACT004,12,10,Información incompleta,Simulado
+2025-08,BANCO,DEP005,PRO003,ACT005,19,4,Información incompleta,Simulado
+2025-08,AGE006,DEP005,PRO003,ACT006,11,2,Información incompleta,Simulado
+2025-08,BANCO,DEP004,PRO004,ACT007,7,4,Información incompleta,Simulado
+2025-08,AGE008,DEP001,PRO005,ACT008,103,54,Criterio operativo,Simulado
+2025-08,AGE001,DEP001,PRO006,ACT009,13,2,Criterio operativo,Simulado
+2025-08,BANCO,DEP006,PRO007,ACT010,8,3,Información incompleta,Simulado
+2025-08,BANCO,DEP007,PRO008,ACT011,54,16,Validación documental,Simulado
+2025-08,BANCO,DEP008,PRO009,ACT012,7,2,Error de digitación,Simulado
+2025-08,AGE005,DEP003,PRO010,ACT013,28,5,Validación documental,Simulado
+2025-08,AGE006,DEP002,PRO001,ACT014,5,0,Error de digitación,Simulado
+2025-09,AGE002,DEP002,PRO001,ACT001,80,13,Diferencia de datos,Simulado
+2025-09,AGE003,DEP002,PRO001,ACT002,75,27,Información incompleta,Simulado
+2025-09,AGE004,DEP002,PRO002,ACT003,13,6,Diferencia de datos,Simulado
+2025-09,AGE005,DEP002,PRO002,ACT004,10,6,Criterio operativo,Simulado
+2025-09,BANCO,DEP005,PRO003,ACT005,14,2,Error de digitación,Simulado
+2025-09,AGE007,DEP005,PRO003,ACT006,13,6,Información incompleta,Simulado
+2025-09,BANCO,DEP004,PRO004,ACT007,4,2,Criterio operativo,Simulado
+2025-09,AGE001,DEP001,PRO005,ACT008,107,41,Diferencia de datos,Simulado
+2025-09,AGE002,DEP001,PRO006,ACT009,23,4,Error de digitación,Simulado
+2025-09,BANCO,DEP006,PRO007,ACT010,6,5,Información incompleta,Simulado
+2025-09,BANCO,DEP007,PRO008,ACT011,80,19,Información incompleta,Simulado
+2025-09,BANCO,DEP008,PRO009,ACT012,8,2,Información incompleta,Simulado
+2025-09,AGE006,DEP003,PRO010,ACT013,9,18,Validación documental,Simulado
+2025-09,AGE007,DEP002,PRO001,ACT014,2,2,Error de digitación,Simulado
+2025-10,AGE003,DEP002,PRO001,ACT001,106,12,Criterio operativo,Simulado
+2025-10,AGE004,DEP002,PRO001,ACT002,23,16,Criterio operativo,Simulado
+2025-10,AGE005,DEP002,PRO002,ACT003,18,15,Error de digitación,Simulado
+2025-10,AGE006,DEP002,PRO002,ACT004,17,12,Criterio operativo,Simulado
+2025-10,BANCO,DEP005,PRO003,ACT005,6,2,Validación documental,Simulado
+2025-10,AGE008,DEP005,PRO003,ACT006,13,2,Error de digitación,Simulado
+2025-10,BANCO,DEP004,PRO004,ACT007,4,1,Validación documental,Simulado
+2025-10,AGE002,DEP001,PRO005,ACT008,102,18,Diferencia de datos,Simulado
+2025-10,AGE003,DEP001,PRO006,ACT009,25,8,Validación documental,Simulado
+2025-10,BANCO,DEP006,PRO007,ACT010,8,5,Diferencia de datos,Simulado
+2025-10,BANCO,DEP007,PRO008,ACT011,25,27,Información incompleta,Simulado
+2025-10,BANCO,DEP008,PRO009,ACT012,7,0,Diferencia de datos,Simulado
+2025-10,AGE007,DEP003,PRO010,ACT013,42,17,Diferencia de datos,Simulado
+2025-10,AGE008,DEP002,PRO001,ACT014,2,1,Error de digitación,Simulado
+2025-11,AGE004,DEP002,PRO001,ACT001,31,32,Validación documental,Simulado
+2025-11,AGE005,DEP002,PRO001,ACT002,88,40,Diferencia de datos,Simulado
+2025-11,AGE006,DEP002,PRO002,ACT003,13,4,Validación documental,Simulado
+2025-11,AGE007,DEP002,PRO002,ACT004,38,8,Validación documental,Simulado
+2025-11,BANCO,DEP005,PRO003,ACT005,17,10,Criterio operativo,Simulado
+2025-11,AGE001,DEP005,PRO003,ACT006,8,7,Validación documental,Simulado
+2025-11,BANCO,DEP004,PRO004,ACT007,9,2,Validación documental,Simulado
+2025-11,AGE003,DEP001,PRO005,ACT008,190,84,Validación documental,Simulado
+2025-11,AGE004,DEP001,PRO006,ACT009,14,7,Error de digitación,Simulado
+2025-11,BANCO,DEP006,PRO007,ACT010,6,4,Error de digitación,Simulado
+2025-11,BANCO,DEP007,PRO008,ACT011,92,11,Validación documental,Simulado
+2025-11,BANCO,DEP008,PRO009,ACT012,8,3,Diferencia de datos,Simulado
+2025-11,AGE008,DEP003,PRO010,ACT013,13,15,Error de digitación,Simulado
+2025-11,AGE001,DEP002,PRO001,ACT014,4,2,Diferencia de datos,Simulado
+2025-12,AGE005,DEP002,PRO001,ACT001,133,45,Diferencia de datos,Simulado
+2025-12,AGE006,DEP002,PRO001,ACT002,91,40,Validación documental,Simulado
+2025-12,AGE007,DEP002,PRO002,ACT003,19,12,Error de digitación,Simulado
+2025-12,AGE008,DEP002,PRO002,ACT004,25,17,Criterio operativo,Simulado
+2025-12,BANCO,DEP005,PRO003,ACT005,24,10,Error de digitación,Simulado
+2025-12,AGE002,DEP005,PRO003,ACT006,9,5,Información incompleta,Simulado
+2025-12,BANCO,DEP004,PRO004,ACT007,7,1,Criterio operativo,Simulado
+2025-12,AGE004,DEP001,PRO005,ACT008,82,31,Información incompleta,Simulado
+2025-12,AGE005,DEP001,PRO006,ACT009,9,12,Error de digitación,Simulado
+2025-12,BANCO,DEP006,PRO007,ACT010,6,5,Diferencia de datos,Simulado
+2025-12,BANCO,DEP007,PRO008,ACT011,39,12,Error de digitación,Simulado
+2025-12,BANCO,DEP008,PRO009,ACT012,9,3,Validación documental,Simulado
+2025-12,AGE001,DEP003,PRO010,ACT013,38,17,Diferencia de datos,Simulado
+2025-12,AGE002,DEP002,PRO001,ACT014,3,1,Validación documental,Simulado
+2026-01,AGE002,DEP002,PRO001,ACT001,84,35,Error de digitación,Simulado
+2026-01,AGE003,DEP002,PRO001,ACT002,72,14,Criterio operativo,Simulado
+2026-01,AGE004,DEP002,PRO002,ACT003,35,11,Error de digitación,Simulado
+2026-01,AGE005,DEP002,PRO002,ACT004,10,12,Criterio operativo,Simulado
+2026-01,BANCO,DEP005,PRO003,ACT005,22,11,Error de digitación,Simulado
+2026-01,AGE007,DEP005,PRO003,ACT006,16,2,Validación documental,Simulado
+2026-01,BANCO,DEP004,PRO004,ACT007,2,2,Error de digitación,Simulado
+2026-01,AGE001,DEP001,PRO005,ACT008,88,71,Validación documental,Simulado
+2026-01,AGE002,DEP001,PRO006,ACT009,11,4,Información incompleta,Simulado
+2026-01,BANCO,DEP006,PRO007,ACT010,4,2,Diferencia de datos,Simulado
+2026-01,BANCO,DEP007,PRO008,ACT011,48,16,Diferencia de datos,Simulado
+2026-01,BANCO,DEP008,PRO009,ACT012,5,2,Información incompleta,Simulado
+2026-01,AGE006,DEP003,PRO010,ACT013,35,15,Diferencia de datos,Simulado
+2026-01,AGE007,DEP002,PRO001,ACT014,1,1,Error de digitación,Simulado
+2026-02,AGE003,DEP002,PRO001,ACT001,89,49,Validación documental,Simulado
+2026-02,AGE004,DEP002,PRO001,ACT002,70,42,Diferencia de datos,Simulado
+2026-02,AGE005,DEP002,PRO002,ACT003,15,5,Diferencia de datos,Simulado
+2026-02,AGE006,DEP002,PRO002,ACT004,24,17,Error de digitación,Simulado
+2026-02,BANCO,DEP005,PRO003,ACT005,18,7,Diferencia de datos,Simulado
+2026-02,AGE008,DEP005,PRO003,ACT006,13,2,Diferencia de datos,Simulado
+2026-02,BANCO,DEP004,PRO004,ACT007,3,1,Error de digitación,Simulado
+2026-02,AGE002,DEP001,PRO005,ACT008,114,51,Validación documental,Simulado
+2026-02,AGE003,DEP001,PRO006,ACT009,13,6,Diferencia de datos,Simulado
+2026-02,BANCO,DEP006,PRO007,ACT010,11,6,Información incompleta,Simulado
+2026-02,BANCO,DEP007,PRO008,ACT011,110,49,Validación documental,Simulado
+2026-02,BANCO,DEP008,PRO009,ACT012,3,3,Diferencia de datos,Simulado
+2026-02,AGE007,DEP003,PRO010,ACT013,23,8,Información incompleta,Simulado
+2026-02,AGE008,DEP002,PRO001,ACT014,6,1,Error de digitación,Simulado
+2026-03,AGE004,DEP002,PRO001,ACT001,132,40,Diferencia de datos,Simulado
+2026-03,AGE005,DEP002,PRO001,ACT002,32,24,Validación documental,Simulado
+2026-03,AGE006,DEP002,PRO002,ACT003,41,6,Diferencia de datos,Simulado
+2026-03,AGE007,DEP002,PRO002,ACT004,34,11,Criterio operativo,Simulado
+2026-03,BANCO,DEP005,PRO003,ACT005,26,7,Información incompleta,Simulado
+2026-03,AGE001,DEP005,PRO003,ACT006,19,9,Diferencia de datos,Simulado
+2026-03,BANCO,DEP004,PRO004,ACT007,10,1,Validación documental,Simulado
+2026-03,AGE003,DEP001,PRO005,ACT008,171,45,Criterio operativo,Simulado
+2026-03,AGE004,DEP001,PRO006,ACT009,21,12,Criterio operativo,Simulado
+2026-03,BANCO,DEP006,PRO007,ACT010,12,7,Error de digitación,Simulado
+2026-03,BANCO,DEP007,PRO008,ACT011,70,40,Información incompleta,Simulado
+2026-03,BANCO,DEP008,PRO009,ACT012,6,5,Error de digitación,Simulado
+2026-03,AGE008,DEP003,PRO010,ACT013,14,10,Validación documental,Simulado
+2026-03,AGE001,DEP002,PRO001,ACT014,6,3,Diferencia de datos,Simulado
+2026-04,AGE005,DEP002,PRO001,ACT001,83,28,Error de digitación,Simulado
+2026-04,AGE006,DEP002,PRO001,ACT002,62,14,Criterio operativo,Simulado
+2026-04,AGE007,DEP002,PRO002,ACT003,22,15,Criterio operativo,Simulado
+2026-04,AGE008,DEP002,PRO002,ACT004,33,9,Error de digitación,Simulado
+2026-04,BANCO,DEP005,PRO003,ACT005,15,7,Validación documental,Simulado
+2026-04,AGE002,DEP005,PRO003,ACT006,17,5,Criterio operativo,Simulado
+2026-04,BANCO,DEP004,PRO004,ACT007,10,1,Validación documental,Simulado
+2026-04,AGE004,DEP001,PRO005,ACT008,120,47,Diferencia de datos,Simulado
+2026-04,AGE005,DEP001,PRO006,ACT009,25,11,Validación documental,Simulado
+2026-04,BANCO,DEP006,PRO007,ACT010,10,6,Información incompleta,Simulado
+2026-04,BANCO,DEP007,PRO008,ACT011,110,15,Diferencia de datos,Simulado
+2026-04,BANCO,DEP008,PRO009,ACT012,2,1,Información incompleta,Simulado
+2026-04,AGE001,DEP003,PRO010,ACT013,44,18,Diferencia de datos,Simulado
+2026-04,AGE002,DEP002,PRO001,ACT014,2,0,Información incompleta,Simulado
+2026-05,AGE006,DEP002,PRO001,ACT001,35,59,Error de digitación,Simulado
+2026-05,AGE007,DEP002,PRO001,ACT002,81,18,Diferencia de datos,Simulado
+2026-05,AGE008,DEP002,PRO002,ACT003,26,9,Validación documental,Simulado
+2026-05,AGE001,DEP002,PRO002,ACT004,37,11,Información incompleta,Simulado
+2026-05,BANCO,DEP005,PRO003,ACT005,18,10,Información incompleta,Simulado
+2026-05,AGE003,DEP005,PRO003,ACT006,15,4,Validación documental,Simulado
+2026-05,BANCO,DEP004,PRO004,ACT007,7,1,Diferencia de datos,Simulado
+2026-05,AGE005,DEP001,PRO005,ACT008,108,88,Error de digitación,Simulado
+2026-05,AGE006,DEP001,PRO006,ACT009,31,4,Diferencia de datos,Simulado
+2026-05,BANCO,DEP006,PRO007,ACT010,4,6,Error de digitación,Simulado
+2026-05,BANCO,DEP007,PRO008,ACT011,74,10,Criterio operativo,Simulado
+2026-05,BANCO,DEP008,PRO009,ACT012,7,3,Diferencia de datos,Simulado
+2026-05,AGE002,DEP003,PRO010,ACT013,21,8,Error de digitación,Simulado
+2026-05,AGE003,DEP002,PRO001,ACT014,2,1,Información incompleta,Simulado
+2026-06,AGE007,DEP002,PRO001,ACT001,68,54,Diferencia de datos,Simulado
+2026-06,AGE008,DEP002,PRO001,ACT002,89,41,Diferencia de datos,Simulado
+2026-06,AGE001,DEP002,PRO002,ACT003,20,17,Información incompleta,Simulado
+2026-06,AGE002,DEP002,PRO002,ACT004,37,13,Error de digitación,Simulado
+2026-06,BANCO,DEP005,PRO003,ACT005,20,7,Información incompleta,Simulado
+2026-06,AGE004,DEP005,PRO003,ACT006,15,8,Criterio operativo,Simulado
+2026-06,BANCO,DEP004,PRO004,ACT007,7,4,Criterio operativo,Simulado
+2026-06,AGE006,DEP001,PRO005,ACT008,68,32,Error de digitación,Simulado
+2026-06,AGE007,DEP001,PRO006,ACT009,23,13,Diferencia de datos,Simulado
+2026-06,BANCO,DEP006,PRO007,ACT010,13,3,Diferencia de datos,Simulado
+2026-06,BANCO,DEP007,PRO008,ACT011,38,36,Error de digitación,Simulado
+2026-06,BANCO,DEP008,PRO009,ACT012,9,1,Validación documental,Simulado
+2026-06,AGE003,DEP003,PRO010,ACT013,22,19,Información incompleta,Simulado
+2026-06,AGE004,DEP002,PRO001,ACT014,3,2,Diferencia de datos,Simulado
+2026-07,AGE008,DEP002,PRO001,ACT001,70,43,Validación documental,Simulado
+2026-07,AGE001,DEP002,PRO001,ACT002,82,21,Información incompleta,Simulado
+2026-07,AGE002,DEP002,PRO002,ACT003,25,11,Validación documental,Simulado
+2026-07,AGE003,DEP002,PRO002,ACT004,9,10,Validación documental,Simulado
+2026-07,BANCO,DEP005,PRO003,ACT005,12,7,Información incompleta,Simulado
+2026-07,AGE005,DEP005,PRO003,ACT006,13,4,Validación documental,Simulado
+2026-07,BANCO,DEP004,PRO004,ACT007,7,3,Criterio operativo,Simulado
+2026-07,AGE007,DEP001,PRO005,ACT008,55,79,Error de digitación,Simulado
+2026-07,AGE008,DEP001,PRO006,ACT009,24,11,Error de digitación,Simulado
+2026-07,BANCO,DEP006,PRO007,ACT010,4,4,Validación documental,Simulado
+2026-07,BANCO,DEP007,PRO008,ACT011,42,13,Diferencia de datos,Simulado
+2026-07,BANCO,DEP008,PRO009,ACT012,3,1,Diferencia de datos,Simulado
+2026-07,AGE004,DEP003,PRO010,ACT013,9,19,Diferencia de datos,Simulado
+2026-07,AGE005,DEP002,PRO001,ACT014,3,1,Validación documental,Simulado
+2026-08,AGE001,DEP002,PRO001,ACT001,71,16,Información incompleta,Simulado
+2026-08,AGE002,DEP002,PRO001,ACT002,63,27,Información incompleta,Simulado
+2026-08,AGE003,DEP002,PRO002,ACT003,39,18,Error de digitación,Simulado
+2026-08,AGE004,DEP002,PRO002,ACT004,21,9,Criterio operativo,Simulado
+2026-08,BANCO,DEP005,PRO003,ACT005,10,5,Información incompleta,Simulado
+2026-08,AGE006,DEP005,PRO003,ACT006,4,2,Diferencia de datos,Simulado
+2026-08,BANCO,DEP004,PRO004,ACT007,8,1,Error de digitación,Simulado
+2026-08,AGE008,DEP001,PRO005,ACT008,110,37,Criterio operativo,Simulado
+2026-08,AGE001,DEP001,PRO006,ACT009,19,3,Información incompleta,Simulado
+2026-08,BANCO,DEP006,PRO007,ACT010,8,4,Información incompleta,Simulado
+2026-08,BANCO,DEP007,PRO008,ACT011,69,15,Criterio operativo,Simulado
+2026-08,BANCO,DEP008,PRO009,ACT012,9,0,Validación documental,Simulado
+2026-08,AGE005,DEP003,PRO010,ACT013,28,9,Validación documental,Simulado
+2026-08,AGE006,DEP002,PRO001,ACT014,3,2,Diferencia de datos,Simulado
+2026-09,AGE002,DEP002,PRO001,ACT001,69,47,Criterio operativo,Simulado
+2026-09,AGE003,DEP002,PRO001,ACT002,78,24,Validación documental,Simulado
+2026-09,AGE004,DEP002,PRO002,ACT003,19,6,Criterio operativo,Simulado
+2026-09,AGE005,DEP002,PRO002,ACT004,9,7,Criterio operativo,Simulado
+2026-09,BANCO,DEP005,PRO003,ACT005,9,7,Información incompleta,Simulado
+2026-09,AGE007,DEP005,PRO003,ACT006,7,2,Criterio operativo,Simulado
+2026-09,BANCO,DEP004,PRO004,ACT007,5,0,Validación documental,Simulado
+2026-09,AGE001,DEP001,PRO005,ACT008,94,24,Diferencia de datos,Simulado
+2026-09,AGE002,DEP001,PRO006,ACT009,20,2,Diferencia de datos,Simulado
+2026-09,BANCO,DEP006,PRO007,ACT010,6,3,Error de digitación,Simulado
+2026-09,BANCO,DEP007,PRO008,ACT011,74,26,Información incompleta,Simulado
+2026-09,BANCO,DEP008,PRO009,ACT012,4,1,Diferencia de datos,Simulado
+2026-09,AGE006,DEP003,PRO010,ACT013,33,18,Validación documental,Simulado
+2026-09,AGE007,DEP002,PRO001,ACT014,3,1,Validación documental,Simulado
+2026-10,AGE003,DEP002,PRO001,ACT001,74,45,Error de digitación,Simulado
+2026-10,AGE004,DEP002,PRO001,ACT002,68,8,Validación documental,Simulado
+2026-10,AGE005,DEP002,PRO002,ACT003,9,11,Diferencia de datos,Simulado
+2026-10,AGE006,DEP002,PRO002,ACT004,24,10,Criterio operativo,Simulado
+2026-10,BANCO,DEP005,PRO003,ACT005,16,5,Error de digitación,Simulado
+2026-10,AGE008,DEP005,PRO003,ACT006,8,2,Diferencia de datos,Simulado
+2026-10,BANCO,DEP004,PRO004,ACT007,9,2,Error de digitación,Simulado
+2026-10,AGE002,DEP001,PRO005,ACT008,193,75,Validación documental,Simulado
+2026-10,AGE003,DEP001,PRO006,ACT009,17,6,Diferencia de datos,Simulado
+2026-10,BANCO,DEP006,PRO007,ACT010,11,3,Información incompleta,Simulado
+2026-10,BANCO,DEP007,PRO008,ACT011,71,36,Error de digitación,Simulado
+2026-10,BANCO,DEP008,PRO009,ACT012,7,2,Diferencia de datos,Simulado
+2026-10,AGE007,DEP003,PRO010,ACT013,20,9,Error de digitación,Simulado
+2026-10,AGE008,DEP002,PRO001,ACT014,5,2,Información incompleta,Simulado

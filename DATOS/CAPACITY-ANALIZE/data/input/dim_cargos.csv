@@ -1,0 +1,11 @@
+﻿id_cargo,cargo,familia_cargo,id_departamento_referencial,nivel
+CAR001,Asesor de Servicio,Operativo,DEP002,1
+CAR002,Ejecutivo de Negocios,Comercial,DEP003,2
+CAR003,Analista de Crédito,Analítico,DEP005,3
+CAR004,Oficial de Operaciones,Operativo,DEP001,2
+CAR005,Especialista de Cumplimiento,Control,DEP006,3
+CAR006,Analista Contable,Analítico,DEP007,2
+CAR007,Analista de Talento Humano,Administrativo,DEP008,2
+CAR008,Jefe de Agencia,Gestión,DEP002,4
+CAR009,Analista de Banca Empresas,Analítico,DEP004,3
+CAR010,Supervisor de Operaciones,Gestión,DEP001,4

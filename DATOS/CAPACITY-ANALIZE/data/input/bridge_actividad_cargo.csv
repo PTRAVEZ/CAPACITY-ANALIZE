@@ -1,0 +1,15 @@
+﻿id_actividad,id_cargo,porcentaje_dedicacion_referencial,tipo_dedicacion,vigente_desde,vigente_hasta,estado
+ACT001,CAR001,72.9,Directa,2026-01-01,,Propuesta para validación
+ACT002,CAR001,44.4,Directa,2026-01-01,,Propuesta para validación
+ACT003,CAR004,59.2,Directa,2026-01-01,,Propuesta para validación
+ACT004,CAR004,66.2,Directa,2026-01-01,,Propuesta para validación
+ACT005,CAR003,84.8,Directa,2026-01-01,,Propuesta para validación
+ACT006,CAR003,72.8,Directa,2026-01-01,,Propuesta para validación
+ACT007,CAR009,37.7,Directa,2026-01-01,,Propuesta para validación
+ACT008,CAR004,39.5,Directa,2026-01-01,,Propuesta para validación
+ACT009,CAR010,58.9,Directa,2026-01-01,,Propuesta para validación
+ACT010,CAR005,61.2,Directa,2026-01-01,,Propuesta para validación
+ACT011,CAR006,72.6,Directa,2026-01-01,,Propuesta para validación
+ACT012,CAR007,76.4,Directa,2026-01-01,,Propuesta para validación
+ACT013,CAR002,43.1,Directa,2026-01-01,,Propuesta para validación
+ACT014,CAR008,54.6,Directa,2026-01-01,,Propuesta para validación

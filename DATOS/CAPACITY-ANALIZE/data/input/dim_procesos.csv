@@ -1,0 +1,11 @@
+﻿id_proceso,proceso,id_departamento_responsable,macroproceso
+PRO001,Atención al cliente,DEP002,Atención y servicio
+PRO002,Apertura de cuentas,DEP002,Operaciones
+PRO003,Gestión de créditos de consumo,DEP005,Crédito
+PRO004,Gestión de créditos empresariales,DEP004,Crédito
+PRO005,Transferencias y pagos,DEP001,Operaciones
+PRO006,Conciliación operativa,DEP001,Control operativo
+PRO007,Monitoreo de alertas AML,DEP006,Cumplimiento
+PRO008,Cierre contable,DEP007,Finanzas
+PRO009,Gestión de nómina,DEP008,Talento Humano
+PRO010,Gestión comercial y seguimiento,DEP003,Comercial

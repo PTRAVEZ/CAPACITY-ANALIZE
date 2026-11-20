@@ -1,0 +1,8 @@
+﻿parametro,valor,unidad,descripcion
+HORAS_SEMANALES_CONTRATO,40,horas,Jornada referencial simulada; no constituye política oficial.
+SEMANAS_PROMEDIO_MES,4,semanas,Factor de conversión referencial; sustituir por calendario institucional.
+MINUTOS_POR_HORA,60,minutos,Conversión de minutos a horas.
+PERIODO_BASE,2026-10,YYYY-MM,Último período mensual simulado disponible.
+UMBRAL_UTILIZACION_ALERTA,0.9,proporción,"Umbral ilustrativo, sujeto a aprobación."
+OBJETIVO_CALIDAD,0.98,proporción,"Objetivo ilustrativo, sujeto a aprobación."
+HORIZONTE_PROYECCION_MESES,12,meses,Horizonte ilustrativo.

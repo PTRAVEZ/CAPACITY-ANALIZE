@@ -1,0 +1,9 @@
+﻿id_departamento,departamento,id_direccion
+DEP001,Operaciones,DIR001
+DEP002,Canales y Servicios,DIR001
+DEP003,Banca Personas,DIR002
+DEP004,Banca Empresas,DIR002
+DEP005,Riesgo de Crédito,DIR003
+DEP006,Prevención de Lavado,DIR003
+DEP007,Contabilidad,DIR004
+DEP008,Talento Humano,DIR005

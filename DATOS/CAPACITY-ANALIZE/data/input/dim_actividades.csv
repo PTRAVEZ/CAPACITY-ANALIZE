@@ -1,0 +1,15 @@
+﻿id_actividad,actividad,id_proceso,id_cargo_referencial,tipo_actividad,unidad_tiempo
+ACT001,Recepción y orientación de clientes,PRO001,CAR001,Transaccional,Minutos
+ACT002,Resolución de consultas y requerimientos,PRO001,CAR001,Transaccional,Minutos
+ACT003,Validación documental de apertura,PRO002,CAR004,Transaccional,Minutos
+ACT004,Registro y formalización de cuenta,PRO002,CAR004,Transaccional,Minutos
+ACT005,Análisis de expediente de crédito,PRO003,CAR003,Analítica,Minutos
+ACT006,Revisión y recomendación crediticia,PRO003,CAR003,Control,Minutos
+ACT007,Análisis financiero de empresa,PRO004,CAR009,Analítica,Minutos
+ACT008,Ejecución de transferencias,PRO005,CAR004,Transaccional,Minutos
+ACT009,Conciliación de partidas,PRO006,CAR010,Control,Minutos
+ACT010,Investigación de alertas AML,PRO007,CAR005,Control,Minutos
+ACT011,Registro de asientos contables,PRO008,CAR006,Administrativa,Minutos
+ACT012,Validación de novedades de nómina,PRO009,CAR007,Administrativa,Minutos
+ACT013,Seguimiento de oportunidades comerciales,PRO010,CAR002,Comercial,Minutos
+ACT014,Supervisión y distribución de carga,PRO001,CAR008,Gestión,Minutos

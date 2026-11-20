@@ -1,0 +1,16 @@
+﻿archivo,filas,columnas,celdas_nulas,columnas_con_nulos
+dim_direcciones.csv,5,3,0,0
+dim_departamentos.csv,8,3,0,0
+dim_agencias.csv,8,5,0,0
+dim_cargos.csv,10,5,0,0
+dim_colaboradores.csv,180,12,0,0
+fact_vacantes.csv,12,7,0,0
+dim_procesos.csv,10,4,0,0
+dim_actividades.csv,14,6,0,0
+fact_volumenes_mensuales.csv,308,11,0,0
+fact_estudio_tiempos.csv,336,8,0,0
+fact_disponibilidad_mensual.csv,176,9,0,0
+fact_ausentismo.csv,320,6,0,0
+fact_reprocesos.csv,308,9,0,0
+bridge_actividad_cargo.csv,14,7,0,0
+parametros_modelo.csv,7,4,0,0

@@ -1,0 +1,9 @@
+﻿id_agencia,agencia,provincia,ciudad,tipo_sede
+AGE001,Matriz Quito,Pichincha,Quito,Matriz
+AGE002,Agencia Guayaquil Centro,Guayas,Guayaquil,Agencia
+AGE003,Agencia Cuenca,Azuay,Cuenca,Agencia
+AGE004,Agencia Manta,Manabí,Manta,Agencia
+AGE005,Agencia Ambato,Tungurahua,Ambato,Agencia
+AGE006,Agencia Loja,Loja,Loja,Agencia
+AGE007,Agencia Santo Domingo,Santo Domingo de los Tsáchilas,Santo Domingo,Agencia
+AGE008,Agencia Ibarra,Imbabura,Ibarra,Agencia

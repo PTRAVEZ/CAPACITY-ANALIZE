@@ -1,0 +1,321 @@
+﻿id_evento,id_colaborador,periodo,tipo_ausencia,horas_ausencia,estado_registro
+AUS00001,COL0001,2026-07,Calamidad doméstica,17.79,Aprobado
+AUS00002,COL0001,2026-08,Calamidad doméstica,22.28,Aprobado
+AUS00003,COL0002,2026-02,Enfermedad,12.32,Aprobado
+AUS00004,COL0002,2026-07,Permiso,19.07,Aprobado
+AUS00005,COL0002,2026-08,Permiso,7.62,Aprobado
+AUS00006,COL0003,2026-02,Calamidad doméstica,15.84,Aprobado
+AUS00007,COL0004,2026-03,Vacaciones,5.06,Aprobado
+AUS00008,COL0005,2026-07,Calamidad doméstica,10.81,Aprobado
+AUS00009,COL0006,2026-03,Permiso,9.53,Aprobado
+AUS00010,COL0006,2026-10,Permiso,7.3,Aprobado
+AUS00011,COL0007,2026-09,Enfermedad,22.66,Aprobado
+AUS00012,COL0008,2026-08,Permiso,10.46,Aprobado
+AUS00013,COL0009,2026-01,Calamidad doméstica,11.33,Aprobado
+AUS00014,COL0009,2026-02,Enfermedad,10.92,Aprobado
+AUS00015,COL0009,2026-04,Enfermedad,12.69,Aprobado
+AUS00016,COL0011,2026-06,Permiso,22.34,Aprobado
+AUS00017,COL0011,2026-08,Enfermedad,20.86,Aprobado
+AUS00018,COL0012,2026-02,Vacaciones,21.47,Aprobado
+AUS00019,COL0012,2026-03,Enfermedad,7.44,Aprobado
+AUS00020,COL0012,2026-09,Vacaciones,16.59,Aprobado
+AUS00021,COL0013,2026-03,Vacaciones,11.22,Aprobado
+AUS00022,COL0013,2026-06,Enfermedad,2.45,Aprobado
+AUS00023,COL0014,2026-09,Calamidad doméstica,17.82,Aprobado
+AUS00024,COL0015,2026-01,Enfermedad,6.71,Aprobado
+AUS00025,COL0015,2026-02,Enfermedad,23.74,Aprobado
+AUS00026,COL0015,2026-08,Calamidad doméstica,6.27,Aprobado
+AUS00027,COL0016,2026-01,Enfermedad,11.24,Aprobado
+AUS00028,COL0016,2026-02,Enfermedad,16.66,Aprobado
+AUS00029,COL0017,2026-02,Vacaciones,23.55,Aprobado
+AUS00030,COL0017,2026-08,Permiso,23.95,Aprobado
+AUS00031,COL0018,2026-07,Enfermedad,11.01,Aprobado
+AUS00032,COL0018,2026-09,Permiso,22.98,Aprobado
+AUS00033,COL0018,2026-10,Calamidad doméstica,3.44,Aprobado
+AUS00034,COL0020,2026-01,Calamidad doméstica,22.17,Aprobado
+AUS00035,COL0022,2026-04,Vacaciones,23.92,Aprobado
+AUS00036,COL0022,2026-09,Calamidad doméstica,11.42,Aprobado
+AUS00037,COL0023,2026-02,Enfermedad,12.02,Aprobado
+AUS00038,COL0024,2026-05,Vacaciones,9.93,Aprobado
+AUS00039,COL0025,2026-06,Enfermedad,6.69,Aprobado
+AUS00040,COL0025,2026-08,Calamidad doméstica,21.78,Aprobado
+AUS00041,COL0025,2026-09,Calamidad doméstica,10.71,Aprobado
+AUS00042,COL0026,2026-05,Calamidad doméstica,9.87,Aprobado
+AUS00043,COL0026,2026-08,Calamidad doméstica,23.98,Aprobado
+AUS00044,COL0027,2026-02,Enfermedad,19.75,Aprobado
+AUS00045,COL0027,2026-08,Calamidad doméstica,2.08,Aprobado
+AUS00046,COL0027,2026-09,Enfermedad,6.63,Aprobado
+AUS00047,COL0027,2026-10,Vacaciones,3.2,Aprobado
+AUS00048,COL0028,2026-05,Calamidad doméstica,10.69,Aprobado
+AUS00049,COL0028,2026-08,Vacaciones,23.28,Aprobado
+AUS00050,COL0029,2026-04,Enfermedad,12.18,Aprobado
+AUS00051,COL0031,2026-06,Vacaciones,7.33,Aprobado
+AUS00052,COL0032,2026-01,Permiso,2.15,Aprobado
+AUS00053,COL0032,2026-05,Permiso,9.6,Aprobado
+AUS00054,COL0032,2026-07,Vacaciones,4.82,Aprobado
+AUS00055,COL0034,2026-02,Permiso,16.22,Aprobado
+AUS00056,COL0034,2026-05,Enfermedad,14.15,Aprobado
+AUS00057,COL0034,2026-09,Enfermedad,18.21,Aprobado
+AUS00058,COL0035,2026-09,Enfermedad,8.16,Aprobado
+AUS00059,COL0036,2026-07,Calamidad doméstica,22.75,Aprobado
+AUS00060,COL0037,2026-04,Permiso,6.76,Aprobado
+AUS00061,COL0037,2026-05,Vacaciones,4.86,Aprobado
+AUS00062,COL0038,2026-01,Vacaciones,5.78,Aprobado
+AUS00063,COL0038,2026-09,Calamidad doméstica,4.53,Aprobado
+AUS00064,COL0039,2026-04,Enfermedad,15.16,Aprobado
+AUS00065,COL0039,2026-07,Vacaciones,10.32,Aprobado
+AUS00066,COL0039,2026-08,Enfermedad,20.86,Aprobado
+AUS00067,COL0041,2026-06,Vacaciones,23.18,Aprobado
+AUS00068,COL0041,2026-10,Permiso,13.56,Aprobado
+AUS00069,COL0042,2026-01,Vacaciones,13.68,Aprobado
+AUS00070,COL0042,2026-04,Vacaciones,20.74,Aprobado
+AUS00071,COL0042,2026-09,Vacaciones,12.26,Aprobado
+AUS00072,COL0043,2026-07,Enfermedad,22.78,Aprobado
+AUS00073,COL0044,2026-01,Calamidad doméstica,16.67,Aprobado
+AUS00074,COL0044,2026-03,Permiso,8.51,Aprobado
+AUS00075,COL0044,2026-08,Enfermedad,23.65,Aprobado
+AUS00076,COL0045,2026-02,Vacaciones,8.22,Aprobado
+AUS00077,COL0047,2026-02,Enfermedad,8.38,Aprobado
+AUS00078,COL0047,2026-07,Vacaciones,20.41,Aprobado
+AUS00079,COL0049,2026-05,Permiso,18.4,Aprobado
+AUS00080,COL0050,2026-10,Vacaciones,20.55,Aprobado
+AUS00081,COL0051,2026-04,Vacaciones,8.5,Aprobado
+AUS00082,COL0051,2026-10,Enfermedad,13.44,Aprobado
+AUS00083,COL0052,2026-09,Vacaciones,12.65,Aprobado
+AUS00084,COL0053,2026-05,Permiso,8.37,Aprobado
+AUS00085,COL0053,2026-09,Permiso,22.08,Aprobado
+AUS00086,COL0054,2026-01,Vacaciones,22.73,Aprobado
+AUS00087,COL0054,2026-09,Calamidad doméstica,15.37,Aprobado
+AUS00088,COL0055,2026-09,Calamidad doméstica,6.96,Aprobado
+AUS00089,COL0056,2026-02,Enfermedad,18.4,Aprobado
+AUS00090,COL0057,2026-04,Calamidad doméstica,12.34,Aprobado
+AUS00091,COL0058,2026-01,Enfermedad,18.76,Aprobado
+AUS00092,COL0058,2026-06,Enfermedad,16.63,Aprobado
+AUS00093,COL0058,2026-09,Calamidad doméstica,21.9,Aprobado
+AUS00094,COL0059,2026-02,Vacaciones,12.95,Aprobado
+AUS00095,COL0059,2026-06,Vacaciones,15.01,Aprobado
+AUS00096,COL0060,2026-01,Vacaciones,3.71,Aprobado
+AUS00097,COL0060,2026-02,Vacaciones,7.86,Aprobado
+AUS00098,COL0060,2026-04,Enfermedad,15.98,Aprobado
+AUS00099,COL0061,2026-05,Calamidad doméstica,6.52,Aprobado
+AUS00100,COL0063,2026-07,Calamidad doméstica,2.85,Aprobado
+AUS00101,COL0063,2026-08,Permiso,23.48,Aprobado
+AUS00102,COL0063,2026-09,Enfermedad,16.3,Aprobado
+AUS00103,COL0064,2026-01,Permiso,4.38,Aprobado
+AUS00104,COL0064,2026-05,Vacaciones,6.3,Aprobado
+AUS00105,COL0065,2026-03,Enfermedad,23.26,Aprobado
+AUS00106,COL0066,2026-03,Calamidad doméstica,21.08,Aprobado
+AUS00107,COL0067,2026-10,Calamidad doméstica,6.57,Aprobado
+AUS00108,COL0068,2026-01,Enfermedad,15.24,Aprobado
+AUS00109,COL0068,2026-02,Enfermedad,10.45,Aprobado
+AUS00110,COL0068,2026-03,Enfermedad,9.41,Aprobado
+AUS00111,COL0068,2026-04,Calamidad doméstica,20.25,Aprobado
+AUS00112,COL0068,2026-05,Vacaciones,10.61,Aprobado
+AUS00113,COL0068,2026-06,Calamidad doméstica,8.85,Aprobado
+AUS00114,COL0068,2026-09,Calamidad doméstica,11.15,Aprobado
+AUS00115,COL0069,2026-01,Enfermedad,3.09,Aprobado
+AUS00116,COL0069,2026-04,Calamidad doméstica,18.49,Aprobado
+AUS00117,COL0070,2026-02,Permiso,6.71,Aprobado
+AUS00118,COL0071,2026-08,Permiso,7.86,Aprobado
+AUS00119,COL0071,2026-09,Enfermedad,12.19,Aprobado
+AUS00120,COL0072,2026-05,Vacaciones,12.07,Aprobado
+AUS00121,COL0072,2026-08,Enfermedad,4.24,Aprobado
+AUS00122,COL0072,2026-09,Permiso,13.9,Aprobado
+AUS00123,COL0073,2026-08,Vacaciones,7.76,Aprobado
+AUS00124,COL0073,2026-09,Vacaciones,11.63,Aprobado
+AUS00125,COL0074,2026-02,Calamidad doméstica,4.78,Aprobado
+AUS00126,COL0075,2026-07,Permiso,22.33,Aprobado
+AUS00127,COL0075,2026-08,Permiso,7.99,Aprobado
+AUS00128,COL0076,2026-05,Enfermedad,13.35,Aprobado
+AUS00129,COL0076,2026-08,Permiso,4.77,Aprobado
+AUS00130,COL0077,2026-01,Calamidad doméstica,9.26,Aprobado
+AUS00131,COL0077,2026-04,Vacaciones,16.12,Aprobado
+AUS00132,COL0078,2026-04,Calamidad doméstica,3.81,Aprobado
+AUS00133,COL0079,2026-01,Permiso,11.51,Aprobado
+AUS00134,COL0079,2026-03,Permiso,5.96,Aprobado
+AUS00135,COL0079,2026-06,Calamidad doméstica,3.9,Aprobado
+AUS00136,COL0079,2026-09,Calamidad doméstica,13.19,Aprobado
+AUS00137,COL0080,2026-01,Vacaciones,5.7,Aprobado
+AUS00138,COL0080,2026-02,Vacaciones,3.65,Aprobado
+AUS00139,COL0080,2026-03,Enfermedad,12.32,Aprobado
+AUS00140,COL0081,2026-02,Calamidad doméstica,15.05,Aprobado
+AUS00141,COL0081,2026-03,Vacaciones,12.1,Aprobado
+AUS00142,COL0081,2026-10,Enfermedad,10.5,Aprobado
+AUS00143,COL0082,2026-01,Vacaciones,8.41,Aprobado
+AUS00144,COL0082,2026-03,Permiso,13.63,Aprobado
+AUS00145,COL0082,2026-05,Vacaciones,7.86,Aprobado
+AUS00146,COL0082,2026-07,Permiso,3.97,Aprobado
+AUS00147,COL0082,2026-08,Enfermedad,18.02,Aprobado
+AUS00148,COL0082,2026-09,Enfermedad,16.84,Aprobado
+AUS00149,COL0082,2026-10,Calamidad doméstica,17.4,Aprobado
+AUS00150,COL0083,2026-01,Permiso,21.15,Aprobado
+AUS00151,COL0083,2026-04,Calamidad doméstica,2.06,Aprobado
+AUS00152,COL0084,2026-01,Permiso,10.61,Aprobado
+AUS00153,COL0084,2026-06,Enfermedad,19.92,Aprobado
+AUS00154,COL0086,2026-06,Calamidad doméstica,6.1,Aprobado
+AUS00155,COL0086,2026-07,Enfermedad,5.04,Aprobado
+AUS00156,COL0087,2026-04,Permiso,17.63,Aprobado
+AUS00157,COL0088,2026-08,Permiso,17.28,Aprobado
+AUS00158,COL0090,2026-04,Permiso,6.12,Aprobado
+AUS00159,COL0090,2026-05,Vacaciones,17.4,Aprobado
+AUS00160,COL0091,2026-10,Permiso,21.73,Aprobado
+AUS00161,COL0093,2026-07,Permiso,12.14,Aprobado
+AUS00162,COL0093,2026-08,Vacaciones,10.47,Aprobado
+AUS00163,COL0094,2026-03,Calamidad doméstica,2.84,Aprobado
+AUS00164,COL0094,2026-08,Vacaciones,22.21,Aprobado
+AUS00165,COL0094,2026-09,Calamidad doméstica,14.36,Aprobado
+AUS00166,COL0095,2026-02,Vacaciones,13.13,Aprobado
+AUS00167,COL0096,2026-07,Permiso,5.12,Aprobado
+AUS00168,COL0097,2026-01,Calamidad doméstica,14.03,Aprobado
+AUS00169,COL0097,2026-03,Enfermedad,10.86,Aprobado
+AUS00170,COL0097,2026-07,Calamidad doméstica,7.8,Aprobado
+AUS00171,COL0098,2026-02,Calamidad doméstica,19.45,Aprobado
+AUS00172,COL0098,2026-03,Vacaciones,13.11,Aprobado
+AUS00173,COL0098,2026-05,Calamidad doméstica,16.76,Aprobado
+AUS00174,COL0098,2026-09,Enfermedad,16.44,Aprobado
+AUS00175,COL0099,2026-05,Vacaciones,4.8,Aprobado
+AUS00176,COL0099,2026-09,Enfermedad,6.24,Aprobado
+AUS00177,COL0100,2026-01,Vacaciones,4.32,Aprobado
+AUS00178,COL0100,2026-10,Permiso,9.44,Aprobado
+AUS00179,COL0101,2026-01,Vacaciones,5.57,Aprobado
+AUS00180,COL0101,2026-09,Calamidad doméstica,11.24,Aprobado
+AUS00181,COL0102,2026-07,Calamidad doméstica,23.44,Aprobado
+AUS00182,COL0103,2026-03,Enfermedad,15.91,Aprobado
+AUS00183,COL0103,2026-07,Enfermedad,4.23,Aprobado
+AUS00184,COL0104,2026-02,Vacaciones,20.6,Aprobado
+AUS00185,COL0104,2026-03,Calamidad doméstica,13.57,Aprobado
+AUS00186,COL0104,2026-04,Calamidad doméstica,16.69,Aprobado
+AUS00187,COL0104,2026-09,Calamidad doméstica,7.98,Aprobado
+AUS00188,COL0105,2026-01,Enfermedad,15.89,Aprobado
+AUS00189,COL0105,2026-03,Permiso,23.02,Aprobado
+AUS00190,COL0105,2026-04,Permiso,5.5,Aprobado
+AUS00191,COL0105,2026-07,Vacaciones,13.9,Aprobado
+AUS00192,COL0106,2026-05,Enfermedad,11.77,Aprobado
+AUS00193,COL0106,2026-08,Permiso,21.12,Aprobado
+AUS00194,COL0107,2026-01,Vacaciones,23.72,Aprobado
+AUS00195,COL0107,2026-04,Vacaciones,11.43,Aprobado
+AUS00196,COL0108,2026-08,Calamidad doméstica,15.81,Aprobado
+AUS00197,COL0109,2026-04,Enfermedad,5.76,Aprobado
+AUS00198,COL0109,2026-06,Calamidad doméstica,23.87,Aprobado
+AUS00199,COL0109,2026-07,Calamidad doméstica,15.3,Aprobado
+AUS00200,COL0110,2026-04,Vacaciones,9.67,Aprobado
+AUS00201,COL0110,2026-06,Vacaciones,13.57,Aprobado
+AUS00202,COL0110,2026-08,Enfermedad,15.36,Aprobado
+AUS00203,COL0110,2026-09,Permiso,11.09,Aprobado
+AUS00204,COL0111,2026-08,Enfermedad,19.58,Aprobado
+AUS00205,COL0112,2026-01,Permiso,7.59,Aprobado
+AUS00206,COL0112,2026-08,Permiso,13.5,Aprobado
+AUS00207,COL0113,2026-10,Enfermedad,5.02,Aprobado
+AUS00208,COL0114,2026-01,Permiso,19.88,Aprobado
+AUS00209,COL0114,2026-02,Permiso,4.36,Aprobado
+AUS00210,COL0114,2026-05,Vacaciones,7.95,Aprobado
+AUS00211,COL0115,2026-01,Calamidad doméstica,7.48,Aprobado
+AUS00212,COL0115,2026-03,Calamidad doméstica,18.31,Aprobado
+AUS00213,COL0116,2026-08,Calamidad doméstica,22.71,Aprobado
+AUS00214,COL0117,2026-04,Permiso,6.6,Aprobado
+AUS00215,COL0117,2026-05,Calamidad doméstica,16.05,Aprobado
+AUS00216,COL0117,2026-06,Vacaciones,4.74,Aprobado
+AUS00217,COL0119,2026-03,Enfermedad,16.33,Aprobado
+AUS00218,COL0119,2026-05,Vacaciones,7.36,Aprobado
+AUS00219,COL0119,2026-06,Enfermedad,12.19,Aprobado
+AUS00220,COL0120,2026-05,Vacaciones,13.96,Aprobado
+AUS00221,COL0121,2026-03,Calamidad doméstica,2.44,Aprobado
+AUS00222,COL0121,2026-07,Calamidad doméstica,18.02,Aprobado
+AUS00223,COL0123,2026-05,Calamidad doméstica,21.77,Aprobado
+AUS00224,COL0123,2026-06,Vacaciones,3.35,Aprobado
+AUS00225,COL0123,2026-08,Enfermedad,9.92,Aprobado
+AUS00226,COL0124,2026-03,Enfermedad,21.0,Aprobado
+AUS00227,COL0125,2026-01,Calamidad doméstica,18.86,Aprobado
+AUS00228,COL0127,2026-07,Calamidad doméstica,19.09,Aprobado
+AUS00229,COL0127,2026-09,Enfermedad,20.33,Aprobado
+AUS00230,COL0127,2026-10,Enfermedad,19.61,Aprobado
+AUS00231,COL0128,2026-04,Vacaciones,14.44,Aprobado
+AUS00232,COL0128,2026-06,Enfermedad,13.47,Aprobado
+AUS00233,COL0128,2026-07,Enfermedad,5.73,Aprobado
+AUS00234,COL0128,2026-09,Calamidad doméstica,2.19,Aprobado
+AUS00235,COL0129,2026-09,Enfermedad,23.86,Aprobado
+AUS00236,COL0130,2026-01,Enfermedad,11.41,Aprobado
+AUS00237,COL0131,2026-01,Calamidad doméstica,2.43,Aprobado
+AUS00238,COL0131,2026-02,Enfermedad,18.3,Aprobado
+AUS00239,COL0131,2026-03,Enfermedad,12.2,Aprobado
+AUS00240,COL0132,2026-09,Calamidad doméstica,7.3,Aprobado
+AUS00241,COL0133,2026-06,Permiso,10.83,Aprobado
+AUS00242,COL0134,2026-06,Enfermedad,19.08,Aprobado
+AUS00243,COL0135,2026-06,Vacaciones,20.88,Aprobado
+AUS00244,COL0136,2026-05,Permiso,13.13,Aprobado
+AUS00245,COL0136,2026-06,Enfermedad,12.81,Aprobado
+AUS00246,COL0137,2026-04,Vacaciones,21.91,Aprobado
+AUS00247,COL0137,2026-10,Permiso,3.17,Aprobado
+AUS00248,COL0138,2026-06,Calamidad doméstica,13.87,Aprobado
+AUS00249,COL0139,2026-03,Enfermedad,5.53,Aprobado
+AUS00250,COL0139,2026-09,Calamidad doméstica,22.59,Aprobado
+AUS00251,COL0141,2026-05,Enfermedad,14.47,Aprobado
+AUS00252,COL0142,2026-08,Enfermedad,22.84,Aprobado
+AUS00253,COL0143,2026-10,Calamidad doméstica,11.55,Aprobado
+AUS00254,COL0144,2026-06,Calamidad doméstica,4.45,Aprobado
+AUS00255,COL0145,2026-03,Vacaciones,23.46,Aprobado
+AUS00256,COL0145,2026-07,Enfermedad,21.27,Aprobado
+AUS00257,COL0145,2026-09,Calamidad doméstica,22.17,Aprobado
+AUS00258,COL0147,2026-02,Permiso,20.84,Aprobado
+AUS00259,COL0147,2026-09,Enfermedad,7.43,Aprobado
+AUS00260,COL0148,2026-01,Calamidad doméstica,16.38,Aprobado
+AUS00261,COL0148,2026-02,Enfermedad,13.36,Aprobado
+AUS00262,COL0148,2026-07,Enfermedad,7.42,Aprobado
+AUS00263,COL0149,2026-02,Permiso,12.63,Aprobado
+AUS00264,COL0149,2026-09,Enfermedad,9.47,Aprobado
+AUS00265,COL0150,2026-05,Permiso,4.93,Aprobado
+AUS00266,COL0150,2026-09,Calamidad doméstica,11.62,Aprobado
+AUS00267,COL0151,2026-01,Enfermedad,9.34,Aprobado
+AUS00268,COL0151,2026-04,Enfermedad,14.28,Aprobado
+AUS00269,COL0152,2026-05,Permiso,7.77,Aprobado
+AUS00270,COL0153,2026-01,Vacaciones,4.12,Aprobado
+AUS00271,COL0153,2026-05,Permiso,7.99,Aprobado
+AUS00272,COL0153,2026-07,Permiso,9.63,Aprobado
+AUS00273,COL0154,2026-02,Permiso,11.5,Aprobado
+AUS00274,COL0155,2026-07,Vacaciones,12.56,Aprobado
+AUS00275,COL0156,2026-03,Vacaciones,4.41,Aprobado
+AUS00276,COL0156,2026-08,Calamidad doméstica,5.89,Aprobado
+AUS00277,COL0157,2026-09,Calamidad doméstica,7.59,Aprobado
+AUS00278,COL0159,2026-01,Enfermedad,14.27,Aprobado
+AUS00279,COL0159,2026-06,Enfermedad,11.76,Aprobado
+AUS00280,COL0160,2026-05,Permiso,10.56,Aprobado
+AUS00281,COL0161,2026-02,Enfermedad,3.64,Aprobado
+AUS00282,COL0161,2026-08,Calamidad doméstica,12.5,Aprobado
+AUS00283,COL0161,2026-09,Calamidad doméstica,7.94,Aprobado
+AUS00284,COL0162,2026-03,Enfermedad,19.52,Aprobado
+AUS00285,COL0162,2026-09,Calamidad doméstica,5.2,Aprobado
+AUS00286,COL0163,2026-06,Calamidad doméstica,17.34,Aprobado
+AUS00287,COL0164,2026-01,Permiso,14.75,Aprobado
+AUS00288,COL0164,2026-09,Vacaciones,7.18,Aprobado
+AUS00289,COL0165,2026-03,Permiso,12.7,Aprobado
+AUS00290,COL0165,2026-05,Calamidad doméstica,23.77,Aprobado
+AUS00291,COL0166,2026-03,Permiso,23.17,Aprobado
+AUS00292,COL0166,2026-07,Permiso,7.94,Aprobado
+AUS00293,COL0168,2026-03,Permiso,2.88,Aprobado
+AUS00294,COL0169,2026-07,Calamidad doméstica,12.45,Aprobado
+AUS00295,COL0169,2026-09,Vacaciones,6.8,Aprobado
+AUS00296,COL0170,2026-06,Vacaciones,8.18,Aprobado
+AUS00297,COL0170,2026-08,Vacaciones,12.63,Aprobado
+AUS00298,COL0170,2026-09,Permiso,15.22,Aprobado
+AUS00299,COL0170,2026-10,Enfermedad,16.07,Aprobado
+AUS00300,COL0171,2026-06,Permiso,23.49,Aprobado
+AUS00301,COL0171,2026-10,Enfermedad,6.12,Aprobado
+AUS00302,COL0172,2026-05,Enfermedad,23.27,Aprobado
+AUS00303,COL0172,2026-08,Vacaciones,10.48,Aprobado
+AUS00304,COL0172,2026-09,Vacaciones,17.74,Aprobado
+AUS00305,COL0172,2026-10,Vacaciones,19.96,Aprobado
+AUS00306,COL0173,2026-02,Permiso,10.88,Aprobado
+AUS00307,COL0173,2026-05,Vacaciones,19.19,Aprobado
+AUS00308,COL0173,2026-06,Enfermedad,15.22,Aprobado
+AUS00309,COL0175,2026-07,Vacaciones,6.19,Aprobado
+AUS00310,COL0175,2026-09,Calamidad doméstica,12.16,Aprobado
+AUS00311,COL0176,2026-06,Permiso,9.18,Aprobado
+AUS00312,COL0176,2026-07,Calamidad doméstica,9.54,Aprobado
+AUS00313,COL0176,2026-09,Permiso,11.65,Aprobado
+AUS00314,COL0177,2026-03,Permiso,5.16,Aprobado
+AUS00315,COL0177,2026-04,Calamidad doméstica,14.19,Aprobado
+AUS00316,COL0177,2026-06,Permiso,14.7,Aprobado
+AUS00317,COL0179,2026-09,Vacaciones,23.15,Aprobado
+AUS00318,COL0180,2026-01,Permiso,3.22,Aprobado
+AUS00319,COL0180,2026-03,Vacaciones,16.1,Aprobado
+AUS00320,COL0180,2026-07,Permiso,13.43,Aprobado
