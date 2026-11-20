@@ -1,0 +1,33 @@
+etapa,regla,severidad,archivo,registro,detalle
+Esquema,S-01,ERROR,13_vacantes.csv,-,Fuente faltante
+Esquema,S-04,ERROR,03_colaboradores.csv,cedula,Columna con dato personal prohibido (DEC-025/026). Elimínela.
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 4 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 6 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 7 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 11 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 13 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-08,ERROR,03_colaboradores.csv,fila 17 · modalidad,"'Hibrido' no permitido. Valores: Presencial, Híbrida, Remota"
+Esquema,S-07,ERROR,08_volumenes_mensuales.csv,fila 3951 · volumen,"-350 fuera de rango [0, None]"
+Esquema,S-09,ERROR,08_volumenes_mensuales.csv,2026-03 | AG-AMB | ACT-001,4 filas con llave duplicada (periodo + unidad_id + actividad_id)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 12 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 24 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 36 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 48 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 60 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 72 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 84 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 96 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 108 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 120 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 132 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 144 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 156 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 168 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 180 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 192 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 204 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 216 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 228 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,fila 240 · periodo,Período inválido '09/2026' (use AAAA-MM)
+Esquema,S-06,ERROR,10_ausentismo.csv,periodo,... y 281 filas más con el mismo problema
+Reglas,V-00,OMITIDO,-,-,Corrija primero los errores de esquema

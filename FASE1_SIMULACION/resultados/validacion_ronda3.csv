@@ -1,0 +1,5 @@
+etapa,regla,severidad,archivo,registro,detalle
+Reglas,V-07,ADVERTENCIA,07_actividades.csv,ACT-017,Sin tiempo estándar válido (método: Pendiente de medición) → Su carga no se calcula; requiere medición
+Reglas,V-16,ADVERTENCIA,cálculo,2025-12|AG-AMB|CAR-JAG,Carga de 141.7 h sin personal disponible del cargo → Revisar asignación de actividad o vacante
+Reglas,V-16,ADVERTENCIA,cálculo,2026-08|AG-IBA|CAR-SOP,Carga de 128.8 h sin personal disponible del cargo → Revisar asignación de actividad o vacante
+Reglas,V-15,OK,12_movimientos_personal.csv,Dotación total,Inicial 300 + ingresos 22 − salidas 24 = 298; dotación a la fecha de corte 298 → Conciliado

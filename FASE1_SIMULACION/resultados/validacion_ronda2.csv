@@ -1,0 +1,9 @@
+etapa,regla,severidad,archivo,registro,detalle
+Reglas,V-02,ERROR,03_colaboradores.csv,COL-9001,Unidad AG-QCE no existe en la estructura → Excluido del cálculo
+Reglas,V-04,ERROR,03_colaboradores.csv,COL-9002,Fecha de salida anterior a la fecha de ingreso → Excluido del cálculo
+Reglas,V-07,ADVERTENCIA,07_actividades.csv,ACT-017,Sin tiempo estándar válido (método: Pendiente de medición) → Su carga no se calcula; requiere medición
+Reglas,V-08,ERROR,08_volumenes_mensuales.csv,2026-06|DEP-PAG|ACT-999,Actividad inexistente o excluida → Excluido del cálculo
+Reglas,V-11,ADVERTENCIA,10_ausentismo.csv,COL-0150|2026-07,Ausencias+capacitación (221.0 h) superan horas nominales (92.0 h) → Se ajustan proporcionalmente al tope de horas nominales
+Reglas,V-16,ADVERTENCIA,cálculo,2025-12|AG-AMB|CAR-JAG,Carga de 141.7 h sin personal disponible del cargo → Revisar asignación de actividad o vacante
+Reglas,V-16,ADVERTENCIA,cálculo,2026-08|AG-IBA|CAR-SOP,Carga de 128.8 h sin personal disponible del cargo → Revisar asignación de actividad o vacante
+Reglas,V-15,OK,12_movimientos_personal.csv,Dotación total,Inicial 300 + ingresos 22 − salidas 24 = 298; dotación a la fecha de corte 298 → Conciliado

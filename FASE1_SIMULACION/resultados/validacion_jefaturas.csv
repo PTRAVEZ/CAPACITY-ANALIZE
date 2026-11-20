@@ -1,0 +1,44 @@
+unidad_id,nombre_unidad,cargo_id,nombre_cargo,dotacion_corte,utilizacion,estado,percepcion_jefatura,coincide
+DEP-CCT,Centro de Contacto,CAR-ACC,Agente de Centro de Contacto,30,1.1361,Sobrecarga,Sobrecarga,Sí
+DEP-CCT,Centro de Contacto,CAR-SCC,Supervisor de Centro de Contacto,3,0.8764,Equilibrio,Equilibrio,Sí
+DEP-CAM,Departamento de Cámara de Compensación y Valores,CAR-ANO,Analista Operativo,8,0.6314,Holgura,Holgura,Sí
+DEP-CAM,Departamento de Cámara de Compensación y Valores,CAR-AST,Asistente Operativo,4,0.7136,Holgura,Holgura,Sí
+DEP-CTA,Departamento de Cuentas y Servicios,CAR-ANO,Analista Operativo,18,1.1148,Sobrecarga,Sobrecarga,Sí
+DEP-CTA,Departamento de Cuentas y Servicios,CAR-AST,Asistente Operativo,5,0.8934,Equilibrio,Equilibrio,Sí
+DEP-OCR,Departamento de Operaciones de Crédito,CAR-ANO,Analista Operativo,14,1.0067,Equilibrio,Equilibrio,Sí
+DEP-OCR,Departamento de Operaciones de Crédito,CAR-ASR,Analista Senior de Operaciones,3,0.9065,Equilibrio,Equilibrio,Sí
+DEP-OCR,Departamento de Operaciones de Crédito,CAR-AST,Asistente Operativo,3,1.0162,Equilibrio,Equilibrio,Sí
+DEP-PAG,Departamento de Pagos y Transferencias,CAR-ANO,Analista Operativo,14,0.8999,Equilibrio,Equilibrio,Sí
+DEP-PAG,Departamento de Pagos y Transferencias,CAR-ASR,Analista Senior de Operaciones,3,0.96,Equilibrio,Equilibrio,Sí
+DEP-PAG,Departamento de Pagos y Transferencias,CAR-AST,Asistente Operativo,4,1.029,Equilibrio,Equilibrio,Sí
+DEP-TAR,Departamento de Tarjetas y Reclamos,CAR-ANO,Analista Operativo,11,1.1838,Sobrecarga,Sobrecarga,Sí
+DEP-TAR,Departamento de Tarjetas y Reclamos,CAR-AST,Asistente Operativo,3,1.0368,Equilibrio,Sobrecarga,No
+AG-AMB,Agencia Ambato,CAR-ANG,Asesor de Negocios,4,1.1459,Sobrecarga,Sobrecarga,Sí
+AG-AMB,Agencia Ambato,CAR-ASV,Asesor de Servicios,5,0.9825,Equilibrio,Equilibrio,Sí
+AG-AMB,Agencia Ambato,CAR-CAJ,Cajero,6,0.9861,Equilibrio,Equilibrio,Sí
+AG-CUM,Agencia Cumbayá,CAR-ANG,Asesor de Negocios,4,0.9969,Equilibrio,Equilibrio,Sí
+AG-CUM,Agencia Cumbayá,CAR-ASV,Asesor de Servicios,3,1.0079,Equilibrio,Equilibrio,Sí
+AG-CUM,Agencia Cumbayá,CAR-CAJ,Cajero,4,0.8153,Equilibrio,Holgura,No
+AG-IBA,Agencia Ibarra,CAR-ANG,Asesor de Negocios,4,0.9424,Equilibrio,Equilibrio,Sí
+AG-IBA,Agencia Ibarra,CAR-ASV,Asesor de Servicios,4,0.9521,Equilibrio,Equilibrio,Sí
+AG-IBA,Agencia Ibarra,CAR-CAJ,Cajero,5,1.1121,Sobrecarga,Sobrecarga,Sí
+AG-LAT,Agencia Latacunga,CAR-ANG,Asesor de Negocios,4,0.9181,Equilibrio,Equilibrio,Sí
+AG-LAT,Agencia Latacunga,CAR-ASV,Asesor de Servicios,3,0.9874,Equilibrio,Equilibrio,Sí
+AG-LAT,Agencia Latacunga,CAR-CAJ,Cajero,4,1.0892,Sobrecarga,Sobrecarga,Sí
+AG-OTA,Agencia Otavalo,CAR-ASV,Asesor de Servicios,3,0.7492,Holgura,Holgura,Sí
+AG-OTA,Agencia Otavalo,CAR-CAJ,Cajero,4,0.7345,Holgura,Holgura,Sí
+AG-QMA,Agencia Matriz Quito (Av. Amazonas),CAR-ANG,Asesor de Negocios,7,1.0048,Equilibrio,Equilibrio,Sí
+AG-QMA,Agencia Matriz Quito (Av. Amazonas),CAR-ASV,Asesor de Servicios,7,1.1628,Sobrecarga,Sobrecarga,Sí
+AG-QMA,Agencia Matriz Quito (Av. Amazonas),CAR-CAJ,Cajero,9,1.3723,Sobrecarga,Sobrecarga,Sí
+AG-QNO,Agencia Quito Norte (El Condado),CAR-ANG,Asesor de Negocios,5,1.0197,Equilibrio,Equilibrio,Sí
+AG-QNO,Agencia Quito Norte (El Condado),CAR-ASV,Asesor de Servicios,5,0.9601,Equilibrio,Equilibrio,Sí
+AG-QNO,Agencia Quito Norte (El Condado),CAR-CAJ,Cajero,7,1.2268,Sobrecarga,Sobrecarga,Sí
+AG-QSU,Agencia Quito Sur (Quitumbe),CAR-ANG,Asesor de Negocios,5,0.9259,Equilibrio,Equilibrio,Sí
+AG-QSU,Agencia Quito Sur (Quitumbe),CAR-ASV,Asesor de Servicios,5,0.9385,Equilibrio,Equilibrio,Sí
+AG-QSU,Agencia Quito Sur (Quitumbe),CAR-CAJ,Cajero,6,0.9704,Equilibrio,Equilibrio,Sí
+AG-RIO,Agencia Riobamba,CAR-ANG,Asesor de Negocios,4,0.9567,Equilibrio,Equilibrio,Sí
+AG-RIO,Agencia Riobamba,CAR-ASV,Asesor de Servicios,3,0.9883,Equilibrio,Equilibrio,Sí
+AG-RIO,Agencia Riobamba,CAR-CAJ,Cajero,5,0.9808,Equilibrio,Equilibrio,Sí
+AG-VCH,Agencia Valle de los Chillos,CAR-ANG,Asesor de Negocios,4,1.0018,Equilibrio,Equilibrio,Sí
+AG-VCH,Agencia Valle de los Chillos,CAR-ASV,Asesor de Servicios,4,0.9481,Equilibrio,Equilibrio,Sí
+AG-VCH,Agencia Valle de los Chillos,CAR-CAJ,Cajero,5,1.0639,Sobrecarga,Equilibrio,No

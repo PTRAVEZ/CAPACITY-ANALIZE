@@ -92,3 +92,30 @@
 - Se agregó `FASE1_ARRANQUE/`: plantilla Excel de carga de las 14 fuentes, formulario de estudio de tiempos, validador de carga (esquema S-01 a S-11 y reglas V-01 a V-16), guía para jefaturas, borradores de correos para PEN-007/008/009 y propuesta de estatuto del Comité (PEN-004).
 - Los correos son **borradores**: no se ha enviado nada.
 - Próximo paso: presentación ejecutiva para el patrocinador.
+
+---
+
+## Actualización 2026-11-20 · Cierre de la Fase 0 (levantamiento y definición)
+
+**Estado:** Fase 0 cerrada. La definición de requerimientos está completa y aprobada (Bloques 1 a 4).
+
+**Entregables finales de la Fase 0:**
+- Documentos 12 a 16 de DOCUMENTACION (bloques aprobados y Documento de Definición de Requerimientos).
+- Demostrador con datos ficticios en DATOS/BANCO-VOLCAN-AZUL (motor, 21 indicadores, pruebas).
+- Kit de arranque de la Fase 1 en FASE1_ARRANQUE (plantillas, validador, guía para jefaturas, propuesta de Comité, borradores de correos).
+- Presentación ejecutiva al patrocinador (11 diapositivas): https://claude.ai/artifact/5dGwbNuodPFejwEAeftPcV (privada hasta que se comparta).
+
+**Siguiente hito:** aprobación del patrocinador para arrancar la Fase 1 (12 semanas, VP Operaciones y Canales).
+
+**Pendientes que dependen del banco:** PEN-004 (Comité de Capacidad), PEN-005 y PEN-006 (dueños de fuentes y seudonimización por Talento Humano), PEN-007 a PEN-009 (Legal, Seguridad de la Información y Tecnología). Los correos de PEN-007 a PEN-009 están en borrador y no se han enviado.
+
+---
+
+## Actualización 2026-11-20 · Fase 1 simulada con datos ficticios
+
+- Se agregó `FASE1_SIMULACION/`: simulación reproducible del piloto de 12 semanas (23-nov-2026 al 12-feb-2027).
+- Incluye acta del patrocinador, dos sesiones del Comité, tres rondas de carga revisadas con el validador, estudio de tiempos
+  en el formulario oficial, informe mensual 01, validación con jefaturas y cierre de la fase.
+- Resultado: criterios de salida cumplidos salvo la coincidencia con jefaturas (93,0 % frente a 95 %), por grupos en el límite
+  de un umbral. La Fase 2 queda condicionada al informe 02.
+- Nota: la sección de cierre de la Fase 0 se había creado por error en la raíz del repositorio; se movió a este archivo.

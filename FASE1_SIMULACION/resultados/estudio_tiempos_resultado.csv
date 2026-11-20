@@ -1,0 +1,6 @@
+actividad_id,observaciones,promedio,mediana,nombre_actividad,estandar_vigente,estandar_nuevo,variacion
+ACT-017,32,22.0802,20.85,Atención de quejas recibidas por redes sociales,0.0,20.9,
+ACT-001,32,2.3439,2.3514,Depósito en efectivo o cheque,2.1,2.4,0.1429
+ACT-002,32,2.3866,2.3546,Retiro en ventanilla,2.3,2.4,0.0435
+ACT-020,32,62.1193,58.3167,Asesoría y solicitud de crédito de consumo,55.0,58.3,0.06
+ACT-010,32,31.1453,31.2833,Apertura de cuenta de ahorros,32.0,31.3,-0.0219
