@@ -1,9 +1,9 @@
 parametro_id,nombre,valor,unidad,estado,descripcion,aprobador_sugerido
-PAR-001,horas_jornada_diaria,8,horas/día,Supuesto,Horas de una jornada completa (40 h semanales). Referencial; validar con política interna y normativa laboral vigente.,Gerencia de Talento Humano
-PAR-002,factor_no_productivo,0.1,proporción,Propuesto,"Proporción del tiempo presente no dedicada a actividades medidas (reuniones generales, pausas activas, traslados internos). EXCLUYE capacitación y ausencias, que se toman de datos reales.",Comité de Capacity Management
+PAR-001,horas_jornada_diaria,8,horas/día,Aprobado (piloto),Horas de una jornada completa (40 h semanales). Referencial; validar con política interna y normativa laboral vigente.,Gerencia de Talento Humano
+PAR-002,factor_no_productivo,0.1,proporción,Aprobado (piloto),"Proporción del tiempo presente no dedicada a actividades medidas (reuniones generales, pausas activas, traslados internos). EXCLUYE capacitación y ausencias, que se toman de datos reales.",Comité de Capacity Management
 PAR-003,dias_vacaciones_anuales,15,días hábiles/año,Supuesto,Días de vacaciones usados para generar datos ficticios. Validar con normativa y política interna (días adicionales por antigüedad no modelados).,Gerencia de Talento Humano
-PAR-004,umbral_sobrecarga,1.05,utilización,Propuesto,Utilización por encima de la cual una unidad-cargo se clasifica en Sobrecarga.,Comité de Capacity Management
-PAR-005,umbral_subutilizacion,0.8,utilización,Propuesto,Utilización por debajo de la cual una unidad-cargo se clasifica en Holgura.,Comité de Capacity Management
+PAR-004,umbral_sobrecarga,1.05,utilización,Aprobado (piloto),Utilización por encima de la cual una unidad-cargo se clasifica en Sobrecarga.,Comité de Capacity Management
+PAR-005,umbral_subutilizacion,0.8,utilización,Aprobado (piloto),Utilización por debajo de la cual una unidad-cargo se clasifica en Holgura.,Comité de Capacity Management
 PAR-006,agregacion_minima_reporte,3,personas,Propuesto,Número mínimo de personas en un grupo para mostrar indicadores sin exponer información individual.,Oficial de Protección de Datos
 PAR-007,periodo_base_inicio,2025-11,AAAA-MM,Supuesto,Primer mes del período base.,Comité de Capacity Management
 PAR-008,periodo_base_fin,2026-10,AAAA-MM,Supuesto,Último mes del período base.,Comité de Capacity Management

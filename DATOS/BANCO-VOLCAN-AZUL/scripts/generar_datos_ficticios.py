@@ -557,15 +557,15 @@ for r in ausentismo:
 # 9. Parámetros y escenarios
 # --------------------------------------------------------------------------------------
 parametros = [
-    {"parametro_id": "PAR-001", "nombre": "horas_jornada_diaria", "valor": 8, "unidad": "horas/día", "estado": "Supuesto",
+    {"parametro_id": "PAR-001", "nombre": "horas_jornada_diaria", "valor": 8, "unidad": "horas/día", "estado": "Aprobado (piloto)",
      "descripcion": "Horas de una jornada completa (40 h semanales). Referencial; validar con política interna y normativa laboral vigente.", "aprobador_sugerido": "Gerencia de Talento Humano"},
-    {"parametro_id": "PAR-002", "nombre": "factor_no_productivo", "valor": FACTOR_NP, "unidad": "proporción", "estado": "Propuesto",
+    {"parametro_id": "PAR-002", "nombre": "factor_no_productivo", "valor": FACTOR_NP, "unidad": "proporción", "estado": "Aprobado (piloto)",
      "descripcion": "Proporción del tiempo presente no dedicada a actividades medidas (reuniones generales, pausas activas, traslados internos). EXCLUYE capacitación y ausencias, que se toman de datos reales.", "aprobador_sugerido": "Comité de Capacity Management"},
     {"parametro_id": "PAR-003", "nombre": "dias_vacaciones_anuales", "valor": 15, "unidad": "días hábiles/año", "estado": "Supuesto",
      "descripcion": "Días de vacaciones usados para generar datos ficticios. Validar con normativa y política interna (días adicionales por antigüedad no modelados).", "aprobador_sugerido": "Gerencia de Talento Humano"},
-    {"parametro_id": "PAR-004", "nombre": "umbral_sobrecarga", "valor": 1.05, "unidad": "utilización", "estado": "Propuesto",
+    {"parametro_id": "PAR-004", "nombre": "umbral_sobrecarga", "valor": 1.05, "unidad": "utilización", "estado": "Aprobado (piloto)",
      "descripcion": "Utilización por encima de la cual una unidad-cargo se clasifica en Sobrecarga.", "aprobador_sugerido": "Comité de Capacity Management"},
-    {"parametro_id": "PAR-005", "nombre": "umbral_subutilizacion", "valor": 0.80, "unidad": "utilización", "estado": "Propuesto",
+    {"parametro_id": "PAR-005", "nombre": "umbral_subutilizacion", "valor": 0.80, "unidad": "utilización", "estado": "Aprobado (piloto)",
      "descripcion": "Utilización por debajo de la cual una unidad-cargo se clasifica en Holgura.", "aprobador_sugerido": "Comité de Capacity Management"},
     {"parametro_id": "PAR-006", "nombre": "agregacion_minima_reporte", "valor": 3, "unidad": "personas", "estado": "Propuesto",
      "descripcion": "Número mínimo de personas en un grupo para mostrar indicadores sin exponer información individual.", "aprobador_sugerido": "Oficial de Protección de Datos"},

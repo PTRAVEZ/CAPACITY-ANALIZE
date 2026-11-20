@@ -1,5 +1,7 @@
 # 14 · LOOP v2.1 — Bloque 3: Resultados, indicadores y fórmulas
 
+> ✅ **Bloque aprobado por el usuario en el chat (2026-11-20).** Pasan a *Confirmado* RN-01 a RN-07, IND-01 a IND-21 y DEC-027 a DEC-029, y quedan aprobados para el piloto PAR-001, 002, 004 y 005. PAR-006 se decide en el Bloque 4.
+
 > **Contexto:** el usuario aprobó el Bloque 2 en el chat el 2026-11-20, así que DEC-019 a DEC-026 pasan a *Confirmado*.
 > En este bloque **ninguna fórmula es oficial**: todas son *Fórmulas metodológicas propuestas* y los valores son *Parámetros que requieren aprobación* (aprobador: Comité de Capacidad, DEC-016).
 > Los ejemplos numéricos son **ilustrativos**: salen de los datos ficticios de `DATOS/BANCO-VOLCAN-AZUL/`.
@@ -17,16 +19,16 @@ Horas nominales  = días laborables activos × PAR-001 × (jornada / 40)
 
 | ID | Estado | Regla |
 |---|---|---|
-| RN-01 | Propuesto | Las ausencias **solo** reducen la capacidad disponible; nunca se suman a la carga. |
-| RN-02 | Propuesto | La capacitación se toma del dato real y queda **fuera** de PAR-002. |
-| RN-03 | Propuesto | El volumen cuenta solo el trabajo de primera vez (SUP-003). Los reprocesos se valoran aparte con `tiempo_reproceso_min`, sin aplicar además un factor de reproceso. |
-| RN-04 | Propuesto | Cada actividad pertenece a un solo proceso, la ejecuta un solo cargo y se mide en una sola unidad de trabajo. |
-| RN-05 | Propuesto | Las horas extra **no** aumentan la capacidad: se reportan como evidencia de brecha (IND-14). |
-| RN-06 | Propuesto | La brecha efectiva (IND-07) y la brecha de dotación (IND-11) son dos lecturas del mismo fenómeno: **no se suman**. |
-| RN-07 | Propuesto | Ausencias + capacitación ≤ horas nominales. Si se supera, se ajusta proporcionalmente y se registra la advertencia V-11. |
-| PAR-001 | Requiere aprobación | Horas de jornada diaria = 8. **Definición de 1 FTE** = días laborables del mes × 8 h (≈ 2.000 h nominales al año en el período base). |
-| PAR-002 | Requiere aprobación | Factor no productivo = 10 %. Por lo tanto, 1 FTE productivo ≈ 1.800 h al año. |
-| PAR-004 / PAR-005 | Requieren aprobación | Umbrales: sobrecarga si la utilización supera 105 %; holgura si es menor a 80 %. |
+| RN-01 | Confirmado | Las ausencias **solo** reducen la capacidad disponible; nunca se suman a la carga. |
+| RN-02 | Confirmado | La capacitación se toma del dato real y queda **fuera** de PAR-002. |
+| RN-03 | Confirmado | El volumen cuenta solo el trabajo de primera vez (SUP-003). Los reprocesos se valoran aparte con `tiempo_reproceso_min`, sin aplicar además un factor de reproceso. |
+| RN-04 | Confirmado | Cada actividad pertenece a un solo proceso, la ejecuta un solo cargo y se mide en una sola unidad de trabajo. |
+| RN-05 | Confirmado | Las horas extra **no** aumentan la capacidad: se reportan como evidencia de brecha (IND-14). |
+| RN-06 | Confirmado | La brecha efectiva (IND-07) y la brecha de dotación (IND-11) son dos lecturas del mismo fenómeno: **no se suman**. |
+| RN-07 | Confirmado | Ausencias + capacitación ≤ horas nominales. Si se supera, se ajusta proporcionalmente y se registra la advertencia V-11. |
+| PAR-001 | Aprobado (piloto) | Horas de jornada diaria = 8. **Definición de 1 FTE** = días laborables del mes × 8 h (≈ 2.000 h nominales al año en el período base). |
+| PAR-002 | Aprobado (piloto) | Factor no productivo = 10 %. Por lo tanto, 1 FTE productivo ≈ 1.800 h al año. |
+| PAR-004 / PAR-005 | Aprobados (piloto) | Umbrales: sobrecarga si la utilización supera 105 %; holgura si es menor a 80 %. |
 | PAR-006 | Requiere aprobación | Agregación mínima para reportar: 3 personas. |
 
 ## 3.1 Fichas de indicadores (IND-)
@@ -85,8 +87,8 @@ Leyenda de la columna **Naturaleza**: FMP = fórmula metodológica propuesta; PA
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-027 | Propuesto | Variables que el usuario puede mover en un escenario: % de volumen (global, por proceso o por actividad), % de tiempo estándar por actividad (automatización), tasa de indisponibilidad (opcional) y PAR-002. |
-| DEC-028 | Propuesto | Escenarios base para 2027: Base (+4 % de volumen), Migración digital, Automatización de back office y Crecimiento comercial (FTE-SRC-14). Todos son *Supuestos* hasta que los apruebe el Comité. |
+| DEC-027 | Confirmado | Variables que el usuario puede mover en un escenario: % de volumen (global, por proceso o por actividad), % de tiempo estándar por actividad (automatización), tasa de indisponibilidad (opcional) y PAR-002. |
+| DEC-028 | Confirmado | Escenarios base para 2027: Base (+4 % de volumen), Migración digital, Automatización de back office y Crecimiento comercial (FTE-SRC-14). Todos son *Supuestos* hasta que los apruebe el Comité. |
 | SUP-005 | Supuesto | Las horas productivas de 2027 se estiman con el promedio del período base. |
 
 ## 3.4 Salidas (3.y)
@@ -102,14 +104,14 @@ Leyenda de la columna **Naturaleza**: FMP = fórmula metodológica propuesta; PA
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-029 | Propuesto | Se adoptan los indicadores IND-01 a IND-21 y las salidas de la tabla anterior. IND-17 a IND-20 se programan en la siguiente fase del demostrador. |
+| DEC-029 | Confirmado | Se adoptan los indicadores IND-01 a IND-21 y las salidas de la tabla anterior. IND-17 a IND-20 se programan en la siguiente fase del demostrador. |
 
 ---
 
 ## Resumen del Bloque 3
 
 - ✅ **Confirmado (Bloque 2):** DEC-019 a DEC-026.
-- 💡 **Propuesto:** RN-01 a RN-07, IND-01 a IND-21 y DEC-027 a DEC-029.
+- ✅ **Confirmado por el usuario (2026-11-20):** RN-01 a RN-07, IND-01 a IND-21 y DEC-027 a DEC-029.
 - 🔧 **Parámetros que requieren aprobación:** PAR-001 (8 h; 1 FTE ≈ 2.000 h nominales), PAR-002 (10 %), PAR-004/005 (105 % / 80 %) y PAR-006 (3 personas).
 - ⚠️ **Supuestos:** SUP-005 (horas de 2027) y los escenarios de FTE-SRC-14.
 - ⏳ **Pendiente:** PEN-004, PEN-005, PEN-006 y la programación de IND-17 a IND-20.

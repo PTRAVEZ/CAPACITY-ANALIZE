@@ -72,3 +72,10 @@
 - Bloque 3 (Indicadores y fórmulas) completo en estado *Propuesto*: taxonomía de tiempo, RN-01 a RN-07, fichas IND-01 a IND-21, escenarios y salidas (ver `14_BLOQUE3_INDICADORES_Y_FORMULAS.md`).
 - IND-17 a IND-20 (productividad, estacionalidad, dispersión y Pareto de causas) quedan pendientes de programar en el demostrador.
 - Próximo paso: validación del Bloque 3 por el usuario y luego el Bloque 4 (privacidad, accesos, despliegue y criterios de éxito).
+
+## Actualización 2026-11-20 — Bloque 3 aprobado y Bloque 4 propuesto
+
+- El usuario **aprobó el Bloque 3**: RN-01 a RN-07, IND-01 a IND-21 y DEC-027 a DEC-029 pasan a *Confirmado*; PAR-001, 002, 004 y 005 quedan aprobados para el piloto (actualizado en `05_parametros.csv`).
+- Bloque 4 (Privacidad, accesos, despliegue y criterios de éxito) completo en estado *Propuesto*: seudonimización y agregación mínima, matriz de permisos, auditoría y cierre de períodos, condiciones de operación y CA-01 a CA-14 (ver `15_BLOQUE4_PRIVACIDAD_ACCESOS_DESPLIEGUE_EXITO.md`).
+- Nuevos pendientes: PEN-007 (normativa), PEN-008 (retención) y PEN-009 (infraestructura; condiciona la elección de tecnología).
+- Próximo paso: validación del Bloque 4 y generación del Documento de Definición de Requerimientos.
