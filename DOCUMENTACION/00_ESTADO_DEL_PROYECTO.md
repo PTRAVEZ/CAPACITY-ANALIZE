@@ -58,3 +58,10 @@
 - `PEN-002` y `PEN-003` quedan resueltos con propuestas DEC-004 a DEC-006 (ver `12_BLOQUE1_PROCESO_DECISION_USUARIOS.md`).
 - El usuario autorizó que el consultor proponga las respuestas, porque el banco es ficticio. Bloque 1 (temas 1.1 a 1.9) queda **completo en estado Propuesto**, pendiente de validación del usuario. `PEN-001` resuelto → DEC-007. Nuevo pendiente: `PEN-004` (Comité de Capacidad).
 - Próximo paso: Bloque 2 (Datos y fuentes), usando las 14 fuentes de `DATOS/BANCO-VOLCAN-AZUL/data/input/`.
+
+## Actualización 2026-11-20 — Bloque 1 aprobado y Bloque 2 propuesto
+
+- El usuario **aprobó el Bloque 1**: DEC-004 a DEC-018 pasan a *Confirmado*.
+- Bloque 2 (Datos y fuentes) completo en estado *Propuesto*: fichas FTE-SRC-01 a 14, llaves de cruce, reglas de calidad V-01 a V-16, vacíos y riesgos (ver `13_BLOQUE2_DATOS_Y_FUENTES.md`).
+- Nuevos pendientes: PEN-005 (medir ACT-017) y PEN-006 (reemplazar estimaciones expertas). Riesgos: RSK-001 a RSK-003.
+- Próximo paso: validación del Bloque 2 por el usuario y luego el Bloque 3 (indicadores y fórmulas).
