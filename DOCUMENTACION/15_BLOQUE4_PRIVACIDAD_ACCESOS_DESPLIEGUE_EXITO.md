@@ -1,5 +1,7 @@
 # 15 · LOOP v2.1 — Bloque 4: Privacidad, accesos, despliegue y criterios de éxito
 
+> ✅ **Bloque aprobado por el usuario en el chat (2026-11-20).** DEC-030 a DEC-043, la matriz de permisos y CA-01 a CA-14 pasan a *Confirmado*; PAR-006 queda aprobado para el piloto. Las metas de los CA- siguen sujetas a la aprobación del Comité; PEN-007 a 009 siguen pendientes.
+
 > **Contexto:** el usuario aprobó el Bloque 3 en el chat el 2026-11-20. Pasan a *Confirmado* RN-01 a RN-07, IND-01 a IND-21 y DEC-027 a DEC-029, y quedan aprobados para el piloto PAR-001, PAR-002, PAR-004 y PAR-005.
 > Todo lo de este bloque queda *Propuesto* o *Supuesto*. La normativa citada es **referencial** y debe validarla Legal / Cumplimiento (regla 10 del LOOP). Este bloque describe **cómo opera** el producto; no amplía el análisis hacia la capacidad tecnológica.
 
@@ -7,10 +9,10 @@
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-030 | Propuesto | El producto trabaja con datos **seudonimizados** (DEC-025). Ninguna pantalla ni reporte muestra nombres ni cédulas. |
-| DEC-031 | Propuesto | **Reportes:** solo se muestran agregados de unidad × cargo con al menos 3 personas (PAR-006). Los grupos menores se agregan al nivel superior (unidad o gerencia). |
-| DEC-032 | Propuesto | El detalle por colaborador-mes (disponibilidad, ausencias, horas extra) solo lo consultan USR-01 (Capacity) y USR-04 (Talento Humano), para validar y conciliar. |
-| PAR-006 | Propuesto (requiere aprobación) | Agregación mínima de 3 personas. |
+| DEC-030 | Confirmado | El producto trabaja con datos **seudonimizados** (DEC-025). Ninguna pantalla ni reporte muestra nombres ni cédulas. |
+| DEC-031 | Confirmado | **Reportes:** solo se muestran agregados de unidad × cargo con al menos 3 personas (PAR-006). Los grupos menores se agregan al nivel superior (unidad o gerencia). |
+| DEC-032 | Confirmado | El detalle por colaborador-mes (disponibilidad, ausencias, horas extra) solo lo consultan USR-01 (Capacity) y USR-04 (Talento Humano), para validar y conciliar. |
+| PAR-006 | Aprobado (piloto) | Agregación mínima de 3 personas. |
 
 ## 4.2 Información confidencial y restricciones especiales
 
@@ -45,26 +47,26 @@
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-033 | Propuesto | Se adopta la matriz de permisos anterior. Principios: mínimo privilegio y **segregación de funciones** (quien registra no aprueba lo mismo). |
-| DEC-034 | Propuesto | Si una persona tiene dos perfiles (por ejemplo, gerente e integrante del Comité), no puede aprobar resultados de su propia gerencia: se abstiene en el Comité. |
+| DEC-033 | Confirmado | Se adopta la matriz de permisos anterior. Principios: mínimo privilegio y **segregación de funciones** (quien registra no aprueba lo mismo). |
+| DEC-034 | Confirmado | Si una persona tiene dos perfiles (por ejemplo, gerente e integrante del Comité), no puede aprobar resultados de su propia gerencia: se abstiene en el Comité. |
 
 ## 4.5 Auditoría, trazabilidad y cierre de períodos
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-035 | Propuesto | **Bitácora de auditoría** de cada alta, cambio o borrado: usuario, fecha y hora, objeto, valor anterior, valor nuevo y motivo. Es inmutable y se conserva según PEN-008. |
-| DEC-036 | Propuesto | **Ciclo del período:** Abierto → Cargado → Validado (V-01 a V-16 sin errores bloqueantes) → Revisado por los gerentes → Aprobado por el Comité → **Cerrado y congelado**. Un período cerrado no se modifica; una corrección genera una nueva versión con su motivo. |
-| DEC-037 | Propuesto | **Reproducibilidad:** cada período cerrado guarda una copia de los insumos, de los parámetros vigentes y de la versión del motor de cálculo, para reproducir sus resultados exactos. |
-| DEC-038 | Propuesto | Se registra quién consulta el detalle por persona (DEC-032). |
+| DEC-035 | Confirmado | **Bitácora de auditoría** de cada alta, cambio o borrado: usuario, fecha y hora, objeto, valor anterior, valor nuevo y motivo. Es inmutable y se conserva según PEN-008. |
+| DEC-036 | Confirmado | **Ciclo del período:** Abierto → Cargado → Validado (V-01 a V-16 sin errores bloqueantes) → Revisado por los gerentes → Aprobado por el Comité → **Cerrado y congelado**. Un período cerrado no se modifica; una corrección genera una nueva versión con su motivo. |
+| DEC-037 | Confirmado | **Reproducibilidad:** cada período cerrado guarda una copia de los insumos, de los parámetros vigentes y de la versión del motor de cálculo, para reproducir sus resultados exactos. |
+| DEC-038 | Confirmado | Se registra quién consulta el detalle por persona (DEC-032). |
 
 ## 4.6 Condiciones de operación (sin elegir tecnología todavía)
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-039 | Propuesto | Aplicación **web** con acceso por navegador; sin instalación en los equipos de los usuarios. |
-| DEC-040 | Propuesto | Autenticación con la **identidad institucional** (inicio de sesión único con el directorio del banco) y asignación de perfiles por grupos del directorio. |
-| DEC-041 | Propuesto | Importación de las fuentes en CSV o Excel con validación automática; exportación de resultados a Excel; tableros y reportes según 3.4. |
-| DEC-042 | Propuesto | Base de datos relacional para las fuentes, los resultados, la bitácora y las versiones de los períodos. |
+| DEC-039 | Confirmado | Aplicación **web** con acceso por navegador; sin instalación en los equipos de los usuarios. |
+| DEC-040 | Confirmado | Autenticación con la **identidad institucional** (inicio de sesión único con el directorio del banco) y asignación de perfiles por grupos del directorio. |
+| DEC-041 | Confirmado | Importación de las fuentes en CSV o Excel con validación automática; exportación de resultados a Excel; tableros y reportes según 3.4. |
+| DEC-042 | Confirmado | Base de datos relacional para las fuentes, los resultados, la bitácora y las versiones de los períodos. |
 | PEN-009 | Pendiente | Restricciones reales de infraestructura: ¿servidor propio del banco o nube aprobada?, ¿bases de datos permitidas?, ¿política de librerías de código abierto?, ¿acceso desde fuera de la red? Responsable: Tecnología / Arquitectura. **La tecnología se selecciona solo cuando esto se resuelva** (regla 6 del LOOP). |
 | SUP-007 | Supuesto | El prototipo Streamlit existente y el motor demostrativo en Python sirven para **validar la metodología**, no como decisión de tecnología para producción. |
 
@@ -89,14 +91,14 @@
 
 | ID | Estado | Descripción |
 |---|---|---|
-| DEC-043 | Propuesto | Se adoptan CA-01 a CA-14. Las metas son propuestas y debe aprobarlas el Comité de Capacidad. |
+| DEC-043 | Confirmado | Se adoptan CA-01 a CA-14. Las metas son propuestas y debe aprobarlas el Comité de Capacidad. |
 
 ---
 
 ## Resumen del Bloque 4
 
 - ✅ **Confirmado (Bloque 3):** RN-01 a RN-07, IND-01 a IND-21, DEC-027 a DEC-029, y PAR-001, 002, 004 y 005 aprobados para el piloto.
-- 💡 **Propuesto:** DEC-030 a DEC-043, la matriz de permisos y CA-01 a CA-14.
+- ✅ **Confirmado por el usuario (2026-11-20):** DEC-030 a DEC-043, la matriz de permisos y CA-01 a CA-14.
 - ⚠️ **Supuestos:** SUP-006 (base legal) y SUP-007 (el prototipo no es la tecnología final).
 - ⏳ **Pendiente:** PEN-004 (Comité), PEN-005 y 006 (mediciones), PEN-007 (normativa), PEN-008 (retención) y PEN-009 (infraestructura).
 - 🔗 **Impacto:** con este bloque, las cuatro definiciones del LOOP quedan completas y se puede generar el **Documento de Definición de Requerimientos**.

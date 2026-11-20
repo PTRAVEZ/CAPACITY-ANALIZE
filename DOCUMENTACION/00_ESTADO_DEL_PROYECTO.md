@@ -79,3 +79,10 @@
 - Bloque 4 (Privacidad, accesos, despliegue y criterios de éxito) completo en estado *Propuesto*: seudonimización y agregación mínima, matriz de permisos, auditoría y cierre de períodos, condiciones de operación y CA-01 a CA-14 (ver `15_BLOQUE4_PRIVACIDAD_ACCESOS_DESPLIEGUE_EXITO.md`).
 - Nuevos pendientes: PEN-007 (normativa), PEN-008 (retención) y PEN-009 (infraestructura; condiciona la elección de tecnología).
 - Próximo paso: validación del Bloque 4 y generación del Documento de Definición de Requerimientos.
+
+## Actualización 2026-11-20 — LOOP completo y Documento de Definición de Requerimientos
+
+- El usuario **aprobó el Bloque 4**: DEC-030 a DEC-043, la matriz de permisos y CA-01 a CA-14 pasan a *Confirmado*; PAR-006 queda aprobado para el piloto.
+- **Los 4 bloques del LOOP v2.1 están completos.** Se generó `16_DOCUMENTO_DEFINICION_REQUERIMIENTOS.md` (23 secciones; RF-01 a RF-24, RNF-01 a RNF-12, matriz de trazabilidad y plan por fases).
+- Demostrador: se programaron IND-17 (productividad), IND-18 (estacionalidad), IND-19 (dispersión) e IND-20 (Pareto de causas); 10 pruebas en verde.
+- **Fase 0 (demostrador metodológico) completada.** Pendientes para pasar a la fase 1: PEN-004 a PEN-009.

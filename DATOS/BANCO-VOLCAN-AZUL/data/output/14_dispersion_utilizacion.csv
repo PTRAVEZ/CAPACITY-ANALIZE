@@ -1,0 +1,10 @@
+gerencia_id,cargo_id,nombre_cargo,unidades,utilizacion_media,utilizacion_min,utilizacion_max,desviacion,coef_variacion,carga_desigual
+GER-OPC,CAR-ANO,Analista Operativo,5,0.9673,0.6314,1.1838,0.2165,0.2238,S
+GER-RAS,CAR-CAJ,Cajero,10,0.9839,0.6982,1.3049,0.1759,0.1788,N
+GER-RAS,CAR-SOP,Supervisor Operativo de Agencia,8,0.976,0.8547,1.3194,0.1444,0.1479,N
+GER-OPC,CAR-AST,Asistente Operativo,5,0.9378,0.7136,1.0368,0.1383,0.1475,N
+GER-RAS,CAR-ASV,Asesor de Servicios,10,0.9317,0.721,1.1201,0.0965,0.1036,N
+GER-RAS,CAR-ANG,Asesor de Negocios,10,0.9659,0.8716,1.1296,0.0722,0.0748,N
+GER-RAS,CAR-JAG,Jefe de Agencia,10,0.9495,0.8491,1.0114,0.0469,0.0494,N
+GER-OPC,CAR-ASR,Analista Senior de Operaciones,5,0.9598,0.9065,1.0014,0.0343,0.0357,N
+GER-OPC,CAR-JDP,Jefe de Departamento,5,0.9439,0.9237,0.9814,0.0259,0.0275,N

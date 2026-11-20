@@ -1,0 +1,145 @@
+proceso_id,nombre_proceso,periodo,horas_carga,indice_estacional,pico
+P-CAJ,Atención en caja,2025-11,6530.695,0.8834,N
+P-CAJ,Atención en caja,2025-12,9310.28,1.2594,S
+P-CAJ,Atención en caja,2026-01,6892.0717,0.9323,N
+P-CAJ,Atención en caja,2026-02,5544.9733,0.7501,N
+P-CAJ,Atención en caja,2026-03,7624.4517,1.0314,N
+P-CAJ,Atención en caja,2026-04,7816.905,1.0574,N
+P-CAJ,Atención en caja,2026-05,6625.2483,0.8962,N
+P-CAJ,Atención en caja,2026-06,7491.4817,1.0134,N
+P-CAJ,Atención en caja,2026-07,7742.845,1.0474,N
+P-CAJ,Atención en caja,2026-08,7834.5067,1.0598,N
+P-CAJ,Atención en caja,2026-09,8007.5017,1.0832,N
+P-CAJ,Atención en caja,2026-10,7289.6983,0.9861,N
+P-CAM,Cámara de compensación y valores,2025-11,1171.4483,0.9873,N
+P-CAM,Cámara de compensación y valores,2025-12,1497.3567,1.262,S
+P-CAM,Cámara de compensación y valores,2026-01,1217.7683,1.0263,N
+P-CAM,Cámara de compensación y valores,2026-02,982.1217,0.8277,N
+P-CAM,Cámara de compensación y valores,2026-03,1250.3417,1.0538,N
+P-CAM,Cámara de compensación y valores,2026-04,1154.0017,0.9726,N
+P-CAM,Cámara de compensación y valores,2026-05,1046.8783,0.8823,N
+P-CAM,Cámara de compensación y valores,2026-06,1228.2783,1.0352,N
+P-CAM,Cámara de compensación y valores,2026-07,1253.39,1.0564,N
+P-CAM,Cámara de compensación y valores,2026-08,1136.0967,0.9575,N
+P-CAM,Cámara de compensación y valores,2026-09,1181.3183,0.9956,N
+P-CAM,Cámara de compensación y valores,2026-10,1119.1317,0.9432,N
+P-CCT,Atención telefónica y digital,2025-11,4303.755,0.8918,N
+P-CCT,Atención telefónica y digital,2025-12,5700.0017,1.1811,S
+P-CCT,Atención telefónica y digital,2026-01,5278.315,1.0937,N
+P-CCT,Atención telefónica y digital,2026-02,3890.6917,0.8062,N
+P-CCT,Atención telefónica y digital,2026-03,4821.2517,0.999,N
+P-CCT,Atención telefónica y digital,2026-04,4915.67,1.0186,N
+P-CCT,Atención telefónica y digital,2026-05,4265.1683,0.8838,N
+P-CCT,Atención telefónica y digital,2026-06,4771.3833,0.9887,N
+P-CCT,Atención telefónica y digital,2026-07,5156.1667,1.0684,N
+P-CCT,Atención telefónica y digital,2026-08,4836.7033,1.0022,N
+P-CCT,Atención telefónica y digital,2026-09,5079.575,1.0525,N
+P-CCT,Atención telefónica y digital,2026-10,4894.26,1.0141,N
+P-CTA,Gestión de cuentas y cumplimiento,2025-11,3099.225,0.9022,N
+P-CTA,Gestión de cuentas y cumplimiento,2025-12,3380.0167,0.9839,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-01,3728.25,1.0853,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-02,2763.9,0.8046,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-03,3760.5667,1.0947,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-04,3476.7417,1.0121,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-05,3202.0333,0.9321,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-06,3647.9583,1.0619,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-07,3617.2667,1.053,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-08,3237.7167,0.9425,N
+P-CTA,Gestión de cuentas y cumplimiento,2026-09,3843.15,1.1187,S
+P-CTA,Gestión de cuentas y cumplimiento,2026-10,3466.075,1.009,N
+P-GAG,Gestión y control de agencia,2025-11,2104.9167,0.9171,N
+P-GAG,Gestión y control de agencia,2025-12,2418.1017,1.0535,N
+P-GAG,Gestión y control de agencia,2026-01,2316.77,1.0094,N
+P-GAG,Gestión y control de agencia,2026-02,1990.3433,0.8671,N
+P-GAG,Gestión y control de agencia,2026-03,2417.0967,1.0531,N
+P-GAG,Gestión y control de agencia,2026-04,2337.7317,1.0185,N
+P-GAG,Gestión y control de agencia,2026-05,2079.335,0.9059,N
+P-GAG,Gestión y control de agencia,2026-06,2431.0917,1.0592,N
+P-GAG,Gestión y control de agencia,2026-07,2518.8067,1.0974,N
+P-GAG,Gestión y control de agencia,2026-08,2194.6433,0.9562,N
+P-GAG,Gestión y control de agencia,2026-09,2426.9683,1.0574,N
+P-GAG,Gestión y control de agencia,2026-10,2307.4933,1.0053,N
+P-GER,Dirección y gestión de gerencia,2025-11,555.8333,0.9044,N
+P-GER,Dirección y gestión de gerencia,2025-12,660.3333,1.0744,N
+P-GER,Dirección y gestión de gerencia,2026-01,634.0833,1.0317,N
+P-GER,Dirección y gestión de gerencia,2026-02,534.0,0.8689,N
+P-GER,Dirección y gestión de gerencia,2026-03,662.1667,1.0774,N
+P-GER,Dirección y gestión de gerencia,2026-04,610.9167,0.994,N
+P-GER,Dirección y gestión de gerencia,2026-05,556.5,0.9055,N
+P-GER,Dirección y gestión de gerencia,2026-06,642.3333,1.0451,N
+P-GER,Dirección y gestión de gerencia,2026-07,677.3333,1.1021,S
+P-GER,Dirección y gestión de gerencia,2026-08,592.4167,0.9639,N
+P-GER,Dirección y gestión de gerencia,2026-09,634.9167,1.0331,N
+P-GER,Dirección y gestión de gerencia,2026-10,614.3333,0.9996,N
+P-JDP,Jefatura de departamento,2025-11,563.6667,0.9149,N
+P-JDP,Jefatura de departamento,2025-12,647.9167,1.0516,N
+P-JDP,Jefatura de departamento,2026-01,628.0,1.0193,N
+P-JDP,Jefatura de departamento,2026-02,532.25,0.8639,N
+P-JDP,Jefatura de departamento,2026-03,645.5,1.0477,N
+P-JDP,Jefatura de departamento,2026-04,629.5833,1.0218,N
+P-JDP,Jefatura de departamento,2026-05,568.5833,0.9228,N
+P-JDP,Jefatura de departamento,2026-06,650.6667,1.0561,N
+P-JDP,Jefatura de departamento,2026-07,676.6667,1.0983,N
+P-JDP,Jefatura de departamento,2026-08,595.4167,0.9664,N
+P-JDP,Jefatura de departamento,2026-09,657.6667,1.0674,N
+P-JDP,Jefatura de departamento,2026-10,597.5833,0.9699,N
+P-NEG,Negocios y colocación en agencia,2025-11,5306.7833,0.9457,N
+P-NEG,Negocios y colocación en agencia,2025-12,6420.25,1.1441,S
+P-NEG,Negocios y colocación en agencia,2026-01,4770.5667,0.8501,N
+P-NEG,Negocios y colocación en agencia,2026-02,4283.05,0.7632,N
+P-NEG,Negocios y colocación en agencia,2026-03,5983.1833,1.0662,N
+P-NEG,Negocios y colocación en agencia,2026-04,5870.7167,1.0462,N
+P-NEG,Negocios y colocación en agencia,2026-05,5192.25,0.9253,N
+P-NEG,Negocios y colocación en agencia,2026-06,5898.8,1.0512,N
+P-NEG,Negocios y colocación en agencia,2026-07,5953.2667,1.0609,N
+P-NEG,Negocios y colocación en agencia,2026-08,5754.1833,1.0254,N
+P-NEG,Negocios y colocación en agencia,2026-09,6144.7333,1.095,N
+P-NEG,Negocios y colocación en agencia,2026-10,5761.55,1.0267,N
+P-OCR,Operaciones de crédito,2025-11,2513.6333,0.953,N
+P-OCR,Operaciones de crédito,2025-12,3135.4833,1.1888,S
+P-OCR,Operaciones de crédito,2026-01,2139.1833,0.811,N
+P-OCR,Operaciones de crédito,2026-02,1967.5,0.746,N
+P-OCR,Operaciones de crédito,2026-03,2750.4,1.0428,N
+P-OCR,Operaciones de crédito,2026-04,2773.25,1.0514,N
+P-OCR,Operaciones de crédito,2026-05,2440.55,0.9253,N
+P-OCR,Operaciones de crédito,2026-06,2802.8,1.0626,N
+P-OCR,Operaciones de crédito,2026-07,2852.05,1.0813,N
+P-OCR,Operaciones de crédito,2026-08,2645.05,1.0028,N
+P-OCR,Operaciones de crédito,2026-09,2888.8,1.0953,N
+P-OCR,Operaciones de crédito,2026-10,2742.0833,1.0396,N
+P-PAG,Pagos y transferencias,2025-11,2387.5417,0.9043,N
+P-PAG,Pagos y transferencias,2025-12,3387.025,1.2828,S
+P-PAG,Pagos y transferencias,2026-01,2461.6833,0.9324,N
+P-PAG,Pagos y transferencias,2026-02,2048.6583,0.7759,N
+P-PAG,Pagos y transferencias,2026-03,2706.0583,1.0249,N
+P-PAG,Pagos y transferencias,2026-04,2893.8,1.096,N
+P-PAG,Pagos y transferencias,2026-05,2319.2,0.8784,N
+P-PAG,Pagos y transferencias,2026-06,2619.9583,0.9923,N
+P-PAG,Pagos y transferencias,2026-07,2676.2583,1.0136,N
+P-PAG,Pagos y transferencias,2026-08,2808.7917,1.0638,N
+P-PAG,Pagos y transferencias,2026-09,2778.775,1.0525,N
+P-PAG,Pagos y transferencias,2026-10,2595.1333,0.9829,N
+P-SER,Servicios al cliente en agencia,2025-11,4787.2167,0.8993,N
+P-SER,Servicios al cliente en agencia,2025-12,5936.7667,1.1152,S
+P-SER,Servicios al cliente en agencia,2026-01,5542.85,1.0412,N
+P-SER,Servicios al cliente en agencia,2026-02,4154.6667,0.7805,N
+P-SER,Servicios al cliente en agencia,2026-03,5697.3333,1.0703,N
+P-SER,Servicios al cliente en agencia,2026-04,5550.6833,1.0427,N
+P-SER,Servicios al cliente en agencia,2026-05,4780.55,0.898,N
+P-SER,Servicios al cliente en agencia,2026-06,5457.25,1.0252,N
+P-SER,Servicios al cliente en agencia,2026-07,5612.5,1.0543,N
+P-SER,Servicios al cliente en agencia,2026-08,5260.55,0.9882,N
+P-SER,Servicios al cliente en agencia,2026-09,5807.1667,1.0909,N
+P-SER,Servicios al cliente en agencia,2026-10,5292.4333,0.9942,N
+P-TAR,Tarjetas y reclamos,2025-11,2433.0833,0.9661,N
+P-TAR,Tarjetas y reclamos,2025-12,3162.6167,1.2557,S
+P-TAR,Tarjetas y reclamos,2026-01,2781.8667,1.1046,S
+P-TAR,Tarjetas y reclamos,2026-02,2046.9,0.8127,N
+P-TAR,Tarjetas y reclamos,2026-03,2537.9333,1.0077,N
+P-TAR,Tarjetas y reclamos,2026-04,2392.25,0.9499,N
+P-TAR,Tarjetas y reclamos,2026-05,2232.7,0.8865,N
+P-TAR,Tarjetas y reclamos,2026-06,2490.85,0.989,N
+P-TAR,Tarjetas y reclamos,2026-07,2622.3333,1.0412,N
+P-TAR,Tarjetas y reclamos,2026-08,2440.4667,0.969,N
+P-TAR,Tarjetas y reclamos,2026-09,2634.15,1.0459,N
+P-TAR,Tarjetas y reclamos,2026-10,2447.05,0.9716,N

@@ -14,10 +14,10 @@
 | `docs/anomalias_sembradas.md` | Errores de datos introducidos a propósito para probar la validación. |
 | `data/input/` | **14 archivos CSV de entrada** (ver tabla abajo). |
 | `scripts/generar_datos_ficticios.py` | Regenera todos los datos de entrada (semilla fija, resultado reproducible). |
-| `src/capacity_analize.py` | Motor demostrativo: valida, calcula FTE, brechas, reprocesos, redistribución y escenarios. |
-| `data/output/` | Resultados calculados (12 CSV). |
+| `src/capacity_analize.py` | Motor demostrativo: valida y calcula IND-01 a IND-21 (FTE, brechas, reprocesos, redistribución, escenarios, productividad, estacionalidad, dispersión y Pareto de causas). |
+| `data/output/` | Resultados calculados (16 CSV). |
 | `reports/resumen_resultados.md` | Resumen ejecutivo generado automáticamente. |
-| `tests/` | Pruebas de consistencia (criterios de aceptación CA-01 a CA-06). |
+| `tests/` | Pruebas de consistencia (CA-01 a CA-06 e IND-17 a IND-20; 10 pruebas). |
 
 ## El banco ficticio (piloto de ~300 personas)
 

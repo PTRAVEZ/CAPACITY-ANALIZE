@@ -56,3 +56,27 @@ def test_ca06_brecha_coherente(out):
     assert np.allclose(c.brecha_fte, c.fte_disponible - c.fte_requerido)
     g = out["ger"]
     assert g.fte_requerido.sum() == pytest.approx(out["res"].fte_requerido.sum())
+
+
+def test_ind17_productividad_mediana(out):
+    """IND-17: en cada actividad, el índice frente a la mediana tiene mediana 1."""
+    p = out["prod"]
+    med = p.groupby("actividad_id").indice_vs_mediana_actividad.median()
+    assert np.allclose(med, 1.0)
+
+
+def test_ind18_indice_estacional_promedio_uno(out):
+    e = out["est"]
+    assert np.allclose(e.groupby("proceso_id").indice_estacional.mean(), 1.0)
+    assert set(e[e.pico == "S"].periodo.str[5:]) & {"12", "08", "04"}, "Deben aparecer los picos de diciembre, agosto o abril"
+
+
+def test_ind19_dispersion_minimo_tres_unidades(out):
+    assert (out["dsp"].unidades >= 3).all()
+
+
+def test_ind20_pareto_acumulado(out):
+    p = out["par"]
+    assert p.pct_acumulado.iloc[-1] == pytest.approx(1.0)
+    assert p.horas_reproceso.is_monotonic_decreasing
+    assert (p.clase == "A").any()

@@ -14,6 +14,7 @@ Flujo:
   4. Carga laboral por actividad (volumen × tiempo estándar + reprocesos)
   5. Capacidad por unidad × cargo × mes (FTE requerido, disponible, brecha, utilización)
   6. Resúmenes anuales, reprocesos, oportunidades de redistribución
+  6b. IND-17 productividad, IND-18 estacionalidad, IND-19 dispersión, IND-20 Pareto
   7. Escenarios 2027
   8. Resumen ejecutivo en Markdown (reports/resumen_resultados.md)
 
@@ -440,6 +441,56 @@ def escenarios(cg, res, d, P, H_PROD) -> pd.DataFrame:
 
 
 # ======================================================================================
+# 7b. Indicadores complementarios IND-17 a IND-20 (aprobados en el Bloque 3)
+# ======================================================================================
+def productividad(cg, cap, res, d, P) -> pd.DataFrame:
+    """IND-17: volumen anual de cada actividad transaccional / FTE disponible anual del cargo en la unidad."""
+    act = d["actividades"]
+    trans = act[act.unidad_trabajo != "hora"][["actividad_id", "nombre_actividad", "unidad_trabajo"]]
+    v = cg.groupby(["unidad_id", "cargo_id", "actividad_id"]).volumen.sum().reset_index().merge(trans, on="actividad_id")
+    v = v.merge(res[["unidad_id", "cargo_id", "fte_disponible", "dotacion_corte", "cumple_agregacion_minima"]], on=["unidad_id", "cargo_id"], how="left")
+    v = v[v.fte_disponible > 0].copy()
+    v["productividad_anual_por_fte"] = v.volumen / v.fte_disponible
+    v["productividad_mensual_por_fte"] = v.productividad_anual_por_fte / cg.periodo.nunique()
+    med = v.groupby("actividad_id").productividad_anual_por_fte.transform("median")
+    v["indice_vs_mediana_actividad"] = v.productividad_anual_por_fte / med
+    v["comparables"] = v.groupby("actividad_id").unidad_id.transform("nunique")
+    return v.sort_values(["actividad_id", "indice_vs_mediana_actividad"], ascending=[True, False]).reset_index(drop=True)
+
+
+def estacionalidad(cg, d) -> pd.DataFrame:
+    """IND-18: carga del mes / carga mensual promedio, por proceso. Pico si el índice supera 1,10."""
+    m = cg.groupby(["proceso_id", "periodo"]).horas_carga.sum().reset_index()
+    m["indice_estacional"] = m.horas_carga / m.groupby("proceso_id").horas_carga.transform("mean")
+    m["pico"] = np.where(m.indice_estacional > 1.10, "S", "N")
+    m.insert(1, "nombre_proceso", m.proceso_id.map(d["procesos"].set_index("proceso_id").nombre_proceso))
+    return m.sort_values(["proceso_id", "periodo"]).reset_index(drop=True)
+
+
+def dispersion(res, P) -> pd.DataFrame:
+    """IND-19: coeficiente de variación de la utilización anual entre unidades del mismo cargo y gerencia (al menos 3 unidades)."""
+    g = res[res.horas_disponibles > 0].groupby(["gerencia_id", "cargo_id", "nombre_cargo"]).agg(
+        unidades=("unidad_id", "nunique"), utilizacion_media=("utilizacion", "mean"),
+        utilizacion_min=("utilizacion", "min"), utilizacion_max=("utilizacion", "max"),
+        desviacion=("utilizacion", "std")).reset_index()
+    g = g[g.unidades >= 3].copy()
+    g["coef_variacion"] = g.desviacion / g.utilizacion_media
+    g["carga_desigual"] = np.where(g.coef_variacion > 0.20, "S", "N")
+    return g.sort_values("coef_variacion", ascending=False).reset_index(drop=True)
+
+
+def pareto_causas(rep) -> pd.DataFrame:
+    """IND-20: ranking de horas de reproceso por proceso y causa, con porcentaje acumulado y clase A/B/C."""
+    p = rep.sort_values("horas_reproceso", ascending=False).reset_index(drop=True).copy()
+    tot = p.horas_reproceso.sum()
+    p["pct"] = p.horas_reproceso / tot
+    p["pct_acumulado"] = p.pct.cumsum()
+    p["clase"] = np.select([p.pct_acumulado.shift(fill_value=0) < 0.80, p.pct_acumulado.shift(fill_value=0) < 0.95], ["A", "B"], default="C")
+    p.insert(0, "ranking", range(1, len(p) + 1))
+    return p
+
+
+# ======================================================================================
 # 8. Conciliación de dotación (V-15)
 # ======================================================================================
 def conciliacion(d, dfs_orig, P, log: Bitacora) -> dict:
@@ -479,7 +530,7 @@ def md_tabla(df: pd.DataFrame, fmt: dict | None = None) -> str:
     return cab + "\n".join(filas) + "\n"
 
 
-def reporte_md(res, ger, uni, red, rep, esc_res, val, conc, P, H_PROD, ruta: Path):
+def reporte_md(res, ger, uni, red, rep, esc_res, val, conc, P, H_PROD, ruta: Path, prod=None, est=None, disp_=None, par=None):
     pct = "{:.0%}"
     f1 = "{:,.1f}"
     tot = ger[["fte_contractual_corte", "fte_disponible", "fte_requerido", "brecha_fte", "fte_requerido_dotacion", "brecha_dotacion_fte", "horas_extra"]].sum()
@@ -525,7 +576,26 @@ def reporte_md(res, ger, uni, red, rep, esc_res, val, conc, P, H_PROD, ruta: Pat
     L.append("## 7. Escenarios 2027 (FTE requerido para dotación vs. FTE contractual actual)\n")
     L.append(md_tabla(esc_res, {"fte_requerido": f1, "fte_requerido_dotacion": f1, "fte_contractual_corte": f1, "brecha_dotacion_fte": "{:+,.1f}"}))
     L.append("\nBrecha de dotación positiva = exceso de FTE; negativa = faltante.\n")
-    L.append("## 8. Calidad de datos\n")
+    if est is not None:
+        L.append("## 8. Indicadores complementarios (IND-17 a IND-20)\n")
+        L.append("### IND-18 · Meses pico por proceso (índice estacional > 1,10)\n")
+        pk = est[est.pico == "S"]
+        L.append(md_tabla(pk[["nombre_proceso", "periodo", "indice_estacional"]], {"indice_estacional": "{:.2f}"}) if not pk.empty else "Sin picos.\n")
+        L.append("### IND-19 · Dispersión de la utilización entre unidades del mismo cargo\n")
+        L.append(md_tabla(disp_[["gerencia_id", "nombre_cargo", "unidades", "utilizacion_min", "utilizacion_max", "coef_variacion", "carga_desigual"]],
+                          {"unidades": "{:.0f}", "utilizacion_min": pct, "utilizacion_max": pct, "coef_variacion": "{:.2f}"}))
+        L.append("### IND-20 · Pareto de causas de reproceso (clase A = ~80 % de las horas)\n")
+        pa = par[par.clase == "A"]
+        L.append(md_tabla(pa[["ranking", "nombre_proceso", "causa_principal", "horas_reproceso", "pct_acumulado"]],
+                          {"ranking": "{:.0f}", "horas_reproceso": "{:,.0f}", "pct_acumulado": pct}))
+        L.append(f"\n{len(pa)} de {len(par)} combinaciones proceso-causa explican el {pa.pct.sum():.0%} de las horas de reproceso.\n")
+        L.append("### IND-17 · Productividad por FTE: mayores diferencias entre unidades (actividad con ≥ 5 unidades)\n")
+        pr = prod[(prod.comparables >= 5) & (prod.cumple_agregacion_minima == "S")]
+        ext = pd.concat([pr.nsmallest(5, "indice_vs_mediana_actividad"), pr.nlargest(5, "indice_vs_mediana_actividad")])
+        L.append(md_tabla(ext[["nombre_actividad", "unidad_id", "productividad_mensual_por_fte", "indice_vs_mediana_actividad"]],
+                          {"productividad_mensual_por_fte": "{:,.0f}", "indice_vs_mediana_actividad": "{:.2f}"}))
+        L.append("\nLa productividad se compara solo dentro de la misma actividad y cargo. Un índice alejado de 1 es una señal para revisar, no una evaluación individual.\n")
+    L.append("## 9. Calidad de datos\n")
     vv = val.groupby(["regla", "severidad"]).size().reset_index(name="registros")
     L.append(md_tabla(vv, {"registros": "{:.0f}"}))
     L.append(f"\nConciliación de dotación (V-15): inicial {conc['dotacion_inicial']} + ingresos {conc['ingresos']} − salidas {conc['salidas']} "
@@ -570,8 +640,17 @@ def ejecutar(dir_in: Path, dir_out: Path, dir_rep: Path) -> dict:
     r(red).to_csv(dir_out / "09_oportunidades_redistribucion.csv", index=False)
     r(esc).to_csv(dir_out / "10_escenarios_2027_detalle.csv", index=False)
     r(esc_res).to_csv(dir_out / "11_escenarios_2027_resumen.csv", index=False)
-    reporte_md(res, ger, uni, red, rep, esc_res, val, conc, P, H_PROD, dir_rep / "resumen_resultados.md")
-    return {"P": P, "d": d, "disp": disp, "carga": cg, "cap": cap, "res": res, "ger": ger, "esc": esc_res, "val": val, "conc": conc, "H_PROD": H_PROD}
+    prod = productividad(cg, cap, res, d, P)
+    est = estacionalidad(cg, d)
+    dsp = dispersion(res, P)
+    par = pareto_causas(rep)
+    r(prod).to_csv(dir_out / "12_productividad_por_fte.csv", index=False)
+    r(est).to_csv(dir_out / "13_indice_estacional.csv", index=False)
+    r(dsp).to_csv(dir_out / "14_dispersion_utilizacion.csv", index=False)
+    r(par).to_csv(dir_out / "15_pareto_causas_reproceso.csv", index=False)
+    reporte_md(res, ger, uni, red, rep, esc_res, val, conc, P, H_PROD, dir_rep / "resumen_resultados.md", prod, est, dsp, par)
+    return {"P": P, "d": d, "disp": disp, "carga": cg, "cap": cap, "res": res, "ger": ger, "esc": esc_res, "val": val, "conc": conc, "H_PROD": H_PROD,
+            "prod": prod, "est": est, "dsp": dsp, "par": par}
 
 
 def main():

@@ -1,0 +1,283 @@
+unidad_id,cargo_id,actividad_id,volumen,nombre_actividad,unidad_trabajo,fte_disponible,dotacion_corte,cumple_agregacion_minima,productividad_anual_por_fte,productividad_mensual_por_fte,indice_vs_mediana_actividad,comparables
+AG-QMA,CAR-CAJ,ACT-001,164962,Depósito en efectivo o cheque,transacción,8.331,9,S,19800.9843,1650.082,1.3235,10
+AG-QNO,CAR-CAJ,ACT-001,109210,Depósito en efectivo o cheque,transacción,6.042,7,S,18075.1407,1506.2617,1.2081,10
+AG-IBA,CAR-CAJ,ACT-001,70978,Depósito en efectivo o cheque,transacción,4.3185,5,S,16435.7995,1369.65,1.0986,10
+AG-LAT,CAR-CAJ,ACT-001,52772,Depósito en efectivo o cheque,transacción,3.2965,4,S,16008.4939,1334.0412,1.07,10
+AG-VCH,CAR-CAJ,ACT-001,66874,Depósito en efectivo o cheque,transacción,4.303,5,S,15541.2503,1295.1042,1.0388,10
+AG-AMB,CAR-CAJ,ACT-001,75974,Depósito en efectivo o cheque,transacción,5.283,6,S,14380.8442,1198.4037,0.9612,10
+AG-RIO,CAR-CAJ,ACT-001,61369,Depósito en efectivo o cheque,transacción,4.2735,5,S,14360.3604,1196.6967,0.9598,10
+AG-QSU,CAR-CAJ,ACT-001,73562,Depósito en efectivo o cheque,transacción,5.2375,6,S,14045.2506,1170.4375,0.9388,10
+AG-CUM,CAR-CAJ,ACT-001,42201,Depósito en efectivo o cheque,transacción,3.5935,4,S,11743.7039,978.642,0.785,10
+AG-OTA,CAR-CAJ,ACT-001,38307,Depósito en efectivo o cheque,transacción,3.567,4,S,10739.2767,894.9397,0.7178,10
+AG-QMA,CAR-CAJ,ACT-002,112140,Retiro en ventanilla,transacción,8.331,9,S,13460.569,1121.7141,1.3666,10
+AG-QNO,CAR-CAJ,ACT-002,71991,Retiro en ventanilla,transacción,6.042,7,S,11915.0943,992.9245,1.2097,10
+AG-IBA,CAR-CAJ,ACT-002,46391,Retiro en ventanilla,transacción,4.3185,5,S,10742.3874,895.199,1.0906,10
+AG-LAT,CAR-CAJ,ACT-002,34466,Retiro en ventanilla,transacción,3.2965,4,S,10455.3314,871.2776,1.0615,10
+AG-VCH,CAR-CAJ,ACT-002,43529,Retiro en ventanilla,transacción,4.303,5,S,10115.9656,842.9971,1.027,10
+AG-AMB,CAR-CAJ,ACT-002,50631,Retiro en ventanilla,transacción,5.283,6,S,9583.7592,798.6466,0.973,10
+AG-QSU,CAR-CAJ,ACT-002,49495,Retiro en ventanilla,transacción,5.2375,6,S,9450.1193,787.5099,0.9594,10
+AG-RIO,CAR-CAJ,ACT-002,40023,Retiro en ventanilla,transacción,4.2735,5,S,9365.3914,780.4493,0.9508,10
+AG-CUM,CAR-CAJ,ACT-002,29199,Retiro en ventanilla,transacción,3.5935,4,S,8125.5044,677.1254,0.8249,10
+AG-OTA,CAR-CAJ,ACT-002,25021,Retiro en ventanilla,transacción,3.567,4,S,7014.5781,584.5482,0.7121,10
+AG-QMA,CAR-CAJ,ACT-003,117006,Pago de servicios básicos y recaudaciones,transacción,8.331,9,S,14044.6525,1170.3877,1.3247,10
+AG-QNO,CAR-CAJ,ACT-003,75673,Pago de servicios básicos y recaudaciones,transacción,6.042,7,S,12524.4952,1043.7079,1.1813,10
+AG-IBA,CAR-CAJ,ACT-003,49253,Pago de servicios básicos y recaudaciones,transacción,4.3185,5,S,11405.1175,950.4265,1.0757,10
+AG-VCH,CAR-CAJ,ACT-003,47612,Pago de servicios básicos y recaudaciones,transacción,4.303,5,S,11064.8385,922.0699,1.0436,10
+AG-LAT,CAR-CAJ,ACT-003,36300,Pago de servicios básicos y recaudaciones,transacción,3.2965,4,S,11011.6791,917.6399,1.0386,10
+AG-AMB,CAR-CAJ,ACT-003,53851,Pago de servicios básicos y recaudaciones,transacción,5.283,6,S,10193.2614,849.4385,0.9614,10
+AG-RIO,CAR-CAJ,ACT-003,43132,Pago de servicios básicos y recaudaciones,transacción,4.2735,5,S,10092.8981,841.0748,0.9519,10
+AG-QSU,CAR-CAJ,ACT-003,52400,Pago de servicios básicos y recaudaciones,transacción,5.2375,6,S,10004.7733,833.7311,0.9436,10
+AG-CUM,CAR-CAJ,ACT-003,29547,Pago de servicios básicos y recaudaciones,transacción,3.5935,4,S,8222.3459,685.1955,0.7755,10
+AG-OTA,CAR-CAJ,ACT-003,27107,Pago de servicios básicos y recaudaciones,transacción,3.567,4,S,7599.3832,633.2819,0.7168,10
+AG-QMA,CAR-CAJ,ACT-004,29148,Pago de impuestos SRI y matriculación vehicular,transacción,8.331,9,S,3498.7396,291.5616,1.3479,10
+AG-QNO,CAR-CAJ,ACT-004,18294,Pago de impuestos SRI y matriculación vehicular,transacción,6.042,7,S,3027.8054,252.3171,1.1665,10
+AG-IBA,CAR-CAJ,ACT-004,12007,Pago de impuestos SRI y matriculación vehicular,transacción,4.3185,5,S,2780.3636,231.697,1.0711,10
+AG-LAT,CAR-CAJ,ACT-004,9148,Pago de impuestos SRI y matriculación vehicular,transacción,3.2965,4,S,2775.0645,231.2554,1.0691,10
+AG-VCH,CAR-CAJ,ACT-004,11633,Pago de impuestos SRI y matriculación vehicular,transacción,4.303,5,S,2703.4627,225.2886,1.0415,10
+AG-AMB,CAR-CAJ,ACT-004,13144,Pago de impuestos SRI y matriculación vehicular,transacción,5.283,6,S,2487.9803,207.3317,0.9585,10
+AG-QSU,CAR-CAJ,ACT-004,13006,Pago de impuestos SRI y matriculación vehicular,transacción,5.2375,6,S,2483.2458,206.9372,0.9567,10
+AG-RIO,CAR-CAJ,ACT-004,10552,Pago de impuestos SRI y matriculación vehicular,transacción,4.2735,5,S,2469.1705,205.7642,0.9512,10
+AG-CUM,CAR-CAJ,ACT-004,7364,Pago de impuestos SRI y matriculación vehicular,transacción,3.5935,4,S,2049.2556,170.7713,0.7895,10
+AG-OTA,CAR-CAJ,ACT-004,6719,Pago de impuestos SRI y matriculación vehicular,transacción,3.567,4,S,1883.6557,156.9713,0.7257,10
+AG-QMA,CAR-CAJ,ACT-005,29273,Cobro de cheques,transacción,8.331,9,S,3513.7438,292.812,1.3396,10
+AG-QNO,CAR-CAJ,ACT-005,19073,Cobro de cheques,transacción,6.042,7,S,3156.7362,263.0613,1.2035,10
+AG-IBA,CAR-CAJ,ACT-005,12125,Cobro de cheques,transacción,4.3185,5,S,2807.6879,233.974,1.0704,10
+AG-LAT,CAR-CAJ,ACT-005,9232,Cobro de cheques,transacción,3.2965,4,S,2800.546,233.3788,1.0677,10
+AG-VCH,CAR-CAJ,ACT-005,11892,Cobro de cheques,transacción,4.303,5,S,2763.6533,230.3044,1.0536,10
+AG-RIO,CAR-CAJ,ACT-005,10608,Cobro de cheques,transacción,4.2735,5,S,2482.2745,206.8562,0.9464,10
+AG-QSU,CAR-CAJ,ACT-005,12940,Cobro de cheques,transacción,5.2375,6,S,2470.6444,205.887,0.9419,10
+AG-AMB,CAR-CAJ,ACT-005,13017,Cobro de cheques,transacción,5.283,6,S,2463.9409,205.3284,0.9394,10
+AG-CUM,CAR-CAJ,ACT-005,7590,Cobro de cheques,transacción,3.5935,4,S,2112.1469,176.0122,0.8053,10
+AG-OTA,CAR-CAJ,ACT-005,6506,Cobro de cheques,transacción,3.567,4,S,1823.9417,151.9951,0.6954,10
+AG-QMA,CAR-CAJ,ACT-006,27771,Pago del Bono de Desarrollo Humano,transacción,8.331,9,S,3333.4534,277.7878,1.3184,10
+AG-QNO,CAR-CAJ,ACT-006,18066,Pago del Bono de Desarrollo Humano,transacción,6.042,7,S,2990.0695,249.1725,1.1826,10
+AG-IBA,CAR-CAJ,ACT-006,11749,Pago del Bono de Desarrollo Humano,transacción,4.3185,5,S,2720.6206,226.7184,1.076,10
+AG-LAT,CAR-CAJ,ACT-006,8938,Pago del Bono de Desarrollo Humano,transacción,3.2965,4,S,2711.3605,225.9467,1.0724,10
+AG-VCH,CAR-CAJ,ACT-006,11266,Pago del Bono de Desarrollo Humano,transacción,4.303,5,S,2618.1734,218.1811,1.0355,10
+AG-RIO,CAR-CAJ,ACT-006,10421,Pago del Bono de Desarrollo Humano,transacción,4.2735,5,S,2438.5164,203.2097,0.9645,10
+AG-QSU,CAR-CAJ,ACT-006,12581,Pago del Bono de Desarrollo Humano,transacción,5.2375,6,S,2402.1002,200.175,0.9501,10
+AG-AMB,CAR-CAJ,ACT-006,12428,Pago del Bono de Desarrollo Humano,transacción,5.283,6,S,2352.4513,196.0376,0.9304,10
+AG-CUM,CAR-CAJ,ACT-006,7357,Pago del Bono de Desarrollo Humano,transacción,3.5935,4,S,2047.3076,170.609,0.8097,10
+AG-OTA,CAR-CAJ,ACT-006,6494,Pago del Bono de Desarrollo Humano,transacción,3.567,4,S,1820.5775,151.7148,0.7201,10
+AG-QMA,CAR-CAJ,ACT-007,4228,Cuadre y cierre de caja diario,cierre,8.331,9,S,507.5021,42.2918,1.3466,10
+AG-QNO,CAR-CAJ,ACT-007,2661,Cuadre y cierre de caja diario,cierre,6.042,7,S,440.4171,36.7014,1.1686,10
+AG-LAT,CAR-CAJ,ACT-007,1314,Cuadre y cierre de caja diario,cierre,3.2965,4,S,398.6046,33.217,1.0576,10
+AG-IBA,CAR-CAJ,ACT-007,1719,Cuadre y cierre de caja diario,cierre,4.3185,5,S,398.0549,33.1712,1.0562,10
+AG-VCH,CAR-CAJ,ACT-007,1665,Cuadre y cierre de caja diario,cierre,4.303,5,S,386.9393,32.2449,1.0267,10
+AG-AMB,CAR-CAJ,ACT-007,1938,Cuadre y cierre de caja diario,cierre,5.283,6,S,366.837,30.5698,0.9733,10
+AG-RIO,CAR-CAJ,ACT-007,1559,Cuadre y cierre de caja diario,cierre,4.2735,5,S,364.8064,30.4005,0.9679,10
+AG-QSU,CAR-CAJ,ACT-007,1848,Cuadre y cierre de caja diario,cierre,5.2375,6,S,352.8401,29.4033,0.9362,10
+AG-CUM,CAR-CAJ,ACT-007,1052,Cuadre y cierre de caja diario,cierre,3.5935,4,S,292.7508,24.3959,0.7768,10
+AG-OTA,CAR-CAJ,ACT-007,970,Cuadre y cierre de caja diario,cierre,3.567,4,S,271.9372,22.6614,0.7215,10
+AG-QMA,CAR-ASV,ACT-010,4888,Apertura de cuenta de ahorros,cuenta,6.247,7,S,782.4556,65.2046,1.1867,10
+AG-CUM,CAR-ASV,ACT-010,1811,Apertura de cuenta de ahorros,cuenta,2.664,3,S,679.8048,56.6504,1.031,10
+AG-AMB,CAR-ASV,ACT-010,2916,Apertura de cuenta de ahorros,cuenta,4.326,5,S,674.0638,56.172,1.0223,10
+AG-RIO,CAR-ASV,ACT-010,1836,Apertura de cuenta de ahorros,cuenta,2.725,3,S,673.7615,56.1468,1.0218,10
+AG-LAT,CAR-ASV,ACT-010,1785,Apertura de cuenta de ahorros,cuenta,2.6775,3,S,666.6667,55.5556,1.0111,10
+AG-QNO,CAR-ASV,ACT-010,2908,Apertura de cuenta de ahorros,cuenta,4.4595,5,S,652.091,54.3409,0.9889,10
+AG-VCH,CAR-ASV,ACT-010,2308,Apertura de cuenta de ahorros,cuenta,3.6025,4,S,640.6662,53.3889,0.9716,10
+AG-IBA,CAR-ASV,ACT-010,2279,Apertura de cuenta de ahorros,cuenta,3.561,4,S,639.9888,53.3324,0.9706,10
+AG-QSU,CAR-ASV,ACT-010,2808,Apertura de cuenta de ahorros,cuenta,4.472,5,S,627.907,52.3256,0.9523,10
+AG-OTA,CAR-ASV,ACT-010,1361,Apertura de cuenta de ahorros,cuenta,2.722,3,S,500.0,41.6667,0.7583,10
+AG-QMA,CAR-ASV,ACT-011,1006,Apertura de cuenta corriente,cuenta,6.247,7,S,161.0373,13.4198,1.243,10
+AG-RIO,CAR-ASV,ACT-011,369,Apertura de cuenta corriente,cuenta,2.725,3,S,135.4128,11.2844,1.0452,10
+AG-LAT,CAR-ASV,ACT-011,358,Apertura de cuenta corriente,cuenta,2.6775,3,S,133.7068,11.1422,1.032,10
+AG-CUM,CAR-ASV,ACT-011,356,Apertura de cuenta corriente,cuenta,2.664,3,S,133.6336,11.1361,1.0315,10
+AG-AMB,CAR-ASV,ACT-011,568,Apertura de cuenta corriente,cuenta,4.326,5,S,131.2991,10.9416,1.0134,10
+AG-QNO,CAR-ASV,ACT-011,570,Apertura de cuenta corriente,cuenta,4.4595,5,S,127.817,10.6514,0.9866,10
+AG-IBA,CAR-ASV,ACT-011,453,Apertura de cuenta corriente,cuenta,3.561,4,S,127.2115,10.601,0.9819,10
+AG-QSU,CAR-ASV,ACT-011,565,Apertura de cuenta corriente,cuenta,4.472,5,S,126.3417,10.5285,0.9752,10
+AG-VCH,CAR-ASV,ACT-011,455,Apertura de cuenta corriente,cuenta,3.6025,4,S,126.3012,10.5251,0.9749,10
+AG-OTA,CAR-ASV,ACT-011,271,Apertura de cuenta corriente,cuenta,2.722,3,S,99.5591,8.2966,0.7685,10
+AG-QMA,CAR-ASV,ACT-012,8104,Entrega y activación de tarjeta de débito,tarjeta,6.247,7,S,1297.2627,108.1052,1.2102,10
+AG-CUM,CAR-ASV,ACT-012,2976,Entrega y activación de tarjeta de débito,tarjeta,2.664,3,S,1117.1171,93.0931,1.0421,10
+AG-LAT,CAR-ASV,ACT-012,2981,Entrega y activación de tarjeta de débito,tarjeta,2.6775,3,S,1113.352,92.7793,1.0386,10
+AG-RIO,CAR-ASV,ACT-012,3017,Entrega y activación de tarjeta de débito,tarjeta,2.725,3,S,1107.156,92.263,1.0328,10
+AG-IBA,CAR-ASV,ACT-012,3824,Entrega y activación de tarjeta de débito,tarjeta,3.561,4,S,1073.8557,89.488,1.0018,10
+AG-AMB,CAR-ASV,ACT-012,4629,Entrega y activación de tarjeta de débito,tarjeta,4.326,5,S,1070.0416,89.1701,0.9982,10
+AG-VCH,CAR-ASV,ACT-012,3851,Entrega y activación de tarjeta de débito,tarjeta,3.6025,4,S,1068.9799,89.0817,0.9972,10
+AG-QNO,CAR-ASV,ACT-012,4750,Entrega y activación de tarjeta de débito,tarjeta,4.4595,5,S,1065.1418,88.7618,0.9937,10
+AG-QSU,CAR-ASV,ACT-012,4651,Entrega y activación de tarjeta de débito,tarjeta,4.472,5,S,1040.0268,86.6689,0.9702,10
+AG-OTA,CAR-ASV,ACT-012,2315,Entrega y activación de tarjeta de débito,tarjeta,2.722,3,S,850.4776,70.8731,0.7934,10
+AG-QMA,CAR-ASV,ACT-013,9600,Actualización de datos del cliente (KYC),actualización,6.247,7,S,1536.7376,128.0615,1.2162,10
+AG-CUM,CAR-ASV,ACT-013,3503,Actualización de datos del cliente (KYC),actualización,2.664,3,S,1314.9399,109.5783,1.0407,10
+AG-LAT,CAR-ASV,ACT-013,3488,Actualización de datos del cliente (KYC),actualización,2.6775,3,S,1302.7077,108.559,1.031,10
+AG-AMB,CAR-ASV,ACT-013,5595,Actualización de datos del cliente (KYC),actualización,4.326,5,S,1293.3426,107.7785,1.0236,10
+AG-RIO,CAR-ASV,ACT-013,3491,Actualización de datos del cliente (KYC),actualización,2.725,3,S,1281.1009,106.7584,1.0139,10
+AG-IBA,CAR-ASV,ACT-013,4437,Actualización de datos del cliente (KYC),actualización,3.561,4,S,1245.9983,103.8332,0.9861,10
+AG-QNO,CAR-ASV,ACT-013,5553,Actualización de datos del cliente (KYC),actualización,4.4595,5,S,1245.2069,103.7672,0.9855,10
+AG-VCH,CAR-ASV,ACT-013,4453,Actualización de datos del cliente (KYC),actualización,3.6025,4,S,1236.0861,103.0072,0.9783,10
+AG-QSU,CAR-ASV,ACT-013,5517,Actualización de datos del cliente (KYC),actualización,4.472,5,S,1233.6762,102.8064,0.9764,10
+AG-OTA,CAR-ASV,ACT-013,2699,Actualización de datos del cliente (KYC),actualización,2.722,3,S,991.5503,82.6292,0.7847,10
+AG-QMA,CAR-ASV,ACT-014,10946,Emisión de certificados y estados de cuenta,certificado,6.247,7,S,1752.2011,146.0168,1.198,10
+AG-CUM,CAR-ASV,ACT-014,4031,Emisión de certificados y estados de cuenta,certificado,2.664,3,S,1513.1381,126.0948,1.0345,10
+AG-LAT,CAR-ASV,ACT-014,4017,Emisión de certificados y estados de cuenta,certificado,2.6775,3,S,1500.2801,125.0233,1.0257,10
+AG-RIO,CAR-ASV,ACT-014,4024,Emisión de certificados y estados de cuenta,certificado,2.725,3,S,1476.6972,123.0581,1.0096,10
+AG-AMB,CAR-ASV,ACT-014,6358,Emisión de certificados y estados de cuenta,certificado,4.326,5,S,1469.718,122.4765,1.0048,10
+AG-QNO,CAR-ASV,ACT-014,6491,Emisión de certificados y estados de cuenta,certificado,4.4595,5,S,1455.5443,121.2954,0.9952,10
+AG-IBA,CAR-ASV,ACT-014,5064,Emisión de certificados y estados de cuenta,certificado,3.561,4,S,1422.0725,118.506,0.9723,10
+AG-VCH,CAR-ASV,ACT-014,5048,Emisión de certificados y estados de cuenta,certificado,3.6025,4,S,1401.2491,116.7708,0.958,10
+AG-QSU,CAR-ASV,ACT-014,6224,Emisión de certificados y estados de cuenta,certificado,4.472,5,S,1391.771,115.9809,0.9516,10
+AG-OTA,CAR-ASV,ACT-014,3045,Emisión de certificados y estados de cuenta,certificado,2.722,3,S,1118.6627,93.2219,0.7648,10
+AG-QMA,CAR-ASV,ACT-015,6173,Registro de reclamos en agencia,reclamo,6.247,7,S,988.1543,82.3462,1.1874,10
+AG-CUM,CAR-ASV,ACT-015,2355,Registro de reclamos en agencia,reclamo,2.664,3,S,884.009,73.6674,1.0622,10
+AG-RIO,CAR-ASV,ACT-015,2293,Registro de reclamos en agencia,reclamo,2.725,3,S,841.4679,70.1223,1.0111,10
+AG-AMB,CAR-ASV,ACT-015,3640,Registro de reclamos en agencia,reclamo,4.326,5,S,841.4239,70.1187,1.0111,10
+AG-LAT,CAR-ASV,ACT-015,2246,Registro de reclamos en agencia,reclamo,2.6775,3,S,838.8422,69.9035,1.008,10
+AG-QSU,CAR-ASV,ACT-015,3692,Registro de reclamos en agencia,reclamo,4.472,5,S,825.5814,68.7984,0.992,10
+AG-QNO,CAR-ASV,ACT-015,3668,Registro de reclamos en agencia,reclamo,4.4595,5,S,822.5137,68.5428,0.9883,10
+AG-VCH,CAR-ASV,ACT-015,2959,Registro de reclamos en agencia,reclamo,3.6025,4,S,821.374,68.4478,0.987,10
+AG-IBA,CAR-ASV,ACT-015,2899,Registro de reclamos en agencia,reclamo,3.561,4,S,814.0972,67.8414,0.9782,10
+AG-OTA,CAR-ASV,ACT-015,1768,Registro de reclamos en agencia,reclamo,2.722,3,S,649.5224,54.1269,0.7805,10
+AG-QMA,CAR-ASV,ACT-016,12528,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,6.247,7,S,2005.4426,167.1202,1.1967,10
+AG-CUM,CAR-ASV,ACT-016,4631,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,2.664,3,S,1738.3634,144.8636,1.0373,10
+AG-RIO,CAR-ASV,ACT-016,4719,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,2.725,3,S,1731.7431,144.3119,1.0333,10
+AG-AMB,CAR-ASV,ACT-016,7384,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,4.326,5,S,1706.8886,142.2407,1.0185,10
+AG-LAT,CAR-ASV,ACT-016,4490,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,2.6775,3,S,1676.9374,139.7448,1.0006,10
+AG-IBA,CAR-ASV,ACT-016,5964,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,3.561,4,S,1674.8104,139.5675,0.9994,10
+AG-QNO,CAR-ASV,ACT-016,7464,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,4.4595,5,S,1673.7302,139.4775,0.9987,10
+AG-VCH,CAR-ASV,ACT-016,5901,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,3.6025,4,S,1638.0291,136.5024,0.9774,10
+AG-QSU,CAR-ASV,ACT-016,7186,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,4.472,5,S,1606.8873,133.9073,0.9588,10
+AG-OTA,CAR-ASV,ACT-016,3477,"Bloqueo, desbloqueo y reseteo de claves de banca digital",solicitud,2.722,3,S,1277.3696,106.4475,0.7622,10
+AG-AMB,CAR-ANG,ACT-020,1924,Asesoría y solicitud de crédito de consumo,solicitud,3.6175,4,S,531.859,44.3216,1.1927,10
+AG-QNO,CAR-ANG,ACT-020,2107,Asesoría y solicitud de crédito de consumo,solicitud,4.4915,5,S,469.1083,39.0924,1.0519,10
+AG-QMA,CAR-ANG,ACT-020,2872,Asesoría y solicitud de crédito de consumo,solicitud,6.232,7,S,460.8472,38.4039,1.0334,10
+AG-VCH,CAR-ANG,ACT-020,1593,Asesoría y solicitud de crédito de consumo,solicitud,3.4595,4,S,460.4712,38.3726,1.0326,10
+AG-CUM,CAR-ANG,ACT-020,1652,Asesoría y solicitud de crédito de consumo,solicitud,3.6375,4,S,454.1581,37.8465,1.0184,10
+AG-RIO,CAR-ANG,ACT-020,1566,Asesoría y solicitud de crédito de consumo,solicitud,3.5775,4,S,437.7358,36.478,0.9816,10
+AG-IBA,CAR-ANG,ACT-020,1554,Asesoría y solicitud de crédito de consumo,solicitud,3.601,4,S,431.5468,35.9622,0.9677,10
+AG-QSU,CAR-ANG,ACT-020,1901,Asesoría y solicitud de crédito de consumo,solicitud,4.4815,5,S,424.1883,35.349,0.9512,10
+AG-LAT,CAR-ANG,ACT-020,1514,Asesoría y solicitud de crédito de consumo,solicitud,3.595,4,S,421.1405,35.095,0.9444,10
+AG-OTA,CAR-ANG,ACT-020,726,Asesoría y solicitud de crédito de consumo,solicitud,1.807,2,N,401.7709,33.4809,0.9009,10
+AG-AMB,CAR-ANG,ACT-021,813,Solicitud de microcrédito con evaluación en campo,solicitud,3.6175,4,S,224.7408,18.7284,1.1866,10
+AG-QNO,CAR-ANG,ACT-021,899,Solicitud de microcrédito con evaluación en campo,solicitud,4.4915,5,S,200.1558,16.6797,1.0568,10
+AG-QMA,CAR-ANG,ACT-021,1224,Solicitud de microcrédito con evaluación en campo,solicitud,6.232,7,S,196.4056,16.3671,1.037,10
+AG-VCH,CAR-ANG,ACT-021,671,Solicitud de microcrédito con evaluación en campo,solicitud,3.4595,4,S,193.9587,16.1632,1.0241,10
+AG-CUM,CAR-ANG,ACT-021,692,Solicitud de microcrédito con evaluación en campo,solicitud,3.6375,4,S,190.2405,15.8534,1.0044,10
+AG-IBA,CAR-ANG,ACT-021,679,Solicitud de microcrédito con evaluación en campo,solicitud,3.601,4,S,188.5587,15.7132,0.9956,10
+AG-RIO,CAR-ANG,ACT-021,670,Solicitud de microcrédito con evaluación en campo,solicitud,3.5775,4,S,187.2816,15.6068,0.9888,10
+AG-QSU,CAR-ANG,ACT-021,818,Solicitud de microcrédito con evaluación en campo,solicitud,4.4815,5,S,182.5282,15.2107,0.9637,10
+AG-LAT,CAR-ANG,ACT-021,643,Solicitud de microcrédito con evaluación en campo,solicitud,3.595,4,S,178.8595,14.905,0.9443,10
+AG-OTA,CAR-ANG,ACT-021,313,Solicitud de microcrédito con evaluación en campo,solicitud,1.807,2,N,173.2153,14.4346,0.9145,10
+AG-AMB,CAR-ANG,ACT-022,1501,Apertura de depósito a plazo fijo,póliza,3.6175,4,S,414.9274,34.5773,1.1753,10
+AG-VCH,CAR-ANG,ACT-022,1301,Apertura de depósito a plazo fijo,póliza,3.4595,4,S,376.0659,31.3388,1.0652,10
+AG-QNO,CAR-ANG,ACT-022,1652,Apertura de depósito a plazo fijo,póliza,4.4915,5,S,367.8059,30.6505,1.0418,10
+AG-QMA,CAR-ANG,ACT-022,2277,Apertura de depósito a plazo fijo,póliza,6.232,7,S,365.3723,30.4477,1.0349,10
+AG-CUM,CAR-ANG,ACT-022,1327,Apertura de depósito a plazo fijo,póliza,3.6375,4,S,364.811,30.4009,1.0333,10
+AG-IBA,CAR-ANG,ACT-022,1229,Apertura de depósito a plazo fijo,póliza,3.601,4,S,341.2941,28.4412,0.9667,10
+AG-RIO,CAR-ANG,ACT-022,1219,Apertura de depósito a plazo fijo,póliza,3.5775,4,S,340.7407,28.3951,0.9651,10
+AG-QSU,CAR-ANG,ACT-022,1518,Apertura de depósito a plazo fijo,póliza,4.4815,5,S,338.7259,28.2272,0.9594,10
+AG-LAT,CAR-ANG,ACT-022,1192,Apertura de depósito a plazo fijo,póliza,3.595,4,S,331.5716,27.631,0.9392,10
+AG-OTA,CAR-ANG,ACT-022,577,Apertura de depósito a plazo fijo,póliza,1.807,2,N,319.3138,26.6095,0.9044,10
+AG-AMB,CAR-ANG,ACT-023,1778,Venta de tarjeta de crédito,solicitud,3.6175,4,S,491.4997,40.9583,1.1586,10
+AG-CUM,CAR-ANG,ACT-023,1607,Venta de tarjeta de crédito,solicitud,3.6375,4,S,441.7869,36.8156,1.0414,10
+AG-QMA,CAR-ANG,ACT-023,2748,Venta de tarjeta de crédito,solicitud,6.232,7,S,440.9499,36.7458,1.0395,10
+AG-QNO,CAR-ANG,ACT-023,1957,Venta de tarjeta de crédito,solicitud,4.4915,5,S,435.7119,36.3093,1.0271,10
+AG-VCH,CAR-ANG,ACT-023,1501,Venta de tarjeta de crédito,solicitud,3.4595,4,S,433.8777,36.1565,1.0228,10
+AG-RIO,CAR-ANG,ACT-023,1483,Venta de tarjeta de crédito,solicitud,3.5775,4,S,414.5353,34.5446,0.9772,10
+AG-IBA,CAR-ANG,ACT-023,1488,Venta de tarjeta de crédito,solicitud,3.601,4,S,413.2186,34.4349,0.9741,10
+AG-LAT,CAR-ANG,ACT-023,1453,Venta de tarjeta de crédito,solicitud,3.595,4,S,404.1725,33.681,0.9528,10
+AG-QSU,CAR-ANG,ACT-023,1783,Venta de tarjeta de crédito,solicitud,4.4815,5,S,397.8579,33.1548,0.9379,10
+AG-OTA,CAR-ANG,ACT-023,695,Venta de tarjeta de crédito,solicitud,1.807,2,N,384.6154,32.0513,0.9067,10
+AG-AMB,CAR-ANG,ACT-024,818,Visita comercial a cliente,visita,3.6175,4,S,226.123,18.8436,1.1531,10
+AG-QNO,CAR-ANG,ACT-024,918,Visita comercial a cliente,visita,4.4915,5,S,204.3861,17.0322,1.0423,10
+AG-CUM,CAR-ANG,ACT-024,729,Visita comercial a cliente,visita,3.6375,4,S,200.4124,16.701,1.022,10
+AG-QMA,CAR-ANG,ACT-024,1247,Visita comercial a cliente,visita,6.232,7,S,200.0963,16.6747,1.0204,10
+AG-RIO,CAR-ANG,ACT-024,703,Visita comercial a cliente,visita,3.5775,4,S,196.5059,16.3755,1.0021,10
+AG-VCH,CAR-ANG,ACT-024,677,Visita comercial a cliente,visita,3.4595,4,S,195.693,16.3078,0.9979,10
+AG-QSU,CAR-ANG,ACT-024,837,Visita comercial a cliente,visita,4.4815,5,S,186.7678,15.564,0.9524,10
+AG-IBA,CAR-ANG,ACT-024,661,Visita comercial a cliente,visita,3.601,4,S,183.5601,15.2967,0.9361,10
+AG-LAT,CAR-ANG,ACT-024,649,Visita comercial a cliente,visita,3.595,4,S,180.5285,15.044,0.9206,10
+AG-OTA,CAR-ANG,ACT-024,316,Visita comercial a cliente,visita,1.807,2,N,174.8755,14.573,0.8918,10
+AG-AMB,CAR-ANG,ACT-025,6609,Seguimiento de cartera y cobranza temprana,gestión,3.6175,4,S,1826.9523,152.246,1.1806,10
+AG-QNO,CAR-ANG,ACT-025,7315,Seguimiento de cartera y cobranza temprana,gestión,4.4915,5,S,1628.6319,135.7193,1.0524,10
+AG-VCH,CAR-ANG,ACT-025,5549,Seguimiento de cartera y cobranza temprana,gestión,3.4595,4,S,1603.989,133.6658,1.0365,10
+AG-CUM,CAR-ANG,ACT-025,5821,Seguimiento de cartera y cobranza temprana,gestión,3.6375,4,S,1600.2749,133.3562,1.0341,10
+AG-QMA,CAR-ANG,ACT-025,9960,Seguimiento de cartera y cobranza temprana,gestión,6.232,7,S,1598.2028,133.1836,1.0327,10
+AG-RIO,CAR-ANG,ACT-025,5355,Seguimiento de cartera y cobranza temprana,gestión,3.5775,4,S,1496.8553,124.7379,0.9673,10
+AG-IBA,CAR-ANG,ACT-025,5386,Seguimiento de cartera y cobranza temprana,gestión,3.601,4,S,1495.6956,124.6413,0.9665,10
+AG-LAT,CAR-ANG,ACT-025,5323,Seguimiento de cartera y cobranza temprana,gestión,3.595,4,S,1480.6676,123.389,0.9568,10
+AG-QSU,CAR-ANG,ACT-025,6568,Seguimiento de cartera y cobranza temprana,gestión,4.4815,5,S,1465.5807,122.1317,0.947,10
+AG-OTA,CAR-ANG,ACT-025,2587,Seguimiento de cartera y cobranza temprana,gestión,1.807,2,N,1431.6547,119.3046,0.9251,10
+AG-QSU,CAR-JAG,ACT-032,1234,Atención de casos escalados de clientes,caso,0.895,1,N,1378.7709,114.8976,1.0627,10
+AG-AMB,CAR-JAG,ACT-032,1207,Atención de casos escalados de clientes,caso,0.888,1,N,1359.2342,113.2695,1.0476,10
+AG-QNO,CAR-JAG,ACT-032,1205,Atención de casos escalados de clientes,caso,0.907,1,N,1328.5557,110.713,1.024,10
+AG-LAT,CAR-JAG,ACT-032,1180,Atención de casos escalados de clientes,caso,0.902,1,N,1308.204,109.017,1.0083,10
+AG-QMA,CAR-JAG,ACT-032,1166,Atención de casos escalados de clientes,caso,0.894,1,N,1304.2506,108.6875,1.0052,10
+AG-OTA,CAR-JAG,ACT-032,1179,Atención de casos escalados de clientes,caso,0.9135,1,N,1290.6404,107.5534,0.9948,10
+AG-IBA,CAR-JAG,ACT-032,1141,Atención de casos escalados de clientes,caso,0.9035,1,N,1262.8666,105.2389,0.9733,10
+AG-CUM,CAR-JAG,ACT-032,1141,Atención de casos escalados de clientes,caso,0.912,1,N,1251.0965,104.258,0.9643,10
+AG-RIO,CAR-JAG,ACT-032,1053,Atención de casos escalados de clientes,caso,0.885,1,N,1189.8305,99.1525,0.9171,10
+AG-VCH,CAR-JAG,ACT-032,1062,Atención de casos escalados de clientes,caso,0.916,1,N,1159.3886,96.6157,0.8936,10
+AG-IBA,CAR-SOP,ACT-033,7177,Aprobaciones y autorizaciones operativas,autorización,0.676,1,N,10616.8639,884.7387,1.383,8
+AG-AMB,CAR-SOP,ACT-033,7106,Aprobaciones y autorizaciones operativas,autorización,0.905,1,N,7851.9337,654.3278,1.0228,8
+AG-QNO,CAR-SOP,ACT-033,7156,Aprobaciones y autorizaciones operativas,autorización,0.914,1,N,7829.3217,652.4435,1.0199,8
+AG-QSU,CAR-SOP,ACT-033,7028,Aprobaciones y autorizaciones operativas,autorización,0.8995,1,N,7813.2296,651.1025,1.0178,8
+AG-RIO,CAR-SOP,ACT-033,6809,Aprobaciones y autorizaciones operativas,autorización,0.903,1,N,7540.4208,628.3684,0.9822,8
+AG-QMA,CAR-SOP,ACT-033,6529,Aprobaciones y autorizaciones operativas,autorización,0.896,1,N,7286.8304,607.2359,0.9492,8
+AG-CUM,CAR-SOP,ACT-033,6425,Aprobaciones y autorizaciones operativas,autorización,0.884,1,N,7268.0995,605.675,0.9468,8
+AG-VCH,CAR-SOP,ACT-033,6314,Aprobaciones y autorizaciones operativas,autorización,0.91,1,N,6938.4615,578.2051,0.9038,8
+AG-IBA,CAR-SOP,ACT-034,535,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.676,1,N,791.4201,65.9517,1.4138,8
+AG-AMB,CAR-SOP,ACT-034,529,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.905,1,N,584.5304,48.7109,1.0442,8
+AG-QNO,CAR-SOP,ACT-034,518,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.914,1,N,566.7396,47.2283,1.0124,8
+AG-QSU,CAR-SOP,ACT-034,504,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.8995,1,N,560.3113,46.6926,1.001,8
+AG-RIO,CAR-SOP,ACT-034,505,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.903,1,N,559.247,46.6039,0.999,8
+AG-CUM,CAR-SOP,ACT-034,488,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.884,1,N,552.0362,46.003,0.9862,8
+AG-QMA,CAR-SOP,ACT-034,474,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.896,1,N,529.0179,44.0848,0.945,8
+AG-VCH,CAR-SOP,ACT-034,457,"Arqueo, control de bóveda y abastecimiento de efectivo",arqueo,0.91,1,N,502.1978,41.8498,0.8971,8
+AG-IBA,CAR-SOP,ACT-035,10421,Apoyo en caja en horas pico,transacción,0.676,1,N,15415.6805,1284.64,1.3913,8
+AG-AMB,CAR-SOP,ACT-035,10399,Apoyo en caja en horas pico,transacción,0.905,1,N,11490.6077,957.5506,1.037,8
+AG-QSU,CAR-SOP,ACT-035,10195,Apoyo en caja en horas pico,transacción,0.8995,1,N,11334.0745,944.5062,1.0229,8
+AG-QNO,CAR-SOP,ACT-035,10212,Apoyo en caja en horas pico,transacción,0.914,1,N,11172.8665,931.0722,1.0084,8
+AG-RIO,CAR-SOP,ACT-035,9922,Apoyo en caja en horas pico,transacción,0.903,1,N,10987.8184,915.6515,0.9916,8
+AG-QMA,CAR-SOP,ACT-035,9404,Apoyo en caja en horas pico,transacción,0.896,1,N,10495.5357,874.628,0.9472,8
+AG-CUM,CAR-SOP,ACT-035,9200,Apoyo en caja en horas pico,transacción,0.884,1,N,10407.2398,867.27,0.9393,8
+AG-VCH,CAR-SOP,ACT-035,9095,Apoyo en caja en horas pico,transacción,0.91,1,N,9994.5055,832.8755,0.902,8
+GER-RAS,CAR-AGE,ACT-043,866,Consolidación de reportes de gestión,reporte,0.901,1,N,961.1543,80.0962,1.0073,2
+GER-OPC,CAR-AGE,ACT-043,860,Consolidación de reportes de gestión,reporte,0.908,1,N,947.1366,78.928,0.9927,2
+DEP-PAG,CAR-ANO,ACT-050,136328,Revisión manual de transferencias interbancarias SPI observadas,transferencia,12.5895,14,S,10828.7065,902.3922,1.0,1
+DEP-PAG,CAR-ANO,ACT-051,20155,Gestión de transferencias rechazadas y devoluciones,caso,12.5895,14,S,1600.9373,133.4114,1.0,1
+DEP-PAG,CAR-ANO,ACT-052,8435,Procesamiento de pagos masivos a proveedores (cash management),lote,12.5895,14,S,670.0028,55.8336,1.0,1
+DEP-PAG,CAR-ANO,ACT-053,6018,Procesamiento de pagos de nómina de empresas,lote,12.5895,14,S,478.0174,39.8348,1.0,1
+DEP-PAG,CAR-ASR,ACT-054,1145,Conciliación diaria SPI y cuentas puente,conciliación,2.669,3,S,428.9996,35.75,1.0,1
+DEP-PAG,CAR-AST,ACT-055,20079,Atención de requerimientos de agencias y clientes corporativos,requerimiento,3.6055,4,S,5568.9918,464.0827,1.0,1
+DEP-PAG,CAR-AST,ACT-056,66632,Archivo y digitalización de soportes,soporte,3.6055,4,S,18480.6546,1540.0545,1.0,1
+DEP-CTA,CAR-ANO,ACT-060,42140,Verificación documental de aperturas de cuenta,expediente,15.371,18,S,2741.5263,228.4605,1.0,1
+DEP-CTA,CAR-ANO,ACT-061,57632,Validación en listas restrictivas y debida diligencia,consulta,15.371,18,S,3749.3982,312.4499,1.0,1
+DEP-CTA,CAR-ANO,ACT-062,14837,Procesamiento de embargos y retenciones judiciales,oficio,15.371,18,S,965.2593,80.4383,1.0,1
+DEP-CTA,CAR-ASR,ACT-063,1680,Respuesta a requerimientos de organismos de control y autoridades,requerimiento,1.8025,2,N,932.0388,77.6699,1.0,1
+DEP-CTA,CAR-ANO,ACT-064,15367,Cierre y cancelación de cuentas,cuenta,15.371,18,S,999.7398,83.3116,1.0,1
+DEP-CTA,CAR-ANO,ACT-065,26624,Gestión de cuentas inactivas,cuenta,15.371,18,S,1732.0929,144.3411,1.0,1
+DEP-CTA,CAR-AST,ACT-066,64740,Archivo y custodia de expedientes,expediente,4.495,5,S,14402.6696,1200.2225,1.0,1
+DEP-CTA,CAR-AST,ACT-067,84771,Ingreso de actualizaciones masivas,registro,4.495,5,S,18858.9544,1571.5795,1.0,1
+DEP-CTA,CAR-ASR,ACT-068,10313,Revisión de calidad de expedientes (muestreo),expediente,1.8025,2,N,5721.4979,476.7915,1.0,1
+DEP-OCR,CAR-ANO,ACT-070,10163,Revisión y validación de expedientes de crédito,expediente,12.3995,14,S,819.6298,68.3025,1.0,1
+DEP-OCR,CAR-ANO,ACT-071,17927,Desembolso de operaciones de crédito,operación,12.3995,14,S,1445.7841,120.482,1.0,1
+DEP-OCR,CAR-ANO,ACT-072,2988,Constitución y registro de garantías (hipotecas y prendas),garantía,12.3995,14,S,240.9775,20.0815,1.0,1
+DEP-OCR,CAR-ANO,ACT-073,4610,Cancelación de créditos y levantamiento de garantías,operación,12.3995,14,S,371.7892,30.9824,1.0,1
+DEP-OCR,CAR-ANO,ACT-074,10682,Registro de novedades y reestructuraciones,novedad,12.3995,14,S,861.4864,71.7905,1.0,1
+DEP-OCR,CAR-ASR,ACT-076,6993,Seguimiento de documentación pendiente con agencias,caso,2.688,3,S,2601.5625,216.7969,1.0,1
+DEP-OCR,CAR-AST,ACT-077,57544,Archivo de pagarés y expedientes,expediente,2.6215,3,S,21950.7915,1829.2326,1.0,1
+DEP-TAR,CAR-ANO,ACT-080,11678,Gestión de contracargos con marcas,caso,10.3175,11,S,1131.8633,94.3219,1.0,1
+DEP-TAR,CAR-ANO,ACT-081,19640,Resolución de reclamos de tarjetas,reclamo,10.3175,11,S,1903.5619,158.6302,1.0,1
+DEP-TAR,CAR-AST,ACT-082,24600,Emisión y reposición de tarjetas,tarjeta,2.682,3,S,9172.2595,764.355,1.0,1
+DEP-TAR,CAR-ANO,ACT-084,43868,Análisis de alertas de posible fraude,alerta,10.3175,11,S,4251.8052,354.3171,1.0,1
+DEP-TAR,CAR-AST,ACT-085,9985,Distribución de tarjetas a agencias,envío,2.682,3,S,3722.9679,310.2473,1.0,1
+DEP-TAR,CAR-ASR,ACT-086,1367,Respuesta a reclamos en segunda instancia (organismo de control),caso,1.7935,2,N,762.1968,63.5164,1.0,1
+DEP-CAM,CAR-ANO,ACT-090,155113,Procesamiento de cheques en cámara de compensación,cheque,7.162,8,S,21657.7772,1804.8148,1.0,1
+DEP-CAM,CAR-ANO,ACT-091,11025,Gestión de cheques devueltos y protestos,cheque,7.162,8,S,1539.3745,128.2812,1.0,1
+DEP-CAM,CAR-ANO,ACT-092,10455,Custodia y control de valores y garantías físicas,movimiento,7.162,8,S,1459.7878,121.649,1.0,1
+DEP-CAM,CAR-AST,ACT-093,9237,Clasificación y envío de valijas,valija,3.568,4,S,2588.8453,215.7371,1.0,1
+DEP-CAM,CAR-AST,ACT-094,134109,Digitalización de cheques,cheque,3.568,4,S,37586.6031,3132.2169,1.0,1
+DEP-CTA,CAR-JDP,ACT-099,1650,Atención de escalamientos y aprobaciones,caso,0.859,1,N,1920.8382,160.0698,1.055,5
+DEP-PAG,CAR-JDP,ACT-099,1599,Atención de escalamientos y aprobaciones,caso,0.858,1,N,1863.6364,155.303,1.0236,5
+DEP-TAR,CAR-JDP,ACT-099,1584,Atención de escalamientos y aprobaciones,caso,0.87,1,N,1820.6897,151.7241,1.0,5
+DEP-OCR,CAR-JDP,ACT-099,1543,Atención de escalamientos y aprobaciones,caso,0.854,1,N,1806.7916,150.566,0.9924,5
+DEP-CAM,CAR-JDP,ACT-099,1634,Atención de escalamientos y aprobaciones,caso,0.912,1,N,1791.6667,149.3056,0.9841,5
+DEP-CCT,CAR-ACC,ACT-100,322945,Atención de llamadas de consulta,llamada,24.725,30,S,13061.4762,1088.4564,1.0,1
+DEP-CCT,CAR-ACC,ACT-101,63185,Atención de reclamos telefónicos,llamada,24.725,30,S,2555.5106,212.9592,1.0,1
+DEP-CCT,CAR-ACC,ACT-102,60354,Bloqueo de tarjetas y reportes de fraude,llamada,24.725,30,S,2441.0111,203.4176,1.0,1
+DEP-CCT,CAR-ACC,ACT-103,77325,Atención por chat y WhatsApp,conversación,24.725,30,S,3127.4014,260.6168,1.0,1
+DEP-CCT,CAR-ACC,ACT-104,55175,Llamadas salientes de cobranza preventiva,llamada,24.725,30,S,2231.547,185.9623,1.0,1
+DEP-CCT,CAR-ACA,ACT-105,8066,Monitoreo y calibración de calidad de llamadas,evaluación,1.756,2,N,4593.3941,382.7828,1.0,1
+DEP-CCT,CAR-SCC,ACT-108,8427,Atención de llamadas escaladas,llamada,2.721,3,S,3097.0232,258.0853,1.0,1

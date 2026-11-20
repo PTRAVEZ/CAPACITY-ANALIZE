@@ -567,7 +567,7 @@ parametros = [
      "descripcion": "Utilización por encima de la cual una unidad-cargo se clasifica en Sobrecarga.", "aprobador_sugerido": "Comité de Capacity Management"},
     {"parametro_id": "PAR-005", "nombre": "umbral_subutilizacion", "valor": 0.80, "unidad": "utilización", "estado": "Aprobado (piloto)",
      "descripcion": "Utilización por debajo de la cual una unidad-cargo se clasifica en Holgura.", "aprobador_sugerido": "Comité de Capacity Management"},
-    {"parametro_id": "PAR-006", "nombre": "agregacion_minima_reporte", "valor": 3, "unidad": "personas", "estado": "Propuesto",
+    {"parametro_id": "PAR-006", "nombre": "agregacion_minima_reporte", "valor": 3, "unidad": "personas", "estado": "Aprobado (piloto)",
      "descripcion": "Número mínimo de personas en un grupo para mostrar indicadores sin exponer información individual.", "aprobador_sugerido": "Oficial de Protección de Datos"},
     {"parametro_id": "PAR-007", "nombre": "periodo_base_inicio", "valor": PERIODOS[0], "unidad": "AAAA-MM", "estado": "Supuesto", "descripcion": "Primer mes del período base.", "aprobador_sugerido": "Comité de Capacity Management"},
     {"parametro_id": "PAR-008", "nombre": "periodo_base_fin", "valor": PERIODOS[-1], "unidad": "AAAA-MM", "estado": "Supuesto", "descripcion": "Último mes del período base.", "aprobador_sugerido": "Comité de Capacity Management"},

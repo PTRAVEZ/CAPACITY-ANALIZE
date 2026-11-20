@@ -88,7 +88,81 @@ Total: **8,207 h** ≈ **4.6 FTE** si se eliminaran todos los reprocesos.
 
 Brecha de dotación positiva = exceso de FTE; negativa = faltante.
 
-## 8. Calidad de datos
+## 8. Indicadores complementarios (IND-17 a IND-20)
+
+### IND-18 · Meses pico por proceso (índice estacional > 1,10)
+
+| nombre_proceso | periodo | indice_estacional |
+|---|---|---|
+| Atención en caja | 2025-12 | 1.26 |
+| Cámara de compensación y valores | 2025-12 | 1.26 |
+| Atención telefónica y digital | 2025-12 | 1.18 |
+| Gestión de cuentas y cumplimiento | 2026-09 | 1.12 |
+| Dirección y gestión de gerencia | 2026-07 | 1.10 |
+| Negocios y colocación en agencia | 2025-12 | 1.14 |
+| Operaciones de crédito | 2025-12 | 1.19 |
+| Pagos y transferencias | 2025-12 | 1.28 |
+| Servicios al cliente en agencia | 2025-12 | 1.12 |
+| Tarjetas y reclamos | 2025-12 | 1.26 |
+| Tarjetas y reclamos | 2026-01 | 1.10 |
+
+### IND-19 · Dispersión de la utilización entre unidades del mismo cargo
+
+| gerencia_id | nombre_cargo | unidades | utilizacion_min | utilizacion_max | coef_variacion | carga_desigual |
+|---|---|---|---|---|---|---|
+| GER-OPC | Analista Operativo | 5 | 63% | 118% | 0.22 | S |
+| GER-RAS | Cajero | 10 | 70% | 130% | 0.18 | N |
+| GER-RAS | Supervisor Operativo de Agencia | 8 | 85% | 132% | 0.15 | N |
+| GER-OPC | Asistente Operativo | 5 | 71% | 104% | 0.15 | N |
+| GER-RAS | Asesor de Servicios | 10 | 72% | 112% | 0.10 | N |
+| GER-RAS | Asesor de Negocios | 10 | 87% | 113% | 0.07 | N |
+| GER-RAS | Jefe de Agencia | 10 | 85% | 101% | 0.05 | N |
+| GER-OPC | Analista Senior de Operaciones | 5 | 91% | 100% | 0.04 | N |
+| GER-OPC | Jefe de Departamento | 5 | 92% | 98% | 0.03 | N |
+
+### IND-20 · Pareto de causas de reproceso (clase A = ~80 % de las horas)
+
+| ranking | nombre_proceso | causa_principal | horas_reproceso | pct_acumulado |
+|---|---|---|---|---|
+| 1 | Negocios y colocación en agencia | Información de ingresos no verificable | 616 | 8% |
+| 2 | Servicios al cliente en agencia | Documentación incompleta | 608 | 15% |
+| 3 | Servicios al cliente en agencia | Firma no coincide | 577 | 22% |
+| 4 | Negocios y colocación en agencia | Documentación incompleta | 554 | 29% |
+| 5 | Negocios y colocación en agencia | Error en la simulación | 550 | 35% |
+| 6 | Servicios al cliente en agencia | Información inconsistente del cliente | 540 | 42% |
+| 7 | Gestión de cuentas y cumplimiento | Documentación incompleta desde agencia | 478 | 48% |
+| 8 | Gestión de cuentas y cumplimiento | Error en ficha del cliente | 467 | 53% |
+| 9 | Atención telefónica y digital | Información incorrecta al cliente | 414 | 59% |
+| 10 | Operaciones de crédito | Garantía sin inscripción | 399 | 63% |
+| 11 | Tarjetas y reclamos | Evidencia insuficiente | 308 | 67% |
+| 12 | Gestión de cuentas y cumplimiento | Oficio ilegible o incompleto | 253 | 70% |
+| 13 | Tarjetas y reclamos | Plazo de marca vencido | 241 | 73% |
+| 14 | Atención en caja | Reverso por cuenta errada | 229 | 76% |
+| 15 | Pagos y transferencias | Rechazo del sistema SPI | 226 | 79% |
+| 16 | Pagos y transferencias | Datos del beneficiario errados | 216 | 81% |
+
+
+16 de 28 combinaciones proceso-causa explican el 81% de las horas de reproceso.
+
+### IND-17 · Productividad por FTE: mayores diferencias entre unidades (actividad con ≥ 5 unidades)
+
+| nombre_actividad | unidad_id | productividad_mensual_por_fte | indice_vs_mediana_actividad |
+|---|---|---|---|
+| Cobro de cheques | AG-OTA | 152 | 0.70 |
+| Retiro en ventanilla | AG-OTA | 585 | 0.71 |
+| Pago de servicios básicos y recaudaciones | AG-OTA | 633 | 0.72 |
+| Depósito en efectivo o cheque | AG-OTA | 895 | 0.72 |
+| Pago del Bono de Desarrollo Humano | AG-OTA | 152 | 0.72 |
+| Retiro en ventanilla | AG-QMA | 1,122 | 1.37 |
+| Pago de impuestos SRI y matriculación vehicular | AG-QMA | 292 | 1.35 |
+| Cuadre y cierre de caja diario | AG-QMA | 42 | 1.35 |
+| Cobro de cheques | AG-QMA | 293 | 1.34 |
+| Pago de servicios básicos y recaudaciones | AG-QMA | 1,170 | 1.32 |
+
+
+La productividad se compara solo dentro de la misma actividad y cargo. Un índice alejado de 1 es una señal para revisar, no una evaluación individual.
+
+## 9. Calidad de datos
 
 | regla | severidad | registros |
 |---|---|---|

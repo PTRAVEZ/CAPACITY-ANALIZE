@@ -1,0 +1,29 @@
+ranking,proceso_id,nombre_proceso,causa_principal,cantidad_reprocesos,horas_reproceso,fte_potencialmente_liberable,pct,pct_acumulado,clase
+1,P-NEG,Negocios y colocación en agencia,Información de ingresos no verificable,1663.0,615.75,0.3421,0.075,0.075,A
+2,P-SER,Servicios al cliente en agencia,Documentación incompleta,3000.0,608.05,0.3378,0.0741,0.1491,A
+3,P-SER,Servicios al cliente en agencia,Firma no coincide,2902.0,577.2833,0.3207,0.0703,0.2195,A
+4,P-NEG,Negocios y colocación en agencia,Documentación incompleta,1551.0,553.75,0.3076,0.0675,0.2869,A
+5,P-NEG,Negocios y colocación en agencia,Error en la simulación,1518.0,549.5,0.3053,0.067,0.3539,A
+6,P-SER,Servicios al cliente en agencia,Información inconsistente del cliente,2875.0,539.9333,0.3,0.0658,0.4197,A
+7,P-CTA,Gestión de cuentas y cumplimiento,Documentación incompleta desde agencia,3264.0,477.8833,0.2655,0.0582,0.4779,A
+8,P-CTA,Gestión de cuentas y cumplimiento,Error en ficha del cliente,3769.0,467.4,0.2597,0.057,0.5349,A
+9,P-CCT,Atención telefónica y digital,Información incorrecta al cliente,4736.0,413.8,0.2299,0.0504,0.5853,A
+10,P-OCR,Operaciones de crédito,Garantía sin inscripción,1352.0,399.2,0.2218,0.0486,0.6339,A
+11,P-TAR,Tarjetas y reclamos,Evidencia insuficiente,1321.0,307.95,0.1711,0.0375,0.6715,A
+12,P-CTA,Gestión de cuentas y cumplimiento,Oficio ilegible o incompleto,3372.0,253.3833,0.1408,0.0309,0.7023,A
+13,P-TAR,Tarjetas y reclamos,Plazo de marca vencido,985.0,241.0,0.1339,0.0294,0.7317,A
+14,P-CAJ,Atención en caja,Reverso por cuenta errada,7343.0,228.6067,0.127,0.0279,0.7596,A
+15,P-PAG,Pagos y transferencias,Rechazo del sistema SPI,2156.0,225.5667,0.1253,0.0275,0.787,A
+16,P-PAG,Pagos y transferencias,Datos del beneficiario errados,2323.0,216.2667,0.1201,0.0264,0.8134,A
+17,P-OCR,Operaciones de crédito,Error en datos de la operación,756.0,215.9,0.1199,0.0263,0.8397,B
+18,P-CAJ,Atención en caja,Error de digitación,6581.0,212.15,0.1179,0.0259,0.8656,B
+19,P-CAJ,Atención en caja,Billete falso o en mal estado,6242.0,209.0483,0.1161,0.0255,0.891,B
+20,P-TAR,Tarjetas y reclamos,Error en registro del reclamo,849.0,209.0333,0.1161,0.0255,0.9165,B
+21,P-OCR,Operaciones de crédito,Expediente incompleto desde agencia,879.0,196.5333,0.1092,0.0239,0.9404,B
+22,P-PAG,Pagos y transferencias,Archivo de carga con formato inválido,1894.0,163.8,0.091,0.02,0.9604,B
+23,P-CCT,Atención telefónica y digital,Caso mal tipificado,1825.0,163.3667,0.0908,0.0199,0.9803,C
+24,P-CAM,Cámara de compensación y valores,Imagen de cheque ilegible,2734.0,42.8667,0.0238,0.0052,0.9855,C
+25,P-CAM,Cámara de compensación y valores,Error de cuadre,2031.0,40.9917,0.0228,0.005,0.9905,C
+26,P-GER,Dirección y gestión de gerencia,Información de entrada errónea,89.0,29.6667,0.0165,0.0036,0.9941,C
+27,P-GAG,Gestión y control de agencia,Error de registro,404.0,24.5917,0.0137,0.003,0.9971,C
+28,P-GAG,Gestión y control de agencia,Diferencia en arqueo,333.0,23.4333,0.013,0.0029,1.0,C
