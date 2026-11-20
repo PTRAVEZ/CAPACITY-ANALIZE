@@ -8,13 +8,13 @@ El alcance no incluye capacidad tecnológica, infraestructura, equipamiento, cos
 
 ## Estado actual
 
-El repositorio contiene documentación de diagnóstico y un kit sintético con una interfaz de demostración, funciones parciales de cálculo, un diccionario y pruebas aún no ejecutadas. El objetivo y alcance general están definidos; la definición funcional detallada sigue el LOOP v2 y está en el Bloque 1, Tema 1.1. Faltan datos sobre cómo se realiza hoy el proceso, el esfuerzo involucrado y sus fallas concretas.
+El repositorio contiene documentación de diagnóstico y un kit sintético con una interfaz de demostración, funciones parciales de cálculo, un diccionario y pruebas aún no ejecutadas. El objetivo y alcance general están definidos; la definición funcional detallada sigue el LOOP v2.1 y está en el Bloque 1, Tema 1.1. Faltan datos sobre cómo se realiza hoy el proceso, el esfuerzo involucrado y sus fallas concretas. El anexo v2.1 también describe un escenario ficticio y archivos que difieren del kit actual; están registrados como pendientes en `11`.
 
-No se deben iniciar nuevas funcionalidades de negocio ni fijar la arquitectura de producción hasta cerrar las definiciones necesarias del LOOP v2. La existencia de Streamlit y de fórmulas en el kit describe el prototipo entregado, no una selección tecnológica ni políticas aprobadas.
+No se deben iniciar nuevas funcionalidades de negocio ni fijar la arquitectura de producción hasta cerrar las definiciones necesarias del LOOP v2.1. La existencia de Streamlit y de fórmulas en el kit describe el prototipo entregado, no una selección tecnológica ni políticas aprobadas.
 
 ## Cómo continuar
 
-1. Usar [DOCUMENTACION/11_ACOPLAMIENTO_LOOPS.md](./DOCUMENTACION/11_ACOPLAMIENTO_LOOPS.md) como guía de precedencia, estado integrado y registro de definiciones.
+1. Usar [DOCUMENTACION/11_ACOPLAMIENTO_LOOPS.md](./DOCUMENTACION/11_ACOPLAMIENTO_LOOPS.md) como guía de precedencia, estado integrado y registro de definiciones; resolver `PEN-002` y `PEN-003` antes de usar los detalles del anexo como descripción del kit.
 2. Continuar el levantamiento desde Bloque 1, Tema 1.1, sin saltar al siguiente tema hasta validar el registro o indicar `CONTINUAR CON PENDIENTE`.
 3. Revisar [DOCUMENTACION/00_ESTADO_DEL_PROYECTO.md](./DOCUMENTACION/00_ESTADO_DEL_PROYECTO.md) para el tablero y [DOCUMENTACION/01_RECONSTRUCCION_HISTORICA.md](./DOCUMENTACION/01_RECONSTRUCCION_HISTORICA.md) y [DOCUMENTACION/02_AUDITORIA_TECNICA.md](./DOCUMENTACION/02_AUDITORIA_TECNICA.md) para las fuentes revisadas y los hallazgos.
 4. Tratar las definiciones, reglas, criterios y tecnologías del kit como propuestas hasta que el usuario las valide conforme al loop.

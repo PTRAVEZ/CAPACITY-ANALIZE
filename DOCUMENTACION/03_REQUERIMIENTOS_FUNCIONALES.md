@@ -1,6 +1,6 @@
 # 03. Requerimientos funcionales
 
-> **Actualización funcional (2026-11-20):** el LOOP v2 y las respuestas del usuario confirman el dominio y alcance de alto nivel: capacidad humana en un banco privado; los síntomas A, B y C coexisten; los datos aportados son sintéticos. El levantamiento sigue en Bloque 1, Tema 1.1: el método actual, el esfuerzo y las fallas/impactos todavía no están descritos. Los módulos, roles y flujos en `DATOS/CAPACITY-ANALIZE/docs/DEFINICION_FUNCIONAL.md` son propuestas iniciales, no requerimientos aprobados. Véase el registro integrado en `11`.
+> **Actualización funcional (2026-11-20):** el LOOP v2.1 y las respuestas del usuario confirman el dominio y alcance de alto nivel: capacidad humana en un banco privado; los síntomas A, B y C coexisten; los datos aportados son sintéticos. El levantamiento sigue en Bloque 1, Tema 1.1: el método actual, el esfuerzo y las fallas/impactos todavía no están descritos. Los módulos, roles y flujos en `DATOS/CAPACITY-ANALIZE/docs/DEFINICION_FUNCIONAL.md` son propuestas iniciales, no requerimientos aprobados. Véase el registro integrado en `11`.
 
 **Estado:** PENDIENTE DE DEFINICIÓN detallada
 **Base de evidencia:** el diagnóstico inicial precede al kit y al LOOP v2. Actualmente están confirmados el dominio y los síntomas de alto nivel; todavía no está definido el proceso concreto ni sus resultados.
